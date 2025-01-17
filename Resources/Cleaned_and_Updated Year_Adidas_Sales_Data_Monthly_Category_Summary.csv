@@ -1,0 +1,3031 @@
+Year-Month,Category,Subcategory,State,Units Sold,Total Sales,Total Operating Profit
+2020-01,Apparel,Men's,Nevada,1644,88085,51959.08000000001
+2020-01,Apparel,Men's,New York,4258,238277,78058.22
+2020-01,Apparel,Women's,Nevada,3307,186061,45515.12
+2020-01,Apparel,Women's,New York,4741,220858,61144.66
+2020-01,Apparel,Women's,Pennsylvania,441,30668,10022.1
+2020-01,Athletic Footwear,Men's,Nevada,2534,134721,40049.67
+2020-01,Athletic Footwear,Men's,New York,4555,212738,70190.85
+2020-01,Athletic Footwear,Men's,Pennsylvania,702,30123,8432.01
+2020-01,Athletic Footwear,Women's,Nevada,1871,96783,38033.09
+2020-01,Athletic Footwear,Women's,New York,3913,165346,62459.63
+2020-01,Athletic Footwear,Women's,Pennsylvania,477,20301,7850.1
+2020-01,Street Footwear,Men's,Nevada,3482,162990,72033.79000000001
+2020-01,Street Footwear,Men's,New York,7707,357210,187127.04
+2020-01,Street Footwear,Men's,Pennsylvania,730,23920,10082.76
+2020-01,Street Footwear,Women's,Nevada,2604,139991,62077.91
+2020-01,Street Footwear,Women's,New York,4660,174583,65677.75
+2020-01,Street Footwear,Women's,Pennsylvania,707,30087,13059.18
+2020-02,Apparel,Men's,Nevada,2679,171997,98897.50000000001
+2020-02,Apparel,Men's,New York,2721,154019,51218.59
+2020-02,Apparel,Women's,Nevada,3120,230462,54591.280000000006
+2020-02,Apparel,Women's,New York,1521,72149,19696.43
+2020-02,Athletic Footwear,Men's,Nevada,4765,296253,80269.41
+2020-02,Athletic Footwear,Men's,New York,2929,141800,45923.13
+2020-02,Athletic Footwear,Women's,Nevada,3349,191438,71369.98
+2020-02,Athletic Footwear,Women's,New York,2722,118500,44878.29
+2020-02,Street Footwear,Men's,Nevada,5302,304054,128956.90000000001
+2020-02,Street Footwear,Men's,New York,1903,106422,55929.6
+2020-02,Street Footwear,Women's,Nevada,3919,231697,98504.1
+2020-02,Street Footwear,Women's,New York,2916,122022,46612.979999999996
+2020-03,Apparel,Men's,Colorado,728,35099,18388.62
+2020-03,Apparel,Men's,Nevada,1718,110987,58307.070000000014
+2020-03,Apparel,Men's,New York,2874,162506,53602.46
+2020-03,Apparel,Women's,Colorado,1119,44028,7640.200000000001
+2020-03,Apparel,Women's,Nevada,2179,151928,26981.760000000002
+2020-03,Apparel,Women's,New York,5050,305412,85596.22
+2020-03,Athletic Footwear,Men's,Colorado,1048,46593,10493.04
+2020-03,Athletic Footwear,Men's,Nevada,2692,149639,34789.79
+2020-03,Athletic Footwear,Men's,New York,4912,253066,83018.94
+2020-03,Athletic Footwear,Women's,Colorado,737,34681,11389.8
+2020-03,Athletic Footwear,Women's,Nevada,1857,94677,31322.16
+2020-03,Athletic Footwear,Women's,New York,4361,204718,76642.4
+2020-03,Street Footwear,Men's,Colorado,1371,47392,17840.660000000003
+2020-03,Street Footwear,Men's,Nevada,2710,133741,50835.54000000001
+2020-03,Street Footwear,Men's,New York,5941,334657,174243.17
+2020-03,Street Footwear,Women's,Colorado,1064,49589,18885.49
+2020-03,Street Footwear,Women's,Nevada,2099,105626,40156.57000000001
+2020-03,Street Footwear,Women's,New York,4512,209860,79134.02
+2020-04,Apparel,Men's,Colorado,2150,150393,94520.87000000001
+2020-04,Apparel,Men's,Florida,1792,102185,38148.11
+2020-04,Apparel,Men's,New York,4316,249771,82017.27
+2020-04,Apparel,Women's,Colorado,2944,228546,63444.05
+2020-04,Apparel,Women's,Florida,2081,114649,60461.78
+2020-04,Apparel,Women's,New York,4970,308385,86429.95
+2020-04,Athletic Footwear,Men's,Colorado,3295,223985,74070.24
+2020-04,Athletic Footwear,Men's,Florida,2935,150835,57212.509999999995
+2020-04,Athletic Footwear,Men's,New York,3180,164124,54208.47
+2020-04,Athletic Footwear,Women's,Colorado,2531,161869,70181.26
+2020-04,Athletic Footwear,Women's,Florida,1714,76757,25219.15
+2020-04,Athletic Footwear,Women's,New York,2880,140418,52850.7
+2020-04,Street Footwear,Men's,Colorado,4124,257517,123386.61
+2020-04,Street Footwear,Men's,Florida,4016,211777,100646.41
+2020-04,Street Footwear,Men's,New York,3820,219300,115771.08
+2020-04,Street Footwear,Women's,Colorado,3115,207518,99297.47
+2020-04,Street Footwear,Women's,Florida,1866,78207,21586.47
+2020-04,Street Footwear,Women's,New York,2980,146844,55989.54
+2020-05,Apparel,Men's,Colorado,1915,138140,79686.20000000003
+2020-05,Apparel,Men's,Florida,977,62495,23570.05
+2020-05,Apparel,Men's,New York,2849,173843,57866.46
+2020-05,Apparel,Men's,Washington,323,17473,4889.47
+2020-05,Apparel,Women's,Colorado,2778,209130,48356.05
+2020-05,Apparel,Women's,Florida,1094,75266,39455.08
+2020-05,Apparel,Women's,New York,1560,102674,28263.440000000002
+2020-05,Apparel,Women's,Washington,625,30750,6782.5
+2020-05,Athletic Footwear,Men's,Colorado,3633,225486,61914.86
+2020-05,Athletic Footwear,Men's,Florida,1129,61079,22932.13
+2020-05,Athletic Footwear,Men's,New York,1610,83630,27591.5
+2020-05,Athletic Footwear,Women's,Colorado,2429,146437,53687.119999999995
+2020-05,Athletic Footwear,Women's,Florida,984,53911,17640.48
+2020-05,Athletic Footwear,Women's,New York,1431,74196,27932.4
+2020-05,Street Footwear,Men's,Colorado,3619,203534,84204.2
+2020-05,Street Footwear,Men's,Florida,1398,90224,42839.19
+2020-05,Street Footwear,Men's,New York,1932,117504,62669.76
+2020-05,Street Footwear,Women's,Colorado,2778,159095,63124.34
+2020-05,Street Footwear,Women's,Florida,1073,58271,16115.27
+2020-05,Street Footwear,Women's,New York,1568,81626,31115.199999999997
+2020-06,Apparel,Men's,Washington,1499,104088,29048.22
+2020-06,Apparel,Women's,Washington,2948,227367,51546.65
+2020-06,Athletic Footwear,Men's,Washington,2880,189717,52411.49
+2020-06,Athletic Footwear,Women's,Washington,2202,141375,45841.32
+2020-06,Street Footwear,Men's,Washington,3800,224950,73465.99
+2020-06,Street Footwear,Women's,Washington,2940,196694,54731.74
+2020-07,Apparel,Men's,Texas,1665,61350,20155.66
+2020-07,Apparel,Men's,Washington,2944,233346,64299.65
+2020-07,Apparel,Women's,New York,1630,106040,29298.0
+2020-07,Apparel,Women's,Texas,2254,74172,39554.9
+2020-07,Apparel,Women's,Washington,2965,248379,56413.98
+2020-07,Athletic Footwear,Men's,New York,1395,46170,17370.9
+2020-07,Athletic Footwear,Men's,Texas,1394,44812,16990.989999999998
+2020-07,Athletic Footwear,Men's,Washington,4092,302310,83131.78
+2020-07,Athletic Footwear,Women's,New York,1085,36120,17245.9
+2020-07,Athletic Footwear,Women's,Texas,1013,33363,16182.75
+2020-07,Athletic Footwear,Women's,Washington,2919,209042,68089.51
+2020-07,Street Footwear,Men's,New York,1404,33516,12620.519999999999
+2020-07,Street Footwear,Men's,Texas,2753,70985,27050.6
+2020-07,Street Footwear,Men's,Washington,5211,379720,122918.26
+2020-07,Street Footwear,Women's,New York,1148,37856,14268.939999999999
+2020-07,Street Footwear,Women's,Texas,1087,35629,13415.67
+2020-07,Street Footwear,Women's,Washington,3260,229578,62469.6
+2020-08,Apparel,Men's,Florida,2770,150575,56726.829999999994
+2020-08,Apparel,Men's,Texas,4732,198576,64599.51
+2020-08,Apparel,Men's,Washington,608,53656,14831.779999999999
+2020-08,Apparel,Women's,Florida,3168,140013,73903.89
+2020-08,Apparel,Women's,Texas,7062,294470,156237.21
+2020-08,Apparel,Women's,Washington,725,67525,15311.0
+2020-08,Athletic Footwear,Men's,Florida,1920,85335,32269.65
+2020-08,Athletic Footwear,Men's,Texas,8749,348550,131148.8
+2020-08,Athletic Footwear,Men's,Washington,2016,126076,39470.59
+2020-08,Athletic Footwear,Women's,Florida,1644,64722,20945.68
+2020-08,Athletic Footwear,Women's,Texas,5463,202740,97371.77
+2020-08,Athletic Footwear,Women's,Washington,1563,89138,28769.84
+2020-08,Street Footwear,Men's,Florida,2757,122355,58353.99
+2020-08,Street Footwear,Men's,Texas,7412,249492,94067.79
+2020-08,Street Footwear,Men's,Washington,1323,59262,27869.1
+2020-08,Street Footwear,Women's,Florida,2032,69749,19130.05
+2020-08,Street Footwear,Women's,Texas,6595,227752,86224.65
+2020-08,Street Footwear,Women's,Washington,1768,91644,25416.16
+2020-09,Apparel,Men's,Florida,3926,232834,88035.66
+2020-09,Apparel,Men's,Texas,2962,126015,41406.36
+2020-09,Apparel,Women's,Florida,4654,298498,157455.68
+2020-09,Apparel,Women's,Texas,3949,198195,105174.68000000001
+2020-09,Athletic Footwear,Men's,Florida,4422,240270,89074.75
+2020-09,Athletic Footwear,Men's,Texas,2582,107623,40194.119999999995
+2020-09,Athletic Footwear,Women's,Florida,3943,190495,61945.57
+2020-09,Athletic Footwear,Women's,Texas,3032,131693,62811.21
+2020-09,Street Footwear,Men's,Florida,5482,331977,158042.65
+2020-09,Street Footwear,Men's,Texas,2681,113174,43600.619999999995
+2020-09,Street Footwear,Women's,Florida,4079,206910,56612.86
+2020-09,Street Footwear,Women's,Texas,4413,190002,71554.53
+2020-10,Apparel,Men's,Florida,1834,114003,43389.0
+2020-10,Apparel,Men's,Minnesota,383,16979,5543.69
+2020-10,Apparel,Men's,Texas,2067,85878,28548.0
+2020-10,Apparel,Women's,Florida,2111,139914,73293.75
+2020-10,Apparel,Women's,Minnesota,605,20915,9861.55
+2020-10,Apparel,Women's,Texas,2853,147942,78660.02
+2020-10,Athletic Footwear,Men's,Florida,1339,61871,22751.48
+2020-10,Athletic Footwear,Men's,Minnesota,348,12872,4188.4
+2020-10,Athletic Footwear,Men's,Texas,3017,127047,48826.35
+2020-10,Athletic Footwear,Women's,Florida,1985,95592,31473.02
+2020-10,Athletic Footwear,Women's,Minnesota,95,2790,1041.3000000000002
+2020-10,Athletic Footwear,Women's,Texas,2200,102888,49329.22
+2020-10,Street Footwear,Men's,Florida,1800,92237,41707.97
+2020-10,Street Footwear,Men's,Minnesota,1196,44144,16561.0
+2020-10,Street Footwear,Men's,Texas,2925,122906,46502.52
+2020-10,Street Footwear,Women's,Florida,2210,101107,28448.75
+2020-10,Street Footwear,Women's,Minnesota,484,13187,4354.65
+2020-10,Street Footwear,Women's,Texas,2715,126295,47861.689999999995
+2020-11,Apparel,Men's,California,1714,87840,46505.49
+2020-11,Apparel,Men's,Minnesota,706,35472,11501.779999999999
+2020-11,Apparel,Women's,California,2333,108857,19546.99
+2020-11,Apparel,Women's,Minnesota,1555,79237,37537.0
+2020-11,Athletic Footwear,Men's,California,2280,116303,26107.97
+2020-11,Athletic Footwear,Men's,Minnesota,1308,56503,18380.37
+2020-11,Athletic Footwear,Men's,Texas,1217,56440,12579.18
+2020-11,Athletic Footwear,Women's,California,915,43210,14105.4
+2020-11,Athletic Footwear,Women's,Minnesota,548,20294,7660.3600000000015
+2020-11,Athletic Footwear,Women's,Texas,1019,47315,15494.4
+2020-11,Street Footwear,Men's,California,2689,112905,42839.520000000004
+2020-11,Street Footwear,Men's,Minnesota,2984,139956,52537.600000000006
+2020-11,Street Footwear,Men's,Texas,1248,46653,17418.65
+2020-11,Street Footwear,Women's,California,2281,118769,45537.21000000001
+2020-11,Street Footwear,Women's,Minnesota,1092,40620,13244.81
+2020-11,Street Footwear,Women's,Texas,1263,57675,21810.460000000003
+2020-12,Apparel,Men's,California,1650,100679,53645.76
+2020-12,Apparel,Men's,Minnesota,823,38772,12544.96
+2020-12,Apparel,Women's,California,2303,149191,26603.22
+2020-12,Apparel,Women's,Minnesota,1563,81020,38667.93
+2020-12,Athletic Footwear,Men's,California,1094,67477,15304.800000000001
+2020-12,Athletic Footwear,Men's,Minnesota,1788,74137,24245.79
+2020-12,Athletic Footwear,Women's,California,1979,112560,36753.479999999996
+2020-12,Athletic Footwear,Women's,Minnesota,1316,51520,20410.43
+2020-12,Street Footwear,Men's,California,2796,156100,62378.36
+2020-12,Street Footwear,Men's,Minnesota,2670,120444,47239.89000000001
+2020-12,Street Footwear,Women's,California,1189,72249,27770.510000000002
+2020-12,Street Footwear,Women's,Minnesota,1374,55045,21736.9
+2021-01,Apparel,Men's,Alaska,221,10866,1947.3
+2021-01,Apparel,Men's,Arizona,449,20452,6748.74
+2021-01,Apparel,Men's,Arkansas,446,14358,5546.88
+2021-01,Apparel,Men's,California,5429,340637,182347.01
+2021-01,Apparel,Men's,Connecticut,202,8573,2806.86
+2021-01,Apparel,Men's,Delaware,222,9802,3133.3
+2021-01,Apparel,Men's,Florida,908,45613,17222.93
+2021-01,Apparel,Men's,Georgia,1161,53778,20234.059999999998
+2021-01,Apparel,Men's,Hawaii,293,16047,3576.6000000000004
+2021-01,Apparel,Men's,Idaho,356,15151,5037.4
+2021-01,Apparel,Men's,Indiana,254,11213,4728.740000000001
+2021-01,Apparel,Men's,Iowa,195,7710,4060.2
+2021-01,Apparel,Men's,Kansas,219,10861,4054.7899999999995
+2021-01,Apparel,Men's,Kentucky,540,21370,8047.6
+2021-01,Apparel,Men's,Louisiana,521,19168,5252.4400000000005
+2021-01,Apparel,Men's,Maryland,284,14141,4589.22
+2021-01,Apparel,Men's,Massachusetts,363,18501,7055.07
+2021-01,Apparel,Men's,Michigan,423,16822,6422.78
+2021-01,Apparel,Men's,Mississippi,568,18678,7053.139999999999
+2021-01,Apparel,Men's,Missouri,473,16359,6113.73
+2021-01,Apparel,Men's,Montana,1813,84996,53322.69000000001
+2021-01,Apparel,Men's,New Hampshire,318,19440,5344.8
+2021-01,Apparel,Men's,New Jersey,260,12940,4205.4
+2021-01,Apparel,Men's,New Mexico,388,16458,6149.849999999999
+2021-01,Apparel,Men's,New York,645,32105,10697.25
+2021-01,Apparel,Men's,North Carolina,603,27007,10297.25
+2021-01,Apparel,Men's,North Dakota,192,7596,4005.48
+2021-01,Apparel,Men's,Ohio,252,12391,4623.889999999999
+2021-01,Apparel,Men's,Oklahoma,403,13359,5102.34
+2021-01,Apparel,Men's,Oregon,326,14912,7218.56
+2021-01,Apparel,Men's,Rhode Island,238,11301,3229.08
+2021-01,Apparel,Men's,South Carolina,781,34677,12857.67
+2021-01,Apparel,Men's,South Dakota,224,9981,3788.33
+2021-01,Apparel,Men's,Utah,247,10453,4569.7
+2021-01,Apparel,Men's,Vermont,355,19986,6553.82
+2021-01,Apparel,Men's,Virginia,712,29696,12717.919999999998
+2021-01,Apparel,Men's,West Virginia,158,7011,2283.48
+2021-01,Apparel,Men's,Wisconsin,258,11377,3746.0199999999995
+2021-01,Apparel,Men's,Wyoming,195,8640,3663.9
+2021-01,Apparel,Women's,Alaska,932,45159,17180.52
+2021-01,Apparel,Women's,Arizona,769,32727,8892.630000000001
+2021-01,Apparel,Women's,Arkansas,600,13930,5962.36
+2021-01,Apparel,Women's,California,6227,451161,86680.14
+2021-01,Apparel,Women's,Connecticut,360,11826,5152.5
+2021-01,Apparel,Women's,Delaware,344,11902,5102.35
+2021-01,Apparel,Women's,Florida,1047,44729,23912.85
+2021-01,Apparel,Women's,Georgia,1345,50273,26273.7
+2021-01,Apparel,Women's,Hawaii,599,29826,14272.34
+2021-01,Apparel,Women's,Idaho,676,24776,6669.2
+2021-01,Apparel,Women's,Indiana,375,13050,5475.0
+2021-01,Apparel,Women's,Iowa,323,9544,4124.2
+2021-01,Apparel,Women's,Kansas,347,13664,5865.2
+2021-01,Apparel,Women's,Kentucky,683,20332,10715.84
+2021-01,Apparel,Women's,Louisiana,765,24868,12088.95
+2021-01,Apparel,Women's,Maryland,406,15916,6687.16
+2021-01,Apparel,Women's,Massachusetts,527,22473,9569.599999999999
+2021-01,Apparel,Women's,Michigan,548,16317,8622.21
+2021-01,Apparel,Women's,Mississippi,730,16900,7182.04
+2021-01,Apparel,Women's,Missouri,613,15187,8057.18
+2021-01,Apparel,Women's,Montana,2653,132682,36879.92
+2021-01,Apparel,Women's,New Hampshire,483,25017,8223.0
+2021-01,Apparel,Women's,New Jersey,381,14997,5698.5
+2021-01,Apparel,Women's,New Mexico,707,26132,7397.08
+2021-01,Apparel,Women's,New York,756,29928,8371.2
+2021-01,Apparel,Women's,North Carolina,748,25661,13660.9
+2021-01,Apparel,Women's,North Dakota,325,9600,4092.0
+2021-01,Apparel,Women's,Ohio,381,14997,6418.38
+2021-01,Apparel,Women's,Oklahoma,571,13119,4984.01
+2021-01,Apparel,Women's,Oregon,712,30012,11392.46
+2021-01,Apparel,Women's,Rhode Island,403,14818,4824.32
+2021-01,Apparel,Women's,South Carolina,921,32039,16952.46
+2021-01,Apparel,Women's,South Dakota,347,12001,5061.76
+2021-01,Apparel,Women's,Utah,640,23908,7867.8
+2021-01,Apparel,Women's,Vermont,514,24097,9041.9
+2021-01,Apparel,Women's,Virginia,881,28629,16482.72
+2021-01,Apparel,Women's,West Virginia,284,9822,3141.3
+2021-01,Apparel,Women's,Wisconsin,384,13188,5544.0
+2021-01,Apparel,Women's,Wyoming,516,20408,6783.6
+2021-01,Athletic Footwear,Men's,Alaska,484,21562,4921.71
+2021-01,Athletic Footwear,Men's,Arizona,760,31581,13694.58
+2021-01,Athletic Footwear,Men's,Arkansas,608,14332,5355.66
+2021-01,Athletic Footwear,Men's,California,8236,495112,112106.45
+2021-01,Athletic Footwear,Men's,Connecticut,367,12229,4604.95
+2021-01,Athletic Footwear,Men's,Delaware,352,12166,4563.02
+2021-01,Athletic Footwear,Men's,Florida,1060,45522,17328.42
+2021-01,Athletic Footwear,Men's,Georgia,1287,48302,18051.899999999998
+2021-01,Athletic Footwear,Men's,Hawaii,548,27154,7378.9
+2021-01,Athletic Footwear,Men's,Idaho,671,25122,10606.220000000001
+2021-01,Athletic Footwear,Men's,Indiana,375,12900,5520.0
+2021-01,Athletic Footwear,Men's,Iowa,320,9530,3558.8
+2021-01,Athletic Footwear,Men's,Kansas,355,13960,4484.0
+2021-01,Athletic Footwear,Men's,Kentucky,667,19868,7365.6
+2021-01,Athletic Footwear,Men's,Louisiana,1080,29918,10049.4
+2021-01,Athletic Footwear,Men's,Maine,484,21344,4849.77
+2021-01,Athletic Footwear,Men's,Maryland,406,16078,6089.0
+2021-01,Athletic Footwear,Men's,Massachusetts,526,22425,10837.529999999999
+2021-01,Athletic Footwear,Men's,Michigan,548,16317,6138.99
+2021-01,Athletic Footwear,Men's,Mississippi,716,16955,6383.249999999999
+2021-01,Athletic Footwear,Men's,Missouri,608,14934,5593.98
+2021-01,Athletic Footwear,Men's,Montana,2767,122619,40018.28
+2021-01,Athletic Footwear,Men's,New Hampshire,477,24048,9088.2
+2021-01,Athletic Footwear,Men's,New Jersey,387,15219,6473.88
+2021-01,Athletic Footwear,Men's,New Mexico,725,27045,11661.75
+2021-01,Athletic Footwear,Men's,New York,756,30084,9937.8
+2021-01,Athletic Footwear,Men's,North Carolina,725,25075,9518.75
+2021-01,Athletic Footwear,Men's,North Dakota,320,9530,3558.8
+2021-01,Athletic Footwear,Men's,Ohio,378,14964,5593.08
+2021-01,Athletic Footwear,Men's,Oklahoma,546,12523,4726.47
+2021-01,Athletic Footwear,Men's,Oregon,624,26044,11159.359999999999
+2021-01,Athletic Footwear,Men's,Rhode Island,406,15048,4974.72
+2021-01,Athletic Footwear,Men's,South Carolina,906,31529,11958.25
+2021-01,Athletic Footwear,Men's,South Dakota,349,11993,3929.42
+2021-01,Athletic Footwear,Men's,Utah,578,21662,8333.35
+2021-01,Athletic Footwear,Men's,Vermont,527,24674,10531.82
+2021-01,Athletic Footwear,Men's,Virginia,891,29722,12831.279999999999
+2021-01,Athletic Footwear,Men's,West Virginia,293,10187,3842.89
+2021-01,Athletic Footwear,Men's,Wisconsin,378,12996,5472.96
+2021-01,Athletic Footwear,Men's,Wyoming,455,17780,6638.8
+2021-01,Athletic Footwear,Women's,Alaska,281,12533,3374.05
+2021-01,Athletic Footwear,Women's,Arizona,511,21310,8061.1
+2021-01,Athletic Footwear,Women's,Arkansas,364,6632,2857.16
+2021-01,Athletic Footwear,Women's,California,5752,322563,108747.60999999999
+2021-01,Athletic Footwear,Women's,Connecticut,119,3406,1472.3600000000001
+2021-01,Athletic Footwear,Women's,Delaware,163,4776,2013.0
+2021-01,Athletic Footwear,Women's,Florida,815,30465,10086.65
+2021-01,Athletic Footwear,Women's,Georgia,1087,35752,11953.13
+2021-01,Athletic Footwear,Women's,Hawaii,352,17369,5753.549999999999
+2021-01,Athletic Footwear,Women's,Idaho,440,16566,6172.759999999999
+2021-01,Athletic Footwear,Women's,Indiana,195,5805,2504.7
+2021-01,Athletic Footwear,Women's,Iowa,129,3167,1050.15
+2021-01,Athletic Footwear,Women's,Kansas,161,5599,1802.1
+2021-01,Athletic Footwear,Women's,Kentucky,476,11698,4981.1900000000005
+2021-01,Athletic Footwear,Women's,Louisiana,774,25330,10788.89
+2021-01,Athletic Footwear,Women's,Maine,284,12662,3520.6800000000003
+2021-01,Athletic Footwear,Women's,Maryland,222,7629,3277.2
+2021-01,Athletic Footwear,Women's,Massachusetts,272,10253,3890.27
+2021-01,Athletic Footwear,Women's,Michigan,352,8723,3710.96
+2021-01,Athletic Footwear,Women's,Mississippi,480,8808,3808.6800000000003
+2021-01,Athletic Footwear,Women's,Missouri,413,8084,3423.6800000000003
+2021-01,Athletic Footwear,Women's,Montana,2119,87873,37443.479999999996
+2021-01,Athletic Footwear,Women's,New Hampshire,240,11093,3053.06
+2021-01,Athletic Footwear,Women's,New Jersey,192,6636,2184.84
+2021-01,Athletic Footwear,Women's,New Mexico,474,17697,7426.74
+2021-01,Athletic Footwear,Women's,New York,581,20204,7605.879999999999
+2021-01,Athletic Footwear,Women's,North Carolina,548,16317,6954.84
+2021-01,Athletic Footwear,Women's,North Dakota,126,3124,1030.8
+2021-01,Athletic Footwear,Women's,Ohio,192,6678,2814.0
+2021-01,Athletic Footwear,Women's,Oklahoma,326,6184,2369.36
+2021-01,Athletic Footwear,Women's,Oregon,396,16690,7253.32
+2021-01,Athletic Footwear,Women's,Rhode Island,159,5209,1466.67
+2021-01,Athletic Footwear,Women's,South Carolina,748,22267,9659.35
+2021-01,Athletic Footwear,Women's,South Dakota,158,4674,1540.8
+2021-01,Athletic Footwear,Women's,Utah,326,12302,4615.72
+2021-01,Athletic Footwear,Women's,Vermont,281,12012,3844.6
+2021-01,Athletic Footwear,Women's,Virginia,652,18219,7081.17
+2021-01,Athletic Footwear,Women's,West Virginia,95,2810,1067.5
+2021-01,Athletic Footwear,Women's,Wisconsin,194,5732,2166.36
+2021-01,Athletic Footwear,Women's,Wyoming,254,10052,3764.44
+2021-01,Street Footwear,Men's,Alaska,484,16722,4648.110000000001
+2021-01,Street Footwear,Men's,Arizona,760,25117,9651.65
+2021-01,Street Footwear,Men's,Arkansas,920,21409,9296.460000000001
+2021-01,Street Footwear,Men's,California,7632,417741,153960.22
+2021-01,Street Footwear,Men's,Connecticut,689,22212,8444.19
+2021-01,Street Footwear,Men's,Delaware,613,21041,8026.75
+2021-01,Street Footwear,Men's,Florida,1377,56865,27124.350000000002
+2021-01,Street Footwear,Men's,Georgia,1630,60058,28505.5
+2021-01,Street Footwear,Men's,Hawaii,540,21370,6979.1
+2021-01,Street Footwear,Men's,Idaho,680,19328,7369.83
+2021-01,Street Footwear,Men's,Indiana,625,21500,9080.0
+2021-01,Street Footwear,Men's,Iowa,576,17028,5637.6
+2021-01,Street Footwear,Men's,Kansas,613,24244,9219.56
+2021-01,Street Footwear,Men's,Kentucky,914,27231,11659.74
+2021-01,Street Footwear,Men's,Louisiana,1080,20080,6598.42
+2021-01,Street Footwear,Men's,Maine,473,16359,4413.15
+2021-01,Street Footwear,Men's,Maryland,662,25932,9569.399999999998
+2021-01,Street Footwear,Men's,Massachusetts,856,36578,17567.45
+2021-01,Street Footwear,Men's,Michigan,781,22962,9606.0
+2021-01,Street Footwear,Men's,Mississippi,1041,24129,10262.44
+2021-01,Street Footwear,Men's,Missouri,871,21383,9229.4
+2021-01,Street Footwear,Men's,Montana,3736,144301,68679.21
+2021-01,Street Footwear,Men's,New Hampshire,810,40980,15291.200000000003
+2021-01,Street Footwear,Men's,New Jersey,625,24750,10422.5
+2021-01,Street Footwear,Men's,New Mexico,730,20874,8982.050000000001
+2021-01,Street Footwear,Men's,New York,1016,40424,21307.12
+2021-01,Street Footwear,Men's,North Carolina,969,33333,14078.16
+2021-01,Street Footwear,Men's,North Dakota,563,16551,5422.95
+2021-01,Street Footwear,Men's,Ohio,635,24995,10697.3
+2021-01,Street Footwear,Men's,Oklahoma,875,20169,7628.6900000000005
+2021-01,Street Footwear,Men's,Oregon,620,20660,8694.199999999999
+2021-01,Street Footwear,Men's,Rhode Island,716,26708,8752.44
+2021-01,Street Footwear,Men's,South Carolina,1156,39998,16761.5
+2021-01,Street Footwear,Men's,South Dakota,603,20849,7719.549999999999
+2021-01,Street Footwear,Men's,Utah,557,15762,5912.999999999999
+2021-01,Street Footwear,Men's,Vermont,829,38551,16559.71
+2021-01,Street Footwear,Men's,Virginia,1186,38511,20121.9
+2021-01,Street Footwear,Men's,West Virginia,531,18373,7699.0
+2021-01,Street Footwear,Men's,Wisconsin,640,21980,9329.6
+2021-01,Street Footwear,Men's,Wyoming,441,13139,4888.94
+2021-01,Street Footwear,Women's,Alaska,488,21508,5886.63
+2021-01,Street Footwear,Women's,Arizona,770,32195,12106.769999999999
+2021-01,Street Footwear,Women's,Arkansas,604,8405,3621.8
+2021-01,Street Footwear,Women's,California,6338,372581,144964.91
+2021-01,Street Footwear,Women's,Connecticut,360,8505,3656.16
+2021-01,Street Footwear,Women's,Delaware,347,8603,3631.2799999999997
+2021-01,Street Footwear,Women's,Florida,1021,33410,9265.619999999999
+2021-01,Street Footwear,Women's,Georgia,1337,38278,11019.9
+2021-01,Street Footwear,Women's,Hawaii,548,26785,8644.35
+2021-01,Street Footwear,Women's,Idaho,676,25417,9624.83
+2021-01,Street Footwear,Women's,Indiana,387,9675,4196.25
+2021-01,Street Footwear,Women's,Iowa,315,6170,1979.7
+2021-01,Street Footwear,Women's,Kansas,358,10491,3461.04
+2021-01,Street Footwear,Women's,Kentucky,683,13344,5764.2
+2021-01,Street Footwear,Women's,Louisiana,756,20984,6866.54
+2021-01,Street Footwear,Women's,Maine,476,21218,5955.95
+2021-01,Street Footwear,Women's,Maryland,416,12389,5298.67
+2021-01,Street Footwear,Women's,Massachusetts,517,17014,6382.449999999999
+2021-01,Street Footwear,Women's,Michigan,548,10837,4026.6499999999996
+2021-01,Street Footwear,Women's,Mississippi,707,9928,4212.98
+2021-01,Street Footwear,Women's,Missouri,618,9127,3434.69
+2021-01,Street Footwear,Women's,Montana,2896,129296,61464.24
+2021-01,Street Footwear,Women's,New Hampshire,489,20925,5696.55
+2021-01,Street Footwear,Women's,New Jersey,390,11520,3708.0
+2021-01,Street Footwear,Women's,New Mexico,716,27268,10336.2
+2021-01,Street Footwear,Women's,New York,768,22872,8638.56
+2021-01,Street Footwear,Women's,North Carolina,742,18383,7914.32
+2021-01,Street Footwear,Women's,North Dakota,318,6292,2081.4
+2021-01,Street Footwear,Women's,Ohio,375,11100,4692.0
+2021-01,Street Footwear,Women's,Oklahoma,554,7874,2985.66
+2021-01,Street Footwear,Women's,Oregon,640,27040,11616.96
+2021-01,Street Footwear,Women's,Rhode Island,398,11121,3063.06
+2021-01,Street Footwear,Women's,South Carolina,914,22661,9699.44
+2021-01,Street Footwear,Women's,South Dakota,349,8725,2802.5
+2021-01,Street Footwear,Women's,Utah,560,21350,8135.049999999999
+2021-01,Street Footwear,Women's,Vermont,507,18906,6303.18
+2021-01,Street Footwear,Women's,Virginia,875,20345,6509.56
+2021-01,Street Footwear,Women's,West Virginia,288,7137,2664.2699999999995
+2021-01,Street Footwear,Women's,Wisconsin,387,9588,3564.6
+2021-01,Street Footwear,Women's,Wyoming,441,17549,6497.05
+2021-02,Apparel,Men's,Alaska,325,20750,5772.5
+2021-02,Apparel,Men's,Arizona,245,10434,3517.44
+2021-02,Apparel,Men's,Arkansas,534,17260,6425.259999999999
+2021-02,Apparel,Men's,California,3214,194545,92913.23000000001
+2021-02,Apparel,Men's,Connecticut,326,15514,5245.98
+2021-02,Apparel,Men's,Delaware,290,14175,4574.25
+2021-02,Apparel,Men's,Florida,322,16848,3853.12
+2021-02,Apparel,Men's,Georgia,286,12006,4555.53
+2021-02,Apparel,Men's,Hawaii,188,9286,1660.8
+2021-02,Apparel,Men's,Idaho,408,15458,4273.9
+2021-02,Apparel,Men's,Indiana,258,11377,3746.0199999999995
+2021-02,Apparel,Men's,Iowa,188,7444,3938.6
+2021-02,Apparel,Men's,Kansas,293,10051,3800.73
+2021-02,Apparel,Men's,Kentucky,254,12591,4717.889999999999
+2021-02,Apparel,Men's,Louisiana,279,12947,6228.33
+2021-02,Apparel,Men's,Maryland,156,6896,2259.45
+2021-02,Apparel,Men's,Massachusetts,244,11376,3138.0
+2021-02,Apparel,Men's,Michigan,576,25416,10941.3
+2021-02,Apparel,Men's,Mississippi,644,23748,8916.56
+2021-02,Apparel,Men's,Missouri,413,16344,6054.8
+2021-02,Apparel,Men's,Montana,2078,107009,66721.20000000001
+2021-02,Apparel,Men's,New Hampshire,454,25084,8247.52
+2021-02,Apparel,Men's,New Jersey,222,9802,3133.3
+2021-02,Apparel,Men's,New Mexico,316,14538,4743.76
+2021-02,Apparel,Men's,New York,704,37950,14129.5
+2021-02,Apparel,Men's,North Carolina,780,34920,13410.0
+2021-02,Apparel,Men's,North Dakota,226,10016,3805.4799999999996
+2021-02,Apparel,Men's,Ohio,572,25252,9388.42
+2021-02,Apparel,Men's,Oklahoma,410,13340,5077.0
+2021-02,Apparel,Men's,Oregon,206,8597,3685.36
+2021-02,Apparel,Men's,Rhode Island,200,8420,2765.45
+2021-02,Apparel,Men's,South Carolina,889,44261,16602.67
+2021-02,Apparel,Men's,South Dakota,221,10957,4055.7499999999995
+2021-02,Apparel,Men's,Utah,596,19717,7459.35
+2021-02,Apparel,Men's,Vermont,356,18225,6986.97
+2021-02,Apparel,Men's,Virginia,202,8352,3636.75
+2021-02,Apparel,Men's,West Virginia,315,15619,6653.200000000001
+2021-02,Apparel,Men's,Wisconsin,188,7444,3880.84
+2021-02,Apparel,Men's,Wyoming,645,31815,10294.15
+2021-02,Apparel,Women's,Alaska,452,24554,8108.76
+2021-02,Apparel,Women's,Arizona,554,20940,5674.76
+2021-02,Apparel,Women's,Arkansas,685,13005,5554.3
+2021-02,Apparel,Women's,California,3617,236508,30375.34
+2021-02,Apparel,Women's,Connecticut,480,18348,6872.28
+2021-02,Apparel,Women's,Delaware,423,16822,7225.66
+2021-02,Apparel,Women's,Florida,632,29168,14031.0
+2021-02,Apparel,Women's,Georgia,604,22294,6119.08
+2021-02,Apparel,Women's,Hawaii,452,20238,8768.4
+2021-02,Apparel,Women's,Idaho,716,23714,11362.4
+2021-02,Apparel,Women's,Indiana,375,7424,3126.35
+2021-02,Apparel,Women's,Iowa,318,4701,2013.6800000000003
+2021-02,Apparel,Women's,Kansas,423,8264,3139.36
+2021-02,Apparel,Women's,Kentucky,378,15042,6351.42
+2021-02,Apparel,Women's,Louisiana,611,25687,9674.89
+2021-02,Apparel,Women's,Maryland,288,10017,3283.56
+2021-02,Apparel,Women's,Massachusetts,405,15250,5022.0
+2021-02,Apparel,Women's,Michigan,688,23804,13638.68
+2021-02,Apparel,Women's,Mississippi,785,18700,9874.0
+2021-02,Apparel,Women's,Missouri,520,15360,8116.8
+2021-02,Apparel,Women's,Montana,2960,175778,48453.42
+2021-02,Apparel,Women's,New Hampshire,597,27722,10511.94
+2021-02,Apparel,Women's,New Jersey,349,11993,5105.04
+2021-02,Apparel,Women's,New Mexico,644,27164,7492.32
+2021-02,Apparel,Women's,New York,832,36894,19517.16
+2021-02,Apparel,Women's,North Carolina,903,26887,14032.2
+2021-02,Apparel,Women's,North Dakota,344,8461,3558.9700000000003
+2021-02,Apparel,Women's,Ohio,693,20647,10779.67
+2021-02,Apparel,Women's,Oklahoma,560,10332,4420.92
+2021-02,Apparel,Women's,Oregon,508,18889,6118.4
+2021-02,Apparel,Women's,Rhode Island,367,12099,5263.9800000000005
+2021-02,Apparel,Women's,South Carolina,1016,35344,18773.6
+2021-02,Apparel,Women's,South Dakota,355,12185,5258.0
+2021-02,Apparel,Women's,Utah,730,17076,9049.380000000001
+2021-02,Apparel,Women's,Vermont,517,22025,9583.849999999999
+2021-02,Apparel,Women's,Virginia,513,19288,6379.139999999999
+2021-02,Apparel,Women's,West Virginia,455,11269,4860.400000000001
+2021-02,Apparel,Women's,Wisconsin,315,4659,1963.7000000000003
+2021-02,Apparel,Women's,Wyoming,774,30612,8578.68
+2021-02,Athletic Footwear,Men's,Alaska,763,36811,10676.970000000001
+2021-02,Athletic Footwear,Men's,Arizona,667,28685,12516.32
+2021-02,Athletic Footwear,Men's,Arkansas,438,10126,3802.94
+2021-02,Athletic Footwear,Men's,California,4117,217246,43489.46
+2021-02,Athletic Footwear,Men's,Connecticut,202,6583,2490.29
+2021-02,Athletic Footwear,Men's,Delaware,228,7821,2991.75
+2021-02,Athletic Footwear,Men's,Florida,853,35661,13599.69
+2021-02,Athletic Footwear,Men's,Georgia,1190,44171,16595.14
+2021-02,Athletic Footwear,Men's,Hawaii,536,26689,7216.15
+2021-02,Athletic Footwear,Men's,Idaho,616,22878,9859.880000000001
+2021-02,Athletic Footwear,Men's,Indiana,250,9900,4245.0
+2021-02,Athletic Footwear,Men's,Iowa,189,5631,2129.19
+2021-02,Athletic Footwear,Men's,Kansas,222,8833,2906.52
+2021-02,Athletic Footwear,Men's,Kentucky,531,15612,5836.26
+2021-02,Athletic Footwear,Men's,Louisiana,954,31608,10301.76
+2021-02,Athletic Footwear,Men's,Maryland,286,11257,4188.22
+2021-02,Athletic Footwear,Men's,Massachusetts,358,15185,7283.37
+2021-02,Athletic Footwear,Men's,Michigan,419,12382,4702.18
+2021-02,Athletic Footwear,Men's,Mississippi,567,13174,4939.0599999999995
+2021-02,Athletic Footwear,Men's,Missouri,476,11799,4420.53
+2021-02,Athletic Footwear,Men's,Montana,3783,183892,60185.619999999995
+2021-02,Athletic Footwear,Men's,New Hampshire,354,18442,7004.47
+2021-02,Athletic Footwear,Men's,New Jersey,254,9998,4199.0
+2021-02,Athletic Footwear,Men's,New Mexico,636,23492,10219.28
+2021-02,Athletic Footwear,Men's,New York,645,25365,8199.65
+2021-02,Athletic Footwear,Men's,North Carolina,618,21344,8178.25
+2021-02,Athletic Footwear,Men's,North Dakota,195,5760,2154.6
+2021-02,Athletic Footwear,Men's,Ohio,258,10204,3813.84
+2021-02,Athletic Footwear,Men's,Oklahoma,390,9020,3457.75
+2021-02,Athletic Footwear,Men's,Oregon,640,26600,11278.48
+2021-02,Athletic Footwear,Men's,Rhode Island,244,9201,3029.41
+2021-02,Athletic Footwear,Men's,South Carolina,813,28267,10724.41
+2021-02,Athletic Footwear,Men's,South Dakota,226,7859,2583.12
+2021-02,Athletic Footwear,Men's,Utah,564,21116,8101.66
+2021-02,Athletic Footwear,Men's,Vermont,410,19020,8073.6
+2021-02,Athletic Footwear,Men's,Virginia,720,23742,10166.669999999998
+2021-02,Athletic Footwear,Men's,West Virginia,163,5667,2125.5699999999997
+2021-02,Athletic Footwear,Men's,Wisconsin,252,8768,3701.6800000000003
+2021-02,Athletic Footwear,Men's,Wyoming,455,17780,6601.0
+2021-02,Athletic Footwear,Women's,Alaska,221,11003,3066.31
+2021-02,Athletic Footwear,Women's,Arizona,356,13162,5041.68
+2021-02,Athletic Footwear,Women's,Arkansas,398,7430,3179.9
+2021-02,Athletic Footwear,Women's,California,3461,177603,50107.939999999995
+2021-02,Athletic Footwear,Women's,Connecticut,198,6399,2100.1
+2021-02,Athletic Footwear,Women's,Delaware,195,6735,2916.75
+2021-02,Athletic Footwear,Women's,Florida,443,20464,6842.28
+2021-02,Athletic Footwear,Women's,Georgia,393,14668,6235.360000000001
+2021-02,Athletic Footwear,Women's,Hawaii,281,12421,3426.69
+2021-02,Athletic Footwear,Women's,Idaho,600,19745,8448.960000000001
+2021-02,Athletic Footwear,Women's,Indiana,161,4794,1803.1799999999998
+2021-02,Athletic Footwear,Women's,Iowa,98,2450,815.5
+2021-02,Athletic Footwear,Women's,Kansas,192,3840,1428.0
+2021-02,Athletic Footwear,Women's,Kentucky,159,5531,2374.24
+2021-02,Athletic Footwear,Women's,Louisiana,398,16937,7429.849999999999
+2021-02,Athletic Footwear,Women's,Maryland,64,1892,721.0
+2021-02,Athletic Footwear,Women's,Massachusetts,393,12951,3662.38
+2021-02,Athletic Footwear,Women's,Michigan,484,14301,5432.629999999999
+2021-02,Athletic Footwear,Women's,Mississippi,514,12262,5244.02
+2021-02,Athletic Footwear,Women's,Missouri,320,7930,3373.6
+2021-02,Athletic Footwear,Women's,Montana,2090,89790,38321.079999999994
+2021-02,Athletic Footwear,Women's,New Hampshire,326,13543,4463.9
+2021-02,Athletic Footwear,Women's,New Jersey,130,3870,1661.1
+2021-02,Athletic Footwear,Women's,New Mexico,440,18196,6866.86
+2021-02,Athletic Footwear,Women's,New York,608,23921,7766.82
+2021-02,Athletic Footwear,Women's,North Carolina,667,19868,8359.0
+2021-02,Athletic Footwear,Women's,North Dakota,130,3870,1291.5
+2021-02,Athletic Footwear,Women's,Ohio,476,14179,5964.5
+2021-02,Athletic Footwear,Women's,Oklahoma,282,5301,2275.01
+2021-02,Athletic Footwear,Women's,Oregon,322,12118,4646.72
+2021-02,Athletic Footwear,Women's,Rhode Island,79,2197,947.58
+2021-02,Athletic Footwear,Women's,South Carolina,794,27452,9072.15
+2021-02,Athletic Footwear,Women's,South Dakota,125,4325,1413.0
+2021-02,Athletic Footwear,Women's,Utah,480,9141,3851.46
+2021-02,Athletic Footwear,Women's,Vermont,243,9060,3392.4
+2021-02,Athletic Footwear,Women's,Virginia,322,11996,4636.72
+2021-02,Athletic Footwear,Women's,West Virginia,224,7791,3332.98
+2021-02,Athletic Footwear,Women's,Wisconsin,95,2335,760.3
+2021-02,Athletic Footwear,Women's,Wyoming,548,18811,7095.53
+2021-02,Street Footwear,Men's,Alaska,1366,61792,21070.65
+2021-02,Street Footwear,Men's,Arizona,845,27896,10676.289999999999
+2021-02,Street Footwear,Men's,Arkansas,1000,23389,9990.64
+2021-02,Street Footwear,Men's,California,4118,190326,65977.27
+2021-02,Street Footwear,Men's,Connecticut,756,24559,9356.49
+2021-02,Street Footwear,Men's,Delaware,672,23373,8830.29
+2021-02,Street Footwear,Men's,Florida,1422,61164,28760.760000000002
+2021-02,Street Footwear,Men's,Georgia,1763,66512,31939.920000000002
+2021-02,Street Footwear,Men's,Hawaii,662,25932,8371.44
+2021-02,Street Footwear,Men's,Idaho,780,21798,8319.39
+2021-02,Street Footwear,Men's,Indiana,699,24167,10355.18
+2021-02,Street Footwear,Men's,Iowa,640,19060,6164.6
+2021-02,Street Footwear,Men's,Kansas,683,26846,10273.0
+2021-02,Street Footwear,Men's,Kentucky,1000,29550,12576.0
+2021-02,Street Footwear,Men's,Louisiana,988,22974,7339.1
+2021-02,Street Footwear,Men's,Maryland,719,28616,10858.0
+2021-02,Street Footwear,Men's,Massachusetts,926,38794,18331.91
+2021-02,Street Footwear,Men's,Michigan,857,25528,10897.34
+2021-02,Street Footwear,Men's,Mississippi,1099,25606,10919.86
+2021-02,Street Footwear,Men's,Missouri,943,23575,10138.5
+2021-02,Street Footwear,Men's,Montana,4063,171928,82149.76000000001
+2021-02,Street Footwear,Men's,New Hampshire,932,48165,17908.230000000003
+2021-02,Street Footwear,Men's,New Jersey,699,27811,11705.5
+2021-02,Street Footwear,Men's,New Mexico,795,22654,9711.75
+2021-02,Street Footwear,Men's,New York,1088,42806,22371.66
+2021-02,Street Footwear,Men's,North Carolina,1056,36267,15246.0
+2021-02,Street Footwear,Men's,North Dakota,645,19060,6286.4
+2021-02,Street Footwear,Men's,Ohio,688,27244,11579.32
+2021-02,Street Footwear,Men's,Oklahoma,966,22398,8470.02
+2021-02,Street Footwear,Men's,Oregon,815,26320,11338.599999999999
+2021-02,Street Footwear,Men's,Rhode Island,795,29070,9557.5
+2021-02,Street Footwear,Men's,South Carolina,1238,43067,18121.0
+2021-02,Street Footwear,Men's,South Dakota,677,23543,8756.85
+2021-02,Street Footwear,Men's,Utah,720,20259,7631.91
+2021-02,Street Footwear,Men's,Vermont,966,45144,19457.16
+2021-02,Street Footwear,Men's,Virginia,1256,41456,21944.8
+2021-02,Street Footwear,Men's,West Virginia,613,21041,8990.48
+2021-02,Street Footwear,Men's,Wisconsin,710,24690,10692.0
+2021-02,Street Footwear,Men's,Wyoming,563,16551,6128.46
+2021-02,Street Footwear,Women's,Alaska,821,36697,10026.53
+2021-02,Street Footwear,Women's,Arizona,668,28296,10635.21
+2021-02,Street Footwear,Women's,Arkansas,514,7416,3185.2200000000003
+2021-02,Street Footwear,Women's,California,3538,182680,59155.32000000001
+2021-02,Street Footwear,Women's,Connecticut,277,6505,2748.2200000000003
+2021-02,Street Footwear,Women's,Delaware,288,7137,3021.12
+2021-02,Street Footwear,Women's,Florida,978,31434,8875.98
+2021-02,Street Footwear,Women's,Georgia,1240,34751,9703.31
+2021-02,Street Footwear,Women's,Hawaii,536,26689,8550.6
+2021-02,Street Footwear,Women's,Idaho,604,22462,8583.54
+2021-02,Street Footwear,Women's,Indiana,375,11025,4632.75
+2021-02,Street Footwear,Women's,Iowa,260,5200,1716.0
+2021-02,Street Footwear,Women's,Kansas,284,8461,2760.73
+2021-02,Street Footwear,Women's,Kentucky,599,11732,5027.6
+2021-02,Street Footwear,Women's,Louisiana,681,22811,7501.219999999999
+2021-02,Street Footwear,Women's,Maryland,344,10113,4250.13
+2021-02,Street Footwear,Women's,Massachusetts,434,14192,5439.75
+2021-02,Street Footwear,Women's,Michigan,488,9647,3591.1499999999996
+2021-02,Street Footwear,Women's,Mississippi,656,9176,3868.32
+2021-02,Street Footwear,Women's,Missouri,540,7985,2955.75
+2021-02,Street Footwear,Women's,Montana,2954,131883,62777.41
+2021-02,Street Footwear,Women's,New Hampshire,441,18351,5171.24
+2021-02,Street Footwear,Women's,New Jersey,315,9385,3098.25
+2021-02,Street Footwear,Women's,New Mexico,624,23208,8901.6
+2021-02,Street Footwear,Women's,New York,693,20647,7807.03
+2021-02,Street Footwear,Women's,North Carolina,683,16759,7067.0
+2021-02,Street Footwear,Women's,North Dakota,256,5064,1636.24
+2021-02,Street Footwear,Women's,Ohio,313,9327,3968.31
+2021-02,Street Footwear,Women's,Oklahoma,465,6540,2475.6
+2021-02,Street Footwear,Women's,Oregon,652,27408,11688.239999999998
+2021-02,Street Footwear,Women's,Rhode Island,330,9420,2648.4
+2021-02,Street Footwear,Women's,South Carolina,844,20762,8887.85
+2021-02,Street Footwear,Women's,South Dakota,293,7257,2372.94
+2021-02,Street Footwear,Women's,Utah,561,20612,7599.88
+2021-02,Street Footwear,Women's,Vermont,486,18486,6156.24
+2021-02,Street Footwear,Women's,Virginia,820,18840,6273.9
+2021-02,Street Footwear,Women's,West Virginia,221,5479,2050.13
+2021-02,Street Footwear,Women's,Wisconsin,323,8002,3063.5
+2021-02,Street Footwear,Women's,Wyoming,438,17432,6444.4
+2021-03,Apparel,Men's,Alaska,228,14767,4166.63
+2021-03,Apparel,Men's,Arizona,195,10148,3260.52
+2021-03,Apparel,Men's,Arkansas,403,12942,4864.1
+2021-03,Apparel,Men's,California,2162,101717,58555.04000000001
+2021-03,Apparel,Men's,Connecticut,242,11439,3701.58
+2021-03,Apparel,Men's,Delaware,224,11004,3549.14
+2021-03,Apparel,Men's,Florida,279,16699,3847.12
+2021-03,Apparel,Men's,Georgia,234,12084,4578.78
+2021-03,Apparel,Men's,Hawaii,161,9480,1639.8000000000002
+2021-03,Apparel,Men's,Idaho,413,15591,5234.349999999999
+2021-03,Apparel,Men's,Indiana,219,7533,2442.94
+2021-03,Apparel,Men's,Iowa,189,5592,2948.88
+2021-03,Apparel,Men's,Kansas,191,6562,2441.0199999999995
+2021-03,Apparel,Men's,Kentucky,194,10537,3939.6299999999997
+2021-03,Apparel,Men's,Louisiana,239,13184,6380.4
+2021-03,Apparel,Men's,Maryland,97,4321,1419.28
+2021-03,Apparel,Men's,Massachusetts,160,7450,2105.06
+2021-03,Apparel,Men's,Michigan,469,20917,8851.84
+2021-03,Apparel,Men's,Mississippi,510,16567,6135.57
+2021-03,Apparel,Men's,Missouri,325,14325,5444.25
+2021-03,Apparel,Men's,Montana,1008,54746,34481.22
+2021-03,Apparel,Men's,New Hampshire,320,18300,6096.599999999999
+2021-03,Apparel,Men's,New Jersey,159,7087,2345.4
+2021-03,Apparel,Men's,New Mexico,281,15588,5098.81
+2021-03,Apparel,Men's,New York,608,32908,12467.42
+2021-03,Apparel,Men's,North Carolina,683,26846,9980.699999999999
+2021-03,Apparel,Men's,North Dakota,161,6296,2398.0
+2021-03,Apparel,Men's,Ohio,488,19181,7298.6900000000005
+2021-03,Apparel,Men's,Oklahoma,285,9377,3592.89
+2021-03,Apparel,Men's,Oregon,156,8194,3511.7200000000003
+2021-03,Apparel,Men's,Rhode Island,120,5080,1705.5
+2021-03,Apparel,Men's,South Carolina,806,35546,13405.83
+2021-03,Apparel,Men's,South Dakota,156,7707,2916.0
+2021-03,Apparel,Men's,Tennessee,1452,54259,18456.96
+2021-03,Apparel,Men's,Utah,465,17370,6633.0
+2021-03,Apparel,Men's,Vermont,278,14038,5329.5199999999995
+2021-03,Apparel,Men's,Virginia,163,8449,3591.58
+2021-03,Apparel,Men's,West Virginia,284,11183,4691.5
+2021-03,Apparel,Men's,Wisconsin,159,4736,2476.46
+2021-03,Apparel,Men's,Wyoming,576,28422,9414.9
+2021-03,Apparel,Women's,Alaska,347,18941,6063.9
+2021-03,Apparel,Women's,Arizona,520,24345,6785.83
+2021-03,Apparel,Women's,Arkansas,564,13438,5778.88
+2021-03,Apparel,Women's,California,2126,88174,19759.28
+2021-03,Apparel,Women's,Connecticut,408,15239,5820.61
+2021-03,Apparel,Women's,Delaware,347,13808,5804.0
+2021-03,Apparel,Women's,Florida,607,34242,16352.76
+2021-03,Apparel,Women's,Georgia,557,26540,7315.799999999999
+2021-03,Apparel,Women's,Hawaii,410,22124,9487.1
+2021-03,Apparel,Women's,Idaho,640,20928,11131.2
+2021-03,Apparel,Women's,Indiana,349,8651,3673.52
+2021-03,Apparel,Women's,Iowa,318,6360,2720.8
+2021-03,Apparel,Women's,Kansas,315,7745,2935.0
+2021-03,Apparel,Women's,Kentucky,315,13980,5892.3
+2021-03,Apparel,Women's,Louisiana,554,22806,8434.82
+2021-03,Apparel,Women's,Maryland,224,7742,2565.15
+2021-03,Apparel,Women's,Massachusetts,322,12214,4043.42
+2021-03,Apparel,Women's,Michigan,618,21344,12399.86
+2021-03,Apparel,Women's,Mississippi,684,15889,8391.22
+2021-03,Apparel,Women's,Missouri,452,15718,8379.2
+2021-03,Apparel,Women's,Montana,1238,73098,20315.24
+2021-03,Apparel,Women's,New Hampshire,474,21939,8190.57
+2021-03,Apparel,Women's,New Jersey,286,9827,4126.0
+2021-03,Apparel,Women's,New Mexico,604,31289,8805.09
+2021-03,Apparel,Women's,New York,736,32798,17091.3
+2021-03,Apparel,Women's,North Carolina,794,23313,12204.06
+2021-03,Apparel,Women's,North Dakota,288,8514,3617.28
+2021-03,Apparel,Women's,Ohio,603,17834,9311.24
+2021-03,Apparel,Women's,Oklahoma,432,10046,4335.62
+2021-03,Apparel,Women's,Oregon,477,22863,7550.46
+2021-03,Apparel,Women's,Rhode Island,284,9207,3969.28
+2021-03,Apparel,Women's,South Carolina,914,31423,16497.74
+2021-03,Apparel,Women's,South Dakota,284,11183,4756.99
+2021-03,Apparel,Women's,Tennessee,2227,72753,39682.310000000005
+2021-03,Apparel,Women's,Utah,640,17840,9531.8
+2021-03,Apparel,Women's,Vermont,451,18439,8034.639999999999
+2021-03,Apparel,Women's,Virginia,480,22392,7390.4400000000005
+2021-03,Apparel,Women's,West Virginia,406,12099,5168.46
+2021-03,Apparel,Women's,Wisconsin,288,5634,2412.36
+2021-03,Apparel,Women's,Wyoming,715,28105,7758.85
+2021-03,Athletic Footwear,Men's,Alaska,315,17130,6502.500000000001
+2021-03,Athletic Footwear,Men's,Arizona,561,26468,11447.52
+2021-03,Athletic Footwear,Men's,Arkansas,530,9958,3711.2599999999998
+2021-03,Athletic Footwear,Men's,California,2133,89538,25074.99
+2021-03,Athletic Footwear,Men's,Connecticut,349,13304,5728.32
+2021-03,Athletic Footwear,Men's,Delaware,318,12652,4693.4
+2021-03,Athletic Footwear,Men's,Florida,624,35256,9895.36
+2021-03,Athletic Footwear,Men's,Georgia,589,27577,11802.02
+2021-03,Athletic Footwear,Men's,Hawaii,441,24163,5373.14
+2021-03,Athletic Footwear,Men's,Idaho,982,36160,13528.279999999999
+2021-03,Athletic Footwear,Men's,Indiana,286,7028,3021.65
+2021-03,Athletic Footwear,Men's,Iowa,222,4393,1626.85
+2021-03,Athletic Footwear,Men's,Kansas,284,5621,2101.87
+2021-03,Athletic Footwear,Men's,Kentucky,284,12544,4729.0599999999995
+2021-03,Athletic Footwear,Men's,Louisiana,596,30336,13089.449999999999
+2021-03,Athletic Footwear,Men's,Maryland,189,6576,2460.72
+2021-03,Athletic Footwear,Men's,Massachusetts,283,10677,3546.64
+2021-03,Athletic Footwear,Men's,Michigan,576,19782,8477.279999999999
+2021-03,Athletic Footwear,Men's,Mississippi,628,14960,5626.4
+2021-03,Athletic Footwear,Men's,Missouri,387,13458,5006.099999999999
+2021-03,Athletic Footwear,Men's,Montana,1739,68218,23424.579999999998
+2021-03,Athletic Footwear,Men's,New Hampshire,432,20299,8681.59
+2021-03,Athletic Footwear,Men's,New Jersey,258,8856,3359.44
+2021-03,Athletic Footwear,Men's,New Mexico,648,32608,14030.560000000001
+2021-03,Athletic Footwear,Men's,New York,715,32010,12002.1
+2021-03,Athletic Footwear,Men's,North Carolina,750,22350,8257.5
+2021-03,Athletic Footwear,Men's,North Dakota,258,7566,2457.7200000000003
+2021-03,Athletic Footwear,Men's,Ohio,576,16902,6255.9
+2021-03,Athletic Footwear,Men's,Oklahoma,401,7557,2895.46
+2021-03,Athletic Footwear,Men's,Oregon,508,23995,9130.7
+2021-03,Athletic Footwear,Men's,Rhode Island,239,7961,2984.5499999999997
+2021-03,Athletic Footwear,Men's,South Carolina,910,31220,11867.8
+2021-03,Athletic Footwear,Men's,South Dakota,250,9850,3177.0
+2021-03,Athletic Footwear,Men's,Tennessee,3087,95511,39218.65
+2021-03,Athletic Footwear,Men's,Utah,557,15666,6026.999999999999
+2021-03,Athletic Footwear,Men's,Vermont,400,17070,8178.3
+2021-03,Athletic Footwear,Men's,Virginia,508,23505,8891.55
+2021-03,Athletic Footwear,Men's,West Virginia,344,10113,4306.02
+2021-03,Athletic Footwear,Men's,Wisconsin,219,4336,1643.0
+2021-03,Athletic Footwear,Men's,Wyoming,656,25847,8432.68
+2021-03,Athletic Footwear,Women's,Alaska,161,8013,2232.57
+2021-03,Athletic Footwear,Women's,Arizona,361,17030,6363.74
+2021-03,Athletic Footwear,Women's,Arkansas,330,6189,2685.9
+2021-03,Athletic Footwear,Women's,California,2628,110659,41951.71
+2021-03,Athletic Footwear,Women's,Connecticut,164,5378,1746.96
+2021-03,Athletic Footwear,Women's,Delaware,156,5367,2275.76
+2021-03,Athletic Footwear,Women's,Florida,530,29566,9742.56
+2021-03,Athletic Footwear,Women's,Georgia,401,18895,8117.92
+2021-03,Athletic Footwear,Women's,Hawaii,344,18712,5072.68
+2021-03,Athletic Footwear,Women's,Idaho,567,18627,8890.84
+2021-03,Athletic Footwear,Women's,Indiana,156,3088,1139.6999999999998
+2021-03,Athletic Footwear,Women's,Iowa,128,1891,614.3399999999999
+2021-03,Athletic Footwear,Women's,Kansas,126,2519,949.25
+2021-03,Athletic Footwear,Women's,Kentucky,127,4972,2105.44
+2021-03,Athletic Footwear,Women's,Louisiana,480,24828,10685.039999999999
+2021-03,Athletic Footwear,Women's,Maryland,32,953,355.88
+2021-03,Athletic Footwear,Women's,Massachusetts,480,15783,4340.88
+2021-03,Athletic Footwear,Women's,Michigan,416,12388,4678.87
+2021-03,Athletic Footwear,Women's,Mississippi,440,8294,3563.75
+2021-03,Athletic Footwear,Women's,Missouri,254,7512,3171.12
+2021-03,Athletic Footwear,Women's,Montana,1797,70985,31375.94
+2021-03,Athletic Footwear,Women's,New Hampshire,233,9906,3276.39
+2021-03,Athletic Footwear,Women's,New Jersey,97,2844,1208.88
+2021-03,Athletic Footwear,Women's,New Mexico,446,22531,8472.59
+2021-03,Athletic Footwear,Women's,New York,531,21134,6794.94
+2021-03,Athletic Footwear,Women's,North Carolina,599,14974,6423.6
+2021-03,Athletic Footwear,Women's,North Dakota,97,2424,793.1999999999999
+2021-03,Athletic Footwear,Women's,Ohio,423,10476,4472.64
+2021-03,Athletic Footwear,Women's,Oklahoma,198,3803,1632.88
+2021-03,Athletic Footwear,Women's,Oregon,390,18610,6986.05
+2021-03,Athletic Footwear,Women's,Rhode Island,41,1142,491.2
+2021-03,Athletic Footwear,Women's,South Carolina,719,21137,6807.66
+2021-03,Athletic Footwear,Women's,South Dakota,98,3384,1121.46
+2021-03,Athletic Footwear,Women's,Tennessee,1876,55842,28734.18
+2021-03,Athletic Footwear,Women's,Utah,398,9429,4019.87
+2021-03,Athletic Footwear,Women's,Vermont,202,7538,2888.3199999999997
+2021-03,Athletic Footwear,Women's,Virginia,393,18584,6966.16
+2021-03,Athletic Footwear,Women's,West Virginia,224,5501,2346.9100000000003
+2021-03,Athletic Footwear,Women's,Wisconsin,95,1404,452.0
+2021-03,Athletic Footwear,Women's,Wyoming,512,17696,6637.12
+2021-03,Street Footwear,Men's,Alaska,698,38084,14464.660000000002
+2021-03,Street Footwear,Men's,Arizona,805,30005,11377.55
+2021-03,Street Footwear,Men's,Arkansas,1032,19248,8339.04
+2021-03,Street Footwear,Men's,California,2495,81868,35089.54
+2021-03,Street Footwear,Men's,Connecticut,832,30602,12889.76
+2021-03,Street Footwear,Men's,Delaware,703,27488,10246.48
+2021-03,Street Footwear,Men's,Florida,881,40845,13302.5
+2021-03,Street Footwear,Men's,Georgia,825,30959,13037.2
+2021-03,Street Footwear,Men's,Hawaii,635,28440,8001.0
+2021-03,Street Footwear,Men's,Idaho,981,27318,10082.1
+2021-03,Street Footwear,Men's,Indiana,671,16473,6971.23
+2021-03,Street Footwear,Men's,Iowa,606,11984,3853.6000000000004
+2021-03,Street Footwear,Men's,Kansas,698,13960,5314.4
+2021-03,Street Footwear,Men's,Kentucky,676,29796,12621.96
+2021-03,Street Footwear,Men's,Louisiana,851,35284,15136.539999999999
+2021-03,Street Footwear,Men's,Maryland,570,19575,8350.0
+2021-03,Street Footwear,Men's,Massachusetts,752,27966,9239.04
+2021-03,Street Footwear,Men's,Michigan,986,34294,17954.84
+2021-03,Street Footwear,Men's,Mississippi,1130,26761,11617.15
+2021-03,Street Footwear,Men's,Missouri,806,28024,11905.24
+2021-03,Street Footwear,Men's,Montana,1781,56191,24958.91
+2021-03,Street Footwear,Men's,New Hampshire,923,43917,18815.22
+2021-03,Street Footwear,Men's,New Jersey,639,21933,8183.43
+2021-03,Street Footwear,Men's,New Mexico,902,37620,14592.6
+2021-03,Street Footwear,Men's,New York,1122,50238,24159.420000000002
+2021-03,Street Footwear,Men's,North Carolina,1196,35328,15213.119999999999
+2021-03,Street Footwear,Men's,North Dakota,629,18736,7023.92
+2021-03,Street Footwear,Men's,Ohio,1001,29337,12483.24
+2021-03,Street Footwear,Men's,Oklahoma,906,16874,7195.08
+2021-03,Street Footwear,Men's,Oregon,746,27868,10634.96
+2021-03,Street Footwear,Men's,Rhode Island,712,23405,8838.97
+2021-03,Street Footwear,Men's,South Carolina,1285,44445,21137.1
+2021-03,Street Footwear,Men's,South Dakota,619,24636,9299.64
+2021-03,Street Footwear,Men's,Tennessee,3128,72315,29557.0
+2021-03,Street Footwear,Men's,Utah,1066,29532,12534.24
+2021-03,Street Footwear,Men's,Vermont,872,37248,17957.8
+2021-03,Street Footwear,Men's,Virginia,780,29294,11050.78
+2021-03,Street Footwear,Men's,West Virginia,735,21720,9196.2
+2021-03,Street Footwear,Men's,Wisconsin,611,12079,3918.39
+2021-03,Street Footwear,Men's,Wyoming,1066,42148,22008.8
+2021-03,Street Footwear,Women's,Alaska,344,15204,4140.48
+2021-03,Street Footwear,Women's,Arizona,560,26362,10159.73
+2021-03,Street Footwear,Women's,Arkansas,550,5276,2278.4
+2021-03,Street Footwear,Women's,California,3213,135872,57827.98
+2021-03,Street Footwear,Women's,Connecticut,393,11197,3689.3999999999996
+2021-03,Street Footwear,Women's,Delaware,344,10251,4380.54
+2021-03,Street Footwear,Women's,Florida,689,41412,13445.71
+2021-03,Street Footwear,Women's,Georgia,612,29123,11113.31
+2021-03,Street Footwear,Women's,Hawaii,476,28256,7869.98
+2021-03,Street Footwear,Women's,Idaho,698,19364,7301.36
+2021-03,Street Footwear,Women's,Indiana,347,5133,1947.75
+2021-03,Street Footwear,Women's,Iowa,290,2835,909.0
+2021-03,Street Footwear,Women's,Kansas,325,3175,1185.5
+2021-03,Street Footwear,Women's,Kentucky,323,11232,4741.0
+2021-03,Street Footwear,Women's,Louisiana,636,35176,15278.8
+2021-03,Street Footwear,Women's,Maryland,228,5647,2154.5299999999997
+2021-03,Street Footwear,Women's,Massachusetts,310,8780,2487.6
+2021-03,Street Footwear,Women's,Michigan,599,14975,4802.5
+2021-03,Street Footwear,Women's,Mississippi,689,9663,4202.88
+2021-03,Street Footwear,Women's,Missouri,445,10935,4067.6
+2021-03,Street Footwear,Women's,Montana,1238,45471,19799.85
+2021-03,Street Footwear,Women's,New Hampshire,480,18210,5910.9
+2021-03,Street Footwear,Women's,New Jersey,284,7041,3000.48
+2021-03,Street Footwear,Women's,New Mexico,636,33280,12627.039999999999
+2021-03,Street Footwear,Women's,New York,736,25438,6943.93
+2021-03,Street Footwear,Women's,North Carolina,806,15939,6788.28
+2021-03,Street Footwear,Women's,North Dakota,281,5564,1796.88
+2021-03,Street Footwear,Women's,Ohio,599,11980,5114.4
+2021-03,Street Footwear,Women's,Oklahoma,438,4051,1721.45
+2021-03,Street Footwear,Women's,Oregon,550,28593,10620.509999999998
+2021-03,Street Footwear,Women's,Rhode Island,282,6500,2807.4
+2021-03,Street Footwear,Women's,South Carolina,906,22469,6181.97
+2021-03,Street Footwear,Women's,South Dakota,284,8343,2694.06
+2021-03,Street Footwear,Women's,Tennessee,2282,59362,24354.53
+2021-03,Street Footwear,Women's,Utah,652,12256,4681.6
+2021-03,Street Footwear,Women's,Vermont,437,14198,5394.47
+2021-03,Street Footwear,Women's,Virginia,553,28797,10983.07
+2021-03,Street Footwear,Women's,West Virginia,416,8229,3533.66
+2021-03,Street Footwear,Women's,Wisconsin,284,2781,908.64
+2021-03,Street Footwear,Women's,Wyoming,699,20523,7585.35
+2021-04,Apparel,Men's,Alaska,191,11296,3099.52
+2021-04,Apparel,Men's,Arizona,236,12221,3981.14
+2021-04,Apparel,Men's,Arkansas,398,15026,5656.73
+2021-04,Apparel,Men's,California,3317,155724,89922.82
+2021-04,Apparel,Men's,Connecticut,200,9340,3102.7
+2021-04,Apparel,Men's,Delaware,195,9615,3201.75
+2021-04,Apparel,Men's,Florida,318,18242,4218.099999999999
+2021-04,Apparel,Men's,Georgia,284,14509,5585.389999999999
+2021-04,Apparel,Men's,Hawaii,192,10434,1827.18
+2021-04,Apparel,Men's,Idaho,438,14530,4726.38
+2021-04,Apparel,Men's,Indiana,195,12495,4132.8
+2021-04,Apparel,Men's,Iowa,159,9370,4890.7
+2021-04,Apparel,Men's,Kansas,188,7482,2826.18
+2021-04,Apparel,Men's,Kentucky,160,7895,2993.55
+2021-04,Apparel,Men's,Louisiana,284,12058,5813.82
+2021-04,Apparel,Men's,Maryland,65,2865,951.75
+2021-04,Apparel,Men's,Massachusetts,202,9319,2569.0
+2021-04,Apparel,Men's,Michigan,520,25400,10700.0
+2021-04,Apparel,Men's,Mississippi,504,19018,7203.4400000000005
+2021-04,Apparel,Men's,Missouri,290,11340,4203.0
+2021-04,Apparel,Men's,New Hampshire,289,15961,5314.65
+2021-04,Apparel,Men's,New Jersey,127,5688,1872.72
+2021-04,Apparel,Men's,New Mexico,318,18008,5897.679999999999
+2021-04,Apparel,Men's,New York,599,32325,12057.75
+2021-04,Apparel,Men's,North Carolina,656,29127,11019.75
+2021-04,Apparel,Men's,North Dakota,130,7740,2935.2
+2021-04,Apparel,Men's,Ohio,476,21117,7899.99
+2021-04,Apparel,Men's,Oklahoma,282,10472,4025.62
+2021-04,Apparel,Men's,Oregon,200,9382,3953.6800000000003
+2021-04,Apparel,Men's,Rhode Island,80,3405,1097.4
+2021-04,Apparel,Men's,South Carolina,813,40086,15355.5
+2021-04,Apparel,Men's,South Dakota,129,7624,2847.04
+2021-04,Apparel,Men's,Tennessee,3595,147637,59807.76
+2021-04,Apparel,Men's,Utah,437,14179,5315.75
+2021-04,Apparel,Men's,Vermont,241,12361,4691.639999999999
+2021-04,Apparel,Men's,Virginia,200,9565,4046.65
+2021-04,Apparel,Men's,West Virginia,256,16360,7048.0
+2021-04,Apparel,Men's,Wisconsin,126,7430,3886.6
+2021-04,Apparel,Men's,Wyoming,531,26232,8467.44
+2021-04,Apparel,Women's,Alaska,384,19116,6311.04
+2021-04,Apparel,Women's,Arizona,530,34487,9586.48
+2021-04,Apparel,Women's,Arkansas,636,18128,7723.68
+2021-04,Apparel,Women's,California,5382,308365,69668.1
+2021-04,Apparel,Women's,Connecticut,438,15928,6118.48
+2021-04,Apparel,Women's,Delaware,378,14964,6400.56
+2021-04,Apparel,Women's,Florida,597,42414,20585.55
+2021-04,Apparel,Women's,Georgia,567,37387,10527.16
+2021-04,Apparel,Women's,Hawaii,419,28954,12202.0
+2021-04,Apparel,Women's,Idaho,864,24412,12914.4
+2021-04,Apparel,Women's,Indiana,347,17134,7361.2
+2021-04,Apparel,Women's,Iowa,313,15398,6506.96
+2021-04,Apparel,Women's,Kansas,381,11349,4301.01
+2021-04,Apparel,Women's,Kentucky,325,12700,5350.0
+2021-04,Apparel,Women's,Louisiana,578,31572,12012.39
+2021-04,Apparel,Women's,Maryland,252,8664,2832.16
+2021-04,Apparel,Women's,Massachusetts,452,17057,5739.48
+2021-04,Apparel,Women's,Michigan,677,26624,15430.560000000001
+2021-04,Apparel,Women's,Mississippi,746,20956,10956.94
+2021-04,Apparel,Women's,Missouri,455,13440,7043.4
+2021-04,Apparel,Women's,New Hampshire,524,24091,8994.39
+2021-04,Apparel,Women's,New Jersey,318,10994,4711.76
+2021-04,Apparel,Women's,New Mexico,592,41590,11498.35
+2021-04,Apparel,Women's,New York,756,33396,17657.4
+2021-04,Apparel,Women's,North Carolina,864,29673,15501.779999999999
+2021-04,Apparel,Women's,North Dakota,293,14582,6265.96
+2021-04,Apparel,Women's,Ohio,662,23033,12215.2
+2021-04,Apparel,Women's,Oklahoma,530,14824,6397.66
+2021-04,Apparel,Women's,Oregon,474,28866,9579.6
+2021-04,Apparel,Women's,Rhode Island,310,10210,4344.4
+2021-04,Apparel,Women's,South Carolina,984,39151,20635.13
+2021-04,Apparel,Women's,South Dakota,286,14178,6051.84
+2021-04,Apparel,Women's,Tennessee,6055,261533,156797.39
+2021-04,Apparel,Women's,Utah,648,15408,8027.2
+2021-04,Apparel,Women's,Vermont,480,20700,8845.2
+2021-04,Apparel,Women's,Virginia,468,28722,9569.28
+2021-04,Apparel,Women's,West Virginia,419,20668,8753.18
+2021-04,Apparel,Women's,Wisconsin,286,14239,6143.95
+2021-04,Apparel,Women's,Wyoming,699,27364,7377.4
+2021-04,Athletic Footwear,Men's,Alaska,286,15425,5856.25
+2021-04,Athletic Footwear,Men's,Arizona,480,24600,10450.2
+2021-04,Athletic Footwear,Men's,Arkansas,483,11484,4393.5599999999995
+2021-04,Athletic Footwear,Men's,California,4494,208691,57614.68
+2021-04,Athletic Footwear,Men's,Connecticut,322,12124,5257.0
+2021-04,Athletic Footwear,Men's,Delaware,286,11318,4239.46
+2021-04,Athletic Footwear,Men's,Florida,553,36323,9834.65
+2021-04,Athletic Footwear,Men's,Georgia,524,26803,11258.8
+2021-04,Athletic Footwear,Men's,Hawaii,381,24441,5629.35
+2021-04,Athletic Footwear,Men's,Idaho,1060,29670,11300.25
+2021-04,Athletic Footwear,Men's,Indiana,254,6242,2645.84
+2021-04,Athletic Footwear,Men's,Iowa,224,4382,1657.18
+2021-04,Athletic Footwear,Men's,Kansas,258,6450,2446.0
+2021-04,Athletic Footwear,Men's,Kentucky,224,9884,3720.5699999999997
+2021-04,Athletic Footwear,Men's,Louisiana,520,26303,11209.919999999998
+2021-04,Athletic Footwear,Men's,Maryland,156,5367,1997.49
+2021-04,Athletic Footwear,Men's,Massachusetts,246,9093,3046.68
+2021-04,Athletic Footwear,Men's,Michigan,536,21218,9035.539999999999
+2021-04,Athletic Footwear,Men's,Mississippi,600,14202,5462.75
+2021-04,Athletic Footwear,Men's,Missouri,347,10194,3840.06
+2021-04,Athletic Footwear,Men's,New Hampshire,403,19062,8189.200000000001
+2021-04,Athletic Footwear,Men's,New Jersey,226,7808,2917.93
+2021-04,Athletic Footwear,Men's,New Mexico,557,31469,13447.02
+2021-04,Athletic Footwear,Men's,New York,672,29946,11113.2
+2021-04,Athletic Footwear,Men's,North Carolina,730,21590,8077.3
+2021-04,Athletic Footwear,Men's,North Dakota,194,5732,1879.76
+2021-04,Athletic Footwear,Men's,Ohio,536,15858,5985.42
+2021-04,Athletic Footwear,Men's,Oklahoma,369,8542,3240.93
+2021-04,Athletic Footwear,Men's,Oregon,446,24414,9378.3
+2021-04,Athletic Footwear,Men's,Rhode Island,198,6351,2427.25
+2021-04,Athletic Footwear,Men's,South Carolina,857,29813,11115.23
+2021-04,Athletic Footwear,Men's,South Dakota,192,7638,2471.58
+2021-04,Athletic Footwear,Men's,Tennessee,6006,246859,114375.48999999999
+2021-04,Athletic Footwear,Men's,Utah,530,12695,4722.65
+2021-04,Athletic Footwear,Men's,Vermont,349,14913,7071.49
+2021-04,Athletic Footwear,Men's,Virginia,429,24311,9262.48
+2021-04,Athletic Footwear,Men's,West Virginia,325,9600,4155.0
+2021-04,Athletic Footwear,Men's,Wisconsin,189,3780,1408.8
+2021-04,Athletic Footwear,Men's,Wyoming,640,25460,8457.0
+2021-04,Athletic Footwear,Women's,Alaska,194,9567,2639.91
+2021-04,Athletic Footwear,Women's,Arizona,403,19070,7348.0
+2021-04,Athletic Footwear,Women's,Arkansas,365,6760,2937.8700000000003
+2021-04,Athletic Footwear,Women's,California,3808,159168,60333.46
+2021-04,Athletic Footwear,Women's,Connecticut,204,6657,2200.8199999999997
+2021-04,Athletic Footwear,Women's,Delaware,194,6658,2818.08
+2021-04,Athletic Footwear,Women's,Florida,474,24558,8207.1
+2021-04,Athletic Footwear,Women's,Georgia,440,20902,9049.6
+2021-04,Athletic Footwear,Women's,Hawaii,323,16004,4351.4
+2021-04,Athletic Footwear,Women's,Idaho,604,16847,8001.65
+2021-04,Athletic Footwear,Women's,Indiana,161,3183,1202.97
+2021-04,Athletic Footwear,Women's,Iowa,128,1919,638.6999999999999
+2021-04,Athletic Footwear,Women's,Kansas,160,3164,1173.8999999999999
+2021-04,Athletic Footwear,Women's,Kentucky,129,5718,2409.0
+2021-04,Athletic Footwear,Women's,Louisiana,440,16343,7035.23
+2021-04,Athletic Footwear,Women's,Maryland,63,1851,689.97
+2021-04,Athletic Footwear,Women's,Massachusetts,199,6392,1781.71
+2021-04,Athletic Footwear,Women's,Michigan,484,16613,6198.23
+2021-04,Athletic Footwear,Women's,Mississippi,471,8960,3801.08
+2021-04,Athletic Footwear,Women's,Missouri,252,6196,2621.92
+2021-04,Athletic Footwear,Women's,New Hampshire,277,11885,3839.7599999999998
+2021-04,Athletic Footwear,Women's,New Jersey,127,3729,1571.79
+2021-04,Athletic Footwear,Women's,New Mexico,483,24750,9321.36
+2021-04,Athletic Footwear,Women's,New York,585,22995,7447.95
+2021-04,Athletic Footwear,Women's,North Carolina,640,15859,6814.0
+2021-04,Athletic Footwear,Women's,North Dakota,97,2402,789.2399999999999
+2021-04,Athletic Footwear,Women's,Ohio,452,11197,4723.6
+2021-04,Athletic Footwear,Women's,Oklahoma,242,4514,1932.0500000000002
+2021-04,Athletic Footwear,Women's,Oregon,358,15088,5715.85
+2021-04,Athletic Footwear,Women's,Rhode Island,80,2234,960.46
+2021-04,Athletic Footwear,Women's,South Carolina,780,22859,7489.5
+2021-04,Athletic Footwear,Women's,South Dakota,95,3305,1079.9
+2021-04,Athletic Footwear,Women's,Tennessee,4156,159283,89072.53000000001
+2021-04,Athletic Footwear,Women's,Utah,395,7310,3140.3
+2021-04,Athletic Footwear,Women's,Vermont,244,9084,3492.0
+2021-04,Athletic Footwear,Women's,Virginia,349,14653,5563.11
+2021-04,Athletic Footwear,Women's,West Virginia,222,5549,2360.6000000000004
+2021-04,Athletic Footwear,Women's,Wisconsin,97,1454,472.5
+2021-04,Athletic Footwear,Women's,Wyoming,544,18802,7051.94
+2021-04,Street Footwear,Men's,Alaska,656,35949,13360.29
+2021-04,Street Footwear,Men's,Arizona,805,38240,14218.0
+2021-04,Street Footwear,Men's,Arkansas,978,22878,9905.28
+2021-04,Street Footwear,Men's,California,5476,230346,99074.2
+2021-04,Street Footwear,Men's,Connecticut,805,29740,12696.4
+2021-04,Street Footwear,Men's,Delaware,656,25716,9708.0
+2021-04,Street Footwear,Men's,Florida,859,52343,17211.84
+2021-04,Street Footwear,Men's,Georgia,846,39263,16606.79
+2021-04,Street Footwear,Men's,Hawaii,630,37670,10261.2
+2021-04,Street Footwear,Men's,Idaho,1060,19930,7645.85
+2021-04,Street Footwear,Men's,Indiana,625,15375,6581.25
+2021-04,Street Footwear,Men's,Iowa,599,11980,3966.0
+2021-04,Street Footwear,Men's,Kansas,650,16100,5995.0
+2021-04,Street Footwear,Men's,Kentucky,594,26254,11233.45
+2021-04,Street Footwear,Men's,Louisiana,835,39450,17044.8
+2021-04,Street Footwear,Men's,Maryland,553,19099,8104.24
+2021-04,Street Footwear,Men's,Massachusetts,716,26618,8777.46
+2021-04,Street Footwear,Men's,Michigan,906,31167,16162.7
+2021-04,Street Footwear,Men's,Mississippi,1067,24999,10713.26
+2021-04,Street Footwear,Men's,Missouri,719,24877,10521.04
+2021-04,Street Footwear,Men's,New Hampshire,891,41063,17509.58
+2021-04,Street Footwear,Men's,New Jersey,608,21147,8079.75
+2021-04,Street Footwear,Men's,New Mexico,869,44869,16963.1
+2021-04,Street Footwear,Men's,New York,1073,47541,22539.21
+2021-04,Street Footwear,Men's,North Carolina,1138,33351,14334.54
+2021-04,Street Footwear,Men's,North Dakota,563,16664,6275.36
+2021-04,Street Footwear,Men's,Ohio,943,27854,12057.2
+2021-04,Street Footwear,Men's,Oklahoma,861,20453,8876.24
+2021-04,Street Footwear,Men's,Oregon,765,39753,14901.349999999999
+2021-04,Street Footwear,Men's,Rhode Island,668,22123,8499.05
+2021-04,Street Footwear,Men's,South Carolina,1258,43464,20679.48
+2021-04,Street Footwear,Men's,South Dakota,563,22294,8275.24
+2021-04,Street Footwear,Men's,Tennessee,6028,213305,99268.60999999999
+2021-04,Street Footwear,Men's,Utah,1000,27517,11728.3
+2021-04,Street Footwear,Men's,Vermont,830,34282,16397.57
+2021-04,Street Footwear,Men's,Virginia,746,38159,14305.61
+2021-04,Street Footwear,Men's,West Virginia,693,20361,8569.11
+2021-04,Street Footwear,Men's,Wisconsin,572,11196,3600.3599999999997
+2021-04,Street Footwear,Men's,Wyoming,1008,40112,21029.44
+2021-04,Street Footwear,Women's,Alaska,286,12809,3604.8500000000004
+2021-04,Street Footwear,Women's,Arizona,575,29516,11198.92
+2021-04,Street Footwear,Women's,Arkansas,471,6606,2842.32
+2021-04,Street Footwear,Women's,California,4428,206293,88948.03
+2021-04,Street Footwear,Women's,Connecticut,320,8904,2959.12
+2021-04,Street Footwear,Women's,Delaware,284,8343,3576.15
+2021-04,Street Footwear,Women's,Florida,652,42388,13846.32
+2021-04,Street Footwear,Women's,Georgia,582,29393,11073.91
+2021-04,Street Footwear,Women's,Hawaii,441,28210,7762.3
+2021-04,Street Footwear,Women's,Idaho,775,18264,6851.4
+2021-04,Street Footwear,Women's,Indiana,252,3728,1414.0
+2021-04,Street Footwear,Women's,Iowa,228,2280,758.2
+2021-04,Street Footwear,Women's,Kansas,260,3840,1470.0
+2021-04,Street Footwear,Women's,Kentucky,224,8862,3824.1000000000004
+2021-04,Street Footwear,Women's,Louisiana,600,30885,13050.6
+2021-04,Street Footwear,Women's,Maryland,158,3917,1481.83
+2021-04,Street Footwear,Women's,Massachusetts,242,6811,1888.97
+2021-04,Street Footwear,Women's,Michigan,585,17145,5580.9
+2021-04,Street Footwear,Women's,Mississippi,600,8403,3641.5
+2021-04,Street Footwear,Women's,Missouri,358,6994,2657.0599999999995
+2021-04,Street Footwear,Women's,New Hampshire,403,14854,4927.76
+2021-04,Street Footwear,Women's,New Jersey,226,5599,2362.0
+2021-04,Street Footwear,Women's,New Mexico,656,36540,14177.2
+2021-04,Street Footwear,Women's,New York,677,23543,6454.23
+2021-04,Street Footwear,Women's,North Carolina,719,14380,6184.0
+2021-04,Street Footwear,Women's,North Dakota,191,3779,1227.18
+2021-04,Street Footwear,Women's,Ohio,531,10514,4467.42
+2021-04,Street Footwear,Women's,Oklahoma,363,5027,2176.56
+2021-04,Street Footwear,Women's,Oregon,524,29533,11265.779999999999
+2021-04,Street Footwear,Women's,Rhode Island,205,4693,1994.96
+2021-04,Street Footwear,Women's,South Carolina,857,21243,5878.59
+2021-04,Street Footwear,Women's,South Dakota,195,5805,1872.0
+2021-04,Street Footwear,Women's,Tennessee,6174,241667,113476.81999999999
+2021-04,Street Footwear,Women's,Utah,530,7317,2776.07
+2021-04,Street Footwear,Women's,Vermont,364,11805,4573.25
+2021-04,Street Footwear,Women's,Virginia,524,29019,10928.43
+2021-04,Street Footwear,Women's,West Virginia,318,6292,2697.6800000000003
+2021-04,Street Footwear,Women's,Wisconsin,191,1869,608.67
+2021-04,Street Footwear,Women's,Wyoming,645,19060,7117.6
+2021-05,Apparel,Men's,Alaska,344,22153,6094.39
+2021-05,Apparel,Men's,Arizona,320,16376,5310.72
+2021-05,Apparel,Men's,Arkansas,521,21746,8181.579999999999
+2021-05,Apparel,Men's,California,5057,283835,164790.94
+2021-05,Apparel,Men's,Connecticut,403,20320,6739.549999999999
+2021-05,Apparel,Men's,Delaware,349,18824,6091.2
+2021-05,Apparel,Men's,Florida,361,18766,4320.32
+2021-05,Apparel,Men's,Georgia,355,18061,6887.37
+2021-05,Apparel,Men's,Hawaii,221,13030,2283.4
+2021-05,Apparel,Men's,Idaho,640,29720,9684.0
+2021-05,Apparel,Men's,Indiana,258,11551,3848.0999999999995
+2021-05,Apparel,Men's,Iowa,192,8555,4548.4
+2021-05,Apparel,Men's,Kansas,281,12532,4747.4
+2021-05,Apparel,Men's,Kentucky,192,9432,3513.72
+2021-05,Apparel,Men's,Louisiana,367,13804,6613.32
+2021-05,Apparel,Men's,Maryland,161,8013,2615.58
+2021-05,Apparel,Men's,Massachusetts,314,16039,4430.95
+2021-05,Apparel,Men's,Michigan,599,32572,13867.039999999999
+2021-05,Apparel,Men's,Mississippi,648,27243,10330.169999999998
+2021-05,Apparel,Men's,Missouri,320,14329,5415.549999999999
+2021-05,Apparel,Men's,Nebraska,316,14024,5236.839999999999
+2021-05,Apparel,Men's,New Hampshire,468,29094,9558.9
+2021-05,Apparel,Men's,New Jersey,293,14445,4685.0599999999995
+2021-05,Apparel,Men's,New Mexico,393,22150,7257.3
+2021-05,Apparel,Men's,New York,662,39172,14784.279999999999
+2021-05,Apparel,Men's,North Carolina,750,36899,13880.65
+2021-05,Apparel,Men's,North Dakota,156,7675,2871.6299999999997
+2021-05,Apparel,Men's,Ohio,576,28673,10714.689999999999
+2021-05,Apparel,Men's,Oklahoma,405,17114,6470.799999999999
+2021-05,Apparel,Men's,Oregon,277,11592,4983.96
+2021-05,Apparel,Men's,Rhode Island,275,13163,4325.5
+2021-05,Apparel,Men's,South Carolina,896,48887,18668.65
+2021-05,Apparel,Men's,South Dakota,163,8812,3374.8999999999996
+2021-05,Apparel,Men's,Tennessee,2690,125549,53648.229999999996
+2021-05,Apparel,Men's,Utah,465,17535,6758.7
+2021-05,Apparel,Men's,Vermont,438,24646,9352.46
+2021-05,Apparel,Men's,Virginia,278,11866,5103.320000000001
+2021-05,Apparel,Men's,West Virginia,293,12980,5591.84
+2021-05,Apparel,Men's,Wisconsin,228,10206,5359.52
+2021-05,Apparel,Men's,Wyoming,608,29735,9638.7
+2021-05,Apparel,Women's,Alaska,500,34700,11147.0
+2021-05,Apparel,Women's,Arizona,597,39094,10726.3
+2021-05,Apparel,Women's,Arkansas,681,28793,12584.75
+2021-05,Apparel,Women's,California,5460,330228,75786.54
+2021-05,Apparel,Women's,Connecticut,616,33963,13124.509999999998
+2021-05,Apparel,Women's,Delaware,504,29616,12688.8
+2021-05,Apparel,Women's,Florida,921,60145,28738.16
+2021-05,Apparel,Women's,Georgia,644,42252,12109.32
+2021-05,Apparel,Women's,Hawaii,618,45492,19676.85
+2021-05,Apparel,Women's,Idaho,1208,50826,26999.28
+2021-05,Apparel,Women's,Indiana,416,22697,9657.560000000001
+2021-05,Apparel,Women's,Iowa,344,16923,7150.08
+2021-05,Apparel,Women's,Kansas,419,18572,6895.0
+2021-05,Apparel,Women's,Kentucky,358,19358,8208.83
+2021-05,Apparel,Women's,Louisiana,920,55416,20790.3
+2021-05,Apparel,Women's,Maryland,313,17025,5467.86
+2021-05,Apparel,Women's,Massachusetts,517,28812,9354.88
+2021-05,Apparel,Women's,Michigan,725,42750,24750.0
+2021-05,Apparel,Women's,Mississippi,790,36829,19650.7
+2021-05,Apparel,Women's,Missouri,455,22224,11584.5
+2021-05,Apparel,Women's,Nebraska,293,10051,5264.86
+2021-05,Apparel,Women's,New Hampshire,680,43665,16362.599999999999
+2021-05,Apparel,Women's,New Jersey,452,24451,10404.64
+2021-05,Apparel,Women's,New Mexico,672,47202,13207.08
+2021-05,Apparel,Women's,New York,794,50596,26594.23
+2021-05,Apparel,Women's,North Carolina,903,48852,25668.36
+2021-05,Apparel,Women's,North Dakota,325,17649,7488.6
+2021-05,Apparel,Women's,Ohio,693,37828,19975.06
+2021-05,Apparel,Women's,Oklahoma,564,23693,10162.52
+2021-05,Apparel,Women's,Oregon,856,47990,16154.279999999999
+2021-05,Apparel,Women's,Rhode Island,474,24059,10305.08
+2021-05,Apparel,Women's,South Carolina,1000,59800,31080.0
+2021-05,Apparel,Women's,South Dakota,318,18944,8011.4400000000005
+2021-05,Apparel,Women's,Tennessee,4063,210397,132181.26
+2021-05,Apparel,Women's,Utah,648,27375,14766.220000000001
+2021-05,Apparel,Women's,Vermont,640,38840,16738.4
+2021-05,Apparel,Women's,Virginia,845,47404,15697.36
+2021-05,Apparel,Women's,West Virginia,445,24189,10416.6
+2021-05,Apparel,Women's,Wisconsin,390,19229,8156.900000000001
+2021-05,Apparel,Women's,Wyoming,756,41112,11494.8
+2021-05,Athletic Footwear,Men's,Alaska,347,20532,7589.4000000000015
+2021-05,Athletic Footwear,Men's,Arizona,604,30790,13237.98
+2021-05,Athletic Footwear,Men's,Arkansas,604,22542,8761.16
+2021-05,Athletic Footwear,Men's,California,6727,347244,96714.21
+2021-05,Athletic Footwear,Men's,Connecticut,406,18909,8135.32
+2021-05,Athletic Footwear,Men's,Delaware,344,16993,6271.85
+2021-05,Athletic Footwear,Men's,Florida,685,41377,11678.41
+2021-05,Athletic Footwear,Men's,Georgia,644,32512,13923.52
+2021-05,Athletic Footwear,Men's,Hawaii,473,28184,6375.72
+2021-05,Athletic Footwear,Men's,Idaho,1168,32672,12474.679999999998
+2021-05,Athletic Footwear,Men's,Indiana,323,12701,5485.55
+2021-05,Athletic Footwear,Men's,Iowa,288,11331,4222.26
+2021-05,Athletic Footwear,Men's,Kansas,352,14003,5291.44
+2021-05,Athletic Footwear,Men's,Kentucky,293,12981,4971.75
+2021-05,Athletic Footwear,Men's,Louisiana,628,29820,12696.8
+2021-05,Athletic Footwear,Men's,Maryland,222,9849,3664.29
+2021-05,Athletic Footwear,Men's,Massachusetts,322,14850,4923.66
+2021-05,Athletic Footwear,Men's,Michigan,650,32050,13877.5
+2021-05,Athletic Footwear,Men's,Mississippi,721,26767,10088.349999999999
+2021-05,Athletic Footwear,Men's,Missouri,413,14367,5387.49
+2021-05,Athletic Footwear,Men's,Nebraska,163,5629,2158.25
+2021-05,Athletic Footwear,Men's,New Hampshire,480,26418,11336.52
+2021-05,Athletic Footwear,Men's,New Jersey,293,12913,4937.75
+2021-05,Athletic Footwear,Men's,New Mexico,672,38194,16110.900000000001
+2021-05,Athletic Footwear,Men's,New York,736,40158,15079.26
+2021-05,Athletic Footwear,Men's,North Carolina,832,36894,13753.74
+2021-05,Athletic Footwear,Men's,North Dakota,254,11214,3674.16
+2021-05,Athletic Footwear,Men's,Ohio,635,28440,10785.599999999999
+2021-05,Athletic Footwear,Men's,Oklahoma,480,18090,6751.71
+2021-05,Athletic Footwear,Men's,Oregon,564,28424,10722.1
+2021-05,Athletic Footwear,Men's,Rhode Island,282,11838,4391.12
+2021-05,Athletic Footwear,Men's,South Carolina,938,45960,16932.0
+2021-05,Athletic Footwear,Men's,South Dakota,260,12700,4215.0
+2021-05,Athletic Footwear,Men's,Tennessee,3645,137073,64161.079999999994
+2021-05,Athletic Footwear,Men's,Utah,604,16995,6555.429999999999
+2021-05,Athletic Footwear,Men's,Vermont,449,23299,11190.99
+2021-05,Athletic Footwear,Men's,Virginia,553,28448,10708.6
+2021-05,Athletic Footwear,Men's,West Virginia,387,15219,6441.6900000000005
+2021-05,Athletic Footwear,Men's,Wisconsin,250,9950,3755.5
+2021-05,Athletic Footwear,Men's,Wyoming,677,29857,9580.3
+2021-05,Athletic Footwear,Women's,Alaska,313,16963,4658.4400000000005
+2021-05,Athletic Footwear,Women's,Arizona,483,23037,8796.99
+2021-05,Athletic Footwear,Women's,Arkansas,468,15312,6620.76
+2021-05,Athletic Footwear,Women's,California,5282,245796,93501.92
+2021-05,Athletic Footwear,Women's,Connecticut,362,15265,4955.46
+2021-05,Athletic Footwear,Women's,Delaware,315,13915,5885.8
+2021-05,Athletic Footwear,Women's,Florida,520,28865,9501.38
+2021-05,Athletic Footwear,Women's,Georgia,530,24403,10476.26
+2021-05,Athletic Footwear,Women's,Hawaii,355,19284,5445.0
+2021-05,Athletic Footwear,Women's,Idaho,785,25510,12094.5
+2021-05,Athletic Footwear,Women's,Indiana,224,7791,2960.09
+2021-05,Athletic Footwear,Women's,Iowa,159,5497,1806.18
+2021-05,Athletic Footwear,Women's,Kansas,258,8856,3378.0
+2021-05,Athletic Footwear,Women's,Kentucky,163,6444,2779.76
+2021-05,Athletic Footwear,Women's,Louisiana,511,21698,9190.589999999998
+2021-05,Athletic Footwear,Women's,Maryland,130,5110,1932.8
+2021-05,Athletic Footwear,Women's,Massachusetts,276,11671,3293.67
+2021-05,Athletic Footwear,Women's,Michigan,576,25542,9733.5
+2021-05,Athletic Footwear,Women's,Mississippi,592,19242,8230.47
+2021-05,Athletic Footwear,Women's,Missouri,290,8635,3736.75
+2021-05,Athletic Footwear,Women's,Nebraska,64,1906,803.0
+2021-05,Athletic Footwear,Women's,New Hampshire,446,23016,7470.04
+2021-05,Athletic Footwear,Women's,New Jersey,256,10128,4264.0
+2021-05,Athletic Footwear,Women's,New Mexico,550,28578,10794.029999999999
+2021-05,Athletic Footwear,Women's,New York,630,31110,9944.0
+2021-05,Athletic Footwear,Women's,North Carolina,725,28700,12278.0
+2021-05,Athletic Footwear,Women's,North Dakota,126,4936,1611.84
+2021-05,Athletic Footwear,Women's,Ohio,548,21674,9370.7
+2021-05,Athletic Footwear,Women's,Oklahoma,358,11805,5061.38
+2021-05,Athletic Footwear,Women's,Oregon,452,20919,7974.44
+2021-05,Athletic Footwear,Women's,Rhode Island,245,9093,3925.7400000000002
+2021-05,Athletic Footwear,Women's,South Carolina,857,38201,12399.42
+2021-05,Athletic Footwear,Women's,South Dakota,126,5618,1853.1
+2021-05,Athletic Footwear,Women's,Tennessee,2361,113720,65792.12000000001
+2021-05,Athletic Footwear,Women's,Utah,441,10317,4428.780000000001
+2021-05,Athletic Footwear,Women's,Vermont,398,18810,7108.3
+2021-05,Athletic Footwear,Women's,Virginia,429,19798,7499.9
+2021-05,Athletic Footwear,Women's,West Virginia,250,8650,3707.5
+2021-05,Athletic Footwear,Women's,Wisconsin,188,6466,2110.04
+2021-05,Athletic Footwear,Women's,Wyoming,581,23109,8854.5
+2021-05,Street Footwear,Men's,Alaska,730,46490,17687.5
+2021-05,Street Footwear,Men's,Arizona,856,40151,15091.69
+2021-05,Street Footwear,Men's,Arkansas,1079,39787,17258.74
+2021-05,Street Footwear,Men's,California,7604,355427,152599.93
+2021-05,Street Footwear,Men's,Connecticut,878,45282,19261.88
+2021-05,Street Footwear,Men's,Delaware,730,39509,14888.949999999999
+2021-05,Street Footwear,Men's,Florida,931,52334,17134.22
+2021-05,Street Footwear,Men's,Georgia,897,41939,18243.54
+2021-05,Street Footwear,Men's,Hawaii,683,36932,10199.96
+2021-05,Street Footwear,Men's,Idaho,1113,20594,7961.8
+2021-05,Street Footwear,Men's,Indiana,709,41556,17508.0
+2021-05,Street Footwear,Men's,Iowa,666,39522,12855.24
+2021-05,Street Footwear,Men's,Kansas,713,27948,10296.599999999999
+2021-05,Street Footwear,Men's,Kentucky,676,33644,14298.44
+2021-05,Street Footwear,Men's,Louisiana,886,37262,15968.16
+2021-05,Street Footwear,Men's,Maryland,588,29281,12406.240000000002
+2021-05,Street Footwear,Men's,Massachusetts,797,41154,13660.59
+2021-05,Street Footwear,Men's,Michigan,1002,49686,25935.96
+2021-05,Street Footwear,Men's,Mississippi,1177,43792,18780.22
+2021-05,Street Footwear,Men's,Missouri,800,31820,13500.2
+2021-05,Street Footwear,Men's,Nebraska,594,20433,8706.32
+2021-05,Street Footwear,Men's,New Hampshire,964,58959,25299.32
+2021-05,Street Footwear,Men's,New Jersey,650,32239,12032.449999999999
+2021-05,Street Footwear,Men's,New Mexico,909,47187,17755.17
+2021-05,Street Footwear,Men's,New York,1131,60900,29362.5
+2021-05,Street Footwear,Men's,North Carolina,1191,52611,22557.3
+2021-05,Street Footwear,Men's,North Dakota,624,36795,13800.6
+2021-05,Street Footwear,Men's,Ohio,1002,44469,18657.0
+2021-05,Street Footwear,Men's,Oklahoma,941,34824,14921.64
+2021-05,Street Footwear,Men's,Oregon,800,38005,14420.9
+2021-05,Street Footwear,Men's,Rhode Island,742,35327,13612.15
+2021-05,Street Footwear,Men's,South Carolina,1327,65786,30957.3
+2021-05,Street Footwear,Men's,South Dakota,634,37762,14184.14
+2021-05,Street Footwear,Men's,Tennessee,3955,149002,69978.34999999999
+2021-05,Street Footwear,Men's,Utah,1072,35174,14866.76
+2021-05,Street Footwear,Men's,Vermont,901,51166,24550.86
+2021-05,Street Footwear,Men's,Virginia,800,37575,14125.0
+2021-05,Street Footwear,Men's,West Virginia,774,46082,19678.64
+2021-05,Street Footwear,Men's,Wisconsin,629,37472,12096.52
+2021-05,Street Footwear,Men's,Wyoming,1066,52070,27695.5
+2021-05,Street Footwear,Women's,Alaska,384,20952,5905.8
+2021-05,Street Footwear,Women's,Arizona,652,33412,12576.56
+2021-05,Street Footwear,Women's,Arkansas,560,18557,8015.42
+2021-05,Street Footwear,Women's,California,5495,256465,109414.3
+2021-05,Street Footwear,Women's,Connecticut,432,18213,5888.34
+2021-05,Street Footwear,Women's,Delaware,381,16821,7126.92
+2021-05,Street Footwear,Women's,Florida,676,40718,13632.869999999999
+2021-05,Street Footwear,Women's,Georgia,693,35571,13641.249999999998
+2021-05,Street Footwear,Women's,Hawaii,473,27988,7820.200000000001
+2021-05,Street Footwear,Women's,Idaho,926,21527,8127.849999999999
+2021-05,Street Footwear,Women's,Indiana,281,9779,3651.13
+2021-05,Street Footwear,Women's,Iowa,254,8782,2830.62
+2021-05,Street Footwear,Women's,Kansas,315,10830,4081.7
+2021-05,Street Footwear,Women's,Kentucky,258,10204,4346.08
+2021-05,Street Footwear,Women's,Louisiana,648,30520,12912.32
+2021-05,Street Footwear,Women's,Maryland,188,7368,2756.64
+2021-05,Street Footwear,Women's,Massachusetts,349,14461,4082.05
+2021-05,Street Footwear,Women's,Michigan,608,27227,8753.3
+2021-05,Street Footwear,Women's,Mississippi,680,22338,9591.06
+2021-05,Street Footwear,Women's,Missouri,387,11523,4310.58
+2021-05,Street Footwear,Women's,Nebraska,222,5456,2071.75
+2021-05,Street Footwear,Women's,New Hampshire,524,27115,8903.94
+2021-05,Street Footwear,Women's,New Jersey,325,12850,5425.0
+2021-05,Street Footwear,Women's,New Mexico,711,40266,15312.42
+2021-05,Street Footwear,Women's,New York,710,35340,9697.4
+2021-05,Street Footwear,Women's,North Carolina,794,31253,13314.09
+2021-05,Street Footwear,Women's,North Dakota,226,8887,2911.41
+2021-05,Street Footwear,Women's,Ohio,618,24577,10444.27
+2021-05,Street Footwear,Women's,Oklahoma,435,14449,6120.88
+2021-05,Street Footwear,Women's,Oregon,564,28641,10922.49
+2021-05,Street Footwear,Women's,Rhode Island,320,12260,5270.0
+2021-05,Street Footwear,Women's,South Carolina,935,41235,11341.95
+2021-05,Street Footwear,Women's,South Dakota,221,9853,3193.26
+2021-05,Street Footwear,Women's,Tennessee,3297,151112,71016.68999999999
+2021-05,Street Footwear,Women's,Utah,557,13271,5074.48
+2021-05,Street Footwear,Women's,Vermont,471,22227,8254.74
+2021-05,Street Footwear,Women's,Virginia,547,27683,10429.71
+2021-05,Street Footwear,Women's,West Virginia,352,12089,5205.2
+2021-05,Street Footwear,Women's,Wisconsin,224,7742,2565.15
+2021-05,Street Footwear,Women's,Wyoming,645,25655,9770.95
+2021-06,Apparel,Men's,Alaska,384,24540,6689.4
+2021-06,Apparel,Men's,Arizona,365,18939,6221.7
+2021-06,Apparel,Men's,Arkansas,589,30208,11432.439999999999
+2021-06,Apparel,Men's,Connecticut,440,22322,7311.2
+2021-06,Apparel,Men's,Delaware,375,20249,6449.7
+2021-06,Apparel,Men's,Florida,729,64827,14528.34
+2021-06,Apparel,Men's,Georgia,441,22745,8596.029999999999
+2021-06,Apparel,Men's,Hawaii,438,37054,6653.7
+2021-06,Apparel,Men's,Idaho,725,37628,12351.08
+2021-06,Apparel,Men's,Illinois,892,50644,19002.09
+2021-06,Apparel,Men's,Indiana,228,8908,2958.6
+2021-06,Apparel,Men's,Iowa,219,7621,4019.94
+2021-06,Apparel,Men's,Kansas,358,19606,7444.76
+2021-06,Apparel,Men's,Kentucky,254,12646,4796.54
+2021-06,Apparel,Men's,Louisiana,720,64224,30406.68
+2021-06,Apparel,Men's,Maryland,192,9557,3155.22
+2021-06,Apparel,Men's,Massachusetts,358,18269,5160.4400000000005
+2021-06,Apparel,Men's,Michigan,677,40164,17365.199999999997
+2021-06,Apparel,Men's,Mississippi,720,41040,15323.849999999999
+2021-06,Apparel,Men's,Missouri,452,17876,6644.2
+2021-06,Apparel,Men's,Nebraska,568,25752,9699.1
+2021-06,Apparel,Men's,New Hampshire,533,32123,10745.16
+2021-06,Apparel,Men's,New Jersey,315,15489,5095.2
+2021-06,Apparel,Men's,New Mexico,480,26964,8927.16
+2021-06,Apparel,Men's,New York,725,46675,17638.25
+2021-06,Apparel,Men's,North Carolina,813,52193,19659.57
+2021-06,Apparel,Men's,North Dakota,222,8786,3271.56
+2021-06,Apparel,Men's,Ohio,650,41800,15746.0
+2021-06,Apparel,Men's,Oklahoma,492,25241,9495.939999999999
+2021-06,Apparel,Men's,Oregon,648,54668,23637.440000000002
+2021-06,Apparel,Men's,Rhode Island,324,15357,5042.04
+2021-06,Apparel,Men's,South Carolina,945,60840,22503.0
+2021-06,Apparel,Men's,South Dakota,226,9966,3697.2
+2021-06,Apparel,Men's,Utah,640,20840,7724.5599999999995
+2021-06,Apparel,Men's,Vermont,486,27318,10543.2
+2021-06,Apparel,Men's,Virginia,632,53128,22700.08
+2021-06,Apparel,Men's,West Virginia,349,15409,6618.7
+2021-06,Apparel,Men's,Wisconsin,221,7689,4000.9
+2021-06,Apparel,Men's,Wyoming,635,31615,10410.6
+2021-06,Apparel,Women's,Alaska,576,39942,12995.64
+2021-06,Apparel,Women's,Arizona,814,53057,14965.79
+2021-06,Apparel,Women's,Arkansas,875,49560,21271.2
+2021-06,Apparel,Women's,Connecticut,676,37380,14247.0
+2021-06,Apparel,Women's,Delaware,585,34560,14806.8
+2021-06,Apparel,Women's,Florida,1216,123306,58324.68
+2021-06,Apparel,Women's,Georgia,915,60370,16802.4
+2021-06,Apparel,Women's,Hawaii,819,81393,34524.36
+2021-06,Apparel,Women's,Idaho,1304,71877,37819.65
+2021-06,Apparel,Women's,Illinois,1587,79692,41715.8
+2021-06,Apparel,Women's,Indiana,416,24596,10398.96
+2021-06,Apparel,Women's,Iowa,410,22210,9447.55
+2021-06,Apparel,Women's,Kansas,567,33786,12775.14
+2021-06,Apparel,Women's,Kentucky,476,25877,10981.04
+2021-06,Apparel,Women's,Louisiana,1193,121840,46369.399999999994
+2021-06,Apparel,Women's,Maryland,384,20951,6953.099999999999
+2021-06,Apparel,Women's,Massachusetts,596,33594,10905.6
+2021-06,Apparel,Women's,Michigan,844,54015,30722.250000000004
+2021-06,Apparel,Women's,Mississippi,1032,63074,33338.47
+2021-06,Apparel,Women's,Missouri,667,29589,15689.1
+2021-06,Apparel,Women's,Nebraska,1238,53657,28123.4
+2021-06,Apparel,Women's,New Hampshire,775,50458,19320.26
+2021-06,Apparel,Women's,New Jersey,520,27999,11799.6
+2021-06,Apparel,Women's,New Mexico,954,66588,18253.68
+2021-06,Apparel,Women's,New York,906,63239,33118.18
+2021-06,Apparel,Women's,North Carolina,1056,73227,38161.2
+2021-06,Apparel,Women's,North Dakota,416,22516,9656.14
+2021-06,Apparel,Women's,Ohio,871,59794,31402.28
+2021-06,Apparel,Women's,Oklahoma,742,41040,17280.6
+2021-06,Apparel,Women's,Oregon,1120,108549,35770.77
+2021-06,Apparel,Women's,Rhode Island,557,28854,12291.130000000001
+2021-06,Apparel,Women's,South Carolina,1175,81000,42775.0
+2021-06,Apparel,Women's,South Dakota,419,22575,9641.0
+2021-06,Apparel,Women's,Utah,915,34780,18203.2
+2021-06,Apparel,Women's,Vermont,725,44246,18955.979999999996
+2021-06,Apparel,Women's,Virginia,1113,109914,36047.34
+2021-06,Apparel,Women's,West Virginia,540,34410,14578.2
+2021-06,Apparel,Women's,Wisconsin,423,22873,9898.9
+2021-06,Apparel,Women's,Wyoming,813,43900,11953.0
+2021-06,Athletic Footwear,Men's,Alaska,512,30160,11480.0
+2021-06,Athletic Footwear,Men's,Arizona,756,38311,16271.92
+2021-06,Athletic Footwear,Men's,Arkansas,680,21992,8321.08
+2021-06,Athletic Footwear,Men's,California,443,18353,6940.08
+2021-06,Athletic Footwear,Men's,Connecticut,593,27974,11970.64
+2021-06,Athletic Footwear,Men's,Delaware,520,25760,9592.0
+2021-06,Athletic Footwear,Men's,Florida,1127,73864,20240.079999999998
+2021-06,Athletic Footwear,Men's,Georgia,835,43496,18538.9
+2021-06,Athletic Footwear,Men's,Hawaii,756,56232,12481.92
+2021-06,Athletic Footwear,Men's,Idaho,1201,55353,21050.09
+2021-06,Athletic Footwear,Men's,Illinois,934,46302,17346.18
+2021-06,Athletic Footwear,Men's,Indiana,419,14383,6144.24
+2021-06,Athletic Footwear,Men's,Iowa,352,10406,3922.38
+2021-06,Athletic Footwear,Men's,Kansas,419,14383,5425.089999999999
+2021-06,Athletic Footwear,Men's,Kentucky,352,12166,4613.84
+2021-06,Athletic Footwear,Men's,Louisiana,1134,74970,32242.0
+2021-06,Athletic Footwear,Men's,Maryland,325,14325,5382.75
+2021-06,Athletic Footwear,Men's,Massachusetts,533,24772,8043.84
+2021-06,Athletic Footwear,Men's,Michigan,742,36432,15648.279999999999
+2021-06,Athletic Footwear,Men's,Mississippi,775,28975,10870.25
+2021-06,Athletic Footwear,Men's,Missouri,441,12957,4805.219999999999
+2021-06,Athletic Footwear,Men's,Nebraska,958,36316,13599.539999999999
+2021-06,Athletic Footwear,Men's,New Hampshire,688,37988,16344.880000000001
+2021-06,Athletic Footwear,Men's,New Jersey,455,20370,7637.7
+2021-06,Athletic Footwear,Men's,New Mexico,891,50105,21303.59
+2021-06,Athletic Footwear,Men's,New York,800,43825,16567.25
+2021-06,Athletic Footwear,Men's,North Carolina,882,39144,14617.68
+2021-06,Athletic Footwear,Men's,North Dakota,315,10830,3519.4
+2021-06,Athletic Footwear,Men's,Ohio,688,30408,11265.18
+2021-06,Athletic Footwear,Men's,Oklahoma,561,18229,6793.549999999999
+2021-06,Athletic Footwear,Men's,Oregon,1021,62221,23813.91
+2021-06,Athletic Footwear,Men's,Rhode Island,495,20865,7966.349999999999
+2021-06,Athletic Footwear,Men's,South Carolina,1000,49800,18410.0
+2021-06,Athletic Footwear,Men's,South Dakota,320,12730,4092.0
+2021-06,Athletic Footwear,Men's,Utah,644,15064,5767.5199999999995
+2021-06,Athletic Footwear,Men's,Vermont,636,33428,16167.32
+2021-06,Athletic Footwear,Men's,Virginia,1047,63106,23884.12
+2021-06,Athletic Footwear,Men's,West Virginia,544,21403,9001.5
+2021-06,Athletic Footwear,Men's,Wisconsin,390,11430,4340.7
+2021-06,Athletic Footwear,Men's,Wyoming,768,34056,10992.96
+2021-06,Athletic Footwear,Women's,Alaska,390,21270,5842.2
+2021-06,Athletic Footwear,Women's,Arizona,550,25860,9906.0
+2021-06,Athletic Footwear,Women's,Arkansas,597,22222,9467.76
+2021-06,Athletic Footwear,Women's,California,200,7365,3163.38
+2021-06,Athletic Footwear,Women's,Connecticut,440,18710,6164.95
+2021-06,Athletic Footwear,Women's,Delaware,375,16575,7091.25
+2021-06,Athletic Footwear,Women's,Florida,926,73746,24461.52
+2021-06,Athletic Footwear,Women's,Georgia,652,30236,12871.880000000001
+2021-06,Athletic Footwear,Women's,Hawaii,608,45467,12646.21
+2021-06,Athletic Footwear,Women's,Idaho,880,40535,19448.55
+2021-06,Athletic Footwear,Women's,Illinois,445,19845,8443.95
+2021-06,Athletic Footwear,Women's,Indiana,221,6584,2464.4799999999996
+2021-06,Athletic Footwear,Women's,Iowa,219,5431,1777.1399999999999
+2021-06,Athletic Footwear,Women's,Kansas,355,14040,5217.999999999999
+2021-06,Athletic Footwear,Women's,Kentucky,252,7508,3229.4
+2021-06,Athletic Footwear,Women's,Louisiana,920,72933,31913.42
+2021-06,Athletic Footwear,Women's,Maryland,194,7628,2914.0
+2021-06,Athletic Footwear,Women's,Massachusetts,362,15238,4149.44
+2021-06,Athletic Footwear,Women's,Michigan,683,30419,11529.869999999999
+2021-06,Athletic Footwear,Women's,Mississippi,716,30347,12793.880000000001
+2021-06,Athletic Footwear,Women's,Missouri,441,10843,4546.5
+2021-06,Athletic Footwear,Women's,Nebraska,442,14309,6084.12
+2021-06,Athletic Footwear,Women's,New Hampshire,520,26455,8658.26
+2021-06,Athletic Footwear,Women's,New Jersey,315,12535,5368.9
+2021-06,Athletic Footwear,Women's,New Mexico,659,33835,12651.449999999999
+2021-06,Athletic Footwear,Women's,New York,719,35806,11517.96
+2021-06,Athletic Footwear,Women's,North Carolina,819,40781,17223.31
+2021-06,Athletic Footwear,Women's,North Dakota,226,6729,2196.18
+2021-06,Athletic Footwear,Women's,Ohio,640,31860,13498.6
+2021-06,Athletic Footwear,Women's,Oklahoma,489,18264,7784.1
+2021-06,Athletic Footwear,Women's,Oregon,862,64790,25096.179999999997
+2021-06,Athletic Footwear,Women's,Rhode Island,330,12160,5300.8
+2021-06,Athletic Footwear,Women's,South Carolina,968,47746,15860.7
+2021-06,Athletic Footwear,Women's,South Dakota,224,7693,2543.1
+2021-06,Athletic Footwear,Women's,Utah,640,11768,4984.4
+2021-06,Athletic Footwear,Women's,Vermont,492,23106,8703.9
+2021-06,Athletic Footwear,Women's,Virginia,851,63448,24311.6
+2021-06,Athletic Footwear,Women's,West Virginia,344,11902,5034.04
+2021-06,Athletic Footwear,Women's,Wisconsin,222,5503,1774.98
+2021-06,Athletic Footwear,Women's,Wyoming,640,25320,9500.4
+2021-06,Street Footwear,Men's,Alaska,839,53401,19916.960000000003
+2021-06,Street Footwear,Men's,Arizona,975,45916,17406.04
+2021-06,Street Footwear,Men's,Arkansas,1114,40916,17361.52
+2021-06,Street Footwear,Men's,Connecticut,1006,51364,22434.9
+2021-06,Street Footwear,Men's,Delaware,839,45388,16946.09
+2021-06,Street Footwear,Men's,Florida,1320,80827,26560.55
+2021-06,Street Footwear,Men's,Georgia,1054,48951,20846.03
+2021-06,Street Footwear,Men's,Hawaii,935,64820,18315.5
+2021-06,Street Footwear,Men's,Idaho,1178,49163,18570.34
+2021-06,Street Footwear,Men's,Illinois,3158,159133,68155.42
+2021-06,Street Footwear,Men's,Indiana,730,28580,12269.0
+2021-06,Street Footwear,Men's,Iowa,662,22759,7353.78
+2021-06,Street Footwear,Men's,Kansas,719,28328,10714.0
+2021-06,Street Footwear,Men's,Kentucky,667,26112,10956.0
+2021-06,Street Footwear,Men's,Louisiana,1329,75916,32790.88
+2021-06,Street Footwear,Men's,Maryland,625,30874,12937.1
+2021-06,Street Footwear,Men's,Massachusetts,926,47173,15482.699999999999
+2021-06,Street Footwear,Men's,Michigan,1031,56086,29328.44
+2021-06,Street Footwear,Men's,Mississippi,1223,51142,21891.72
+2021-06,Street Footwear,Men's,Missouri,768,26376,11303.04
+2021-06,Street Footwear,Men's,Nebraska,2795,116683,49909.87
+2021-06,Street Footwear,Men's,New Hampshire,1060,63350,27206.47
+2021-06,Street Footwear,Men's,New Jersey,756,37019,13728.849999999999
+2021-06,Street Footwear,Men's,New Mexico,1127,57344,21774.2
+2021-06,Street Footwear,Men's,New York,1138,68017,32314.52
+2021-06,Street Footwear,Men's,North Carolina,1188,58447,25021.000000000004
+2021-06,Street Footwear,Men's,North Dakota,625,24500,9025.0
+2021-06,Street Footwear,Men's,Ohio,1032,51367,22024.64
+2021-06,Street Footwear,Men's,Oklahoma,948,36072,15449.52
+2021-06,Street Footwear,Men's,Oregon,1240,64419,24462.75
+2021-06,Street Footwear,Men's,Rhode Island,864,40321,15077.75
+2021-06,Street Footwear,Men's,South Carolina,1323,71672,33783.93
+2021-06,Street Footwear,Men's,South Dakota,635,28035,10421.099999999999
+2021-06,Street Footwear,Men's,Utah,1040,28964,12277.2
+2021-06,Street Footwear,Men's,Vermont,1008,57619,27524.170000000002
+2021-06,Street Footwear,Men's,Virginia,1241,63594,23912.2
+2021-06,Street Footwear,Men's,West Virginia,750,33450,14154.0
+2021-06,Street Footwear,Men's,Wisconsin,710,24370,8027.8
+2021-06,Street Footwear,Men's,Wyoming,1097,53862,28408.06
+2021-06,Street Footwear,Women's,Alaska,406,22168,6014.23
+2021-06,Street Footwear,Women's,Arizona,760,39190,14601.11
+2021-06,Street Footwear,Women's,Arkansas,628,23424,10096.48
+2021-06,Street Footwear,Women's,California,452,14537,5496.91
+2021-06,Street Footwear,Women's,Connecticut,483,20514,6803.099999999999
+2021-06,Street Footwear,Women's,Delaware,410,18280,7787.15
+2021-06,Street Footwear,Women's,Florida,1148,90580,29786.4
+2021-06,Street Footwear,Women's,Georgia,825,42421,15992.13
+2021-06,Street Footwear,Women's,Hawaii,780,57780,15850.8
+2021-06,Street Footwear,Women's,Idaho,960,44502,17018.28
+2021-06,Street Footwear,Women's,Illinois,990,39761,14816.39
+2021-06,Street Footwear,Women's,Indiana,250,7350,2707.5
+2021-06,Street Footwear,Women's,Iowa,250,6150,2017.5
+2021-06,Street Footwear,Women's,Kansas,381,14997,5578.62
+2021-06,Street Footwear,Women's,Kentucky,281,8318,3562.4
+2021-06,Street Footwear,Women's,Louisiana,1113,87899,38148.95
+2021-06,Street Footwear,Women's,Maryland,222,8739,3319.5
+2021-06,Street Footwear,Women's,Massachusetts,393,16806,4677.66
+2021-06,Street Footwear,Women's,Michigan,688,30408,9914.52
+2021-06,Street Footwear,Women's,Mississippi,775,32419,14157.91
+2021-06,Street Footwear,Women's,Missouri,488,11974,4554.76
+2021-06,Street Footwear,Women's,Nebraska,924,28958,10816.45
+2021-06,Street Footwear,Women's,New Hampshire,547,28601,9514.48
+2021-06,Street Footwear,Women's,New Jersey,344,13622,5789.66
+2021-06,Street Footwear,Women's,New Mexico,892,48959,18738.2
+2021-06,Street Footwear,Women's,New York,750,37200,10236.0
+2021-06,Street Footwear,Women's,North Carolina,844,41693,17789.22
+2021-06,Street Footwear,Women's,North Dakota,260,7620,2448.0
+2021-06,Street Footwear,Women's,Ohio,667,33208,14257.32
+2021-06,Street Footwear,Women's,Oklahoma,520,19057,8089.63
+2021-06,Street Footwear,Women's,Oregon,1047,77766,29280.68
+2021-06,Street Footwear,Women's,Rhode Island,364,13903,5988.81
+2021-06,Street Footwear,Women's,South Carolina,984,48573,13223.779999999999
+2021-06,Street Footwear,Women's,South Dakota,254,8728,2843.04
+2021-06,Street Footwear,Women's,Utah,668,12349,4661.33
+2021-06,Street Footwear,Women's,Vermont,510,23535,8820.25
+2021-06,Street Footwear,Women's,Virginia,1053,78299,29496.48
+2021-06,Street Footwear,Women's,West Virginia,381,13173,5643.42
+2021-06,Street Footwear,Women's,Wisconsin,252,6248,2049.12
+2021-06,Street Footwear,Women's,Wyoming,656,25978,9590.099999999999
+2021-07,Apparel,Men's,Alaska,416,26676,7446.139999999999
+2021-07,Apparel,Men's,Arizona,698,35831,12020.58
+2021-07,Apparel,Men's,Arkansas,693,38005,14516.05
+2021-07,Apparel,Men's,Connecticut,474,24791,8158.29
+2021-07,Apparel,Men's,Delaware,419,22668,7327.74
+2021-07,Apparel,Men's,Florida,1053,93249,21015.28
+2021-07,Apparel,Men's,Georgia,775,39895,15121.55
+2021-07,Apparel,Men's,Hawaii,699,58670,10588.5
+2021-07,Apparel,Men's,Idaho,829,43257,16414.489999999998
+2021-07,Apparel,Men's,Illinois,1139,57927,21769.239999999998
+2021-07,Apparel,Men's,Indiana,250,13550,4371.0
+2021-07,Apparel,Men's,Iowa,260,12760,6656.0
+2021-07,Apparel,Men's,Kansas,416,24596,9169.16
+2021-07,Apparel,Men's,Kentucky,325,15950,5962.0
+2021-07,Apparel,Men's,Louisiana,1060,94137,45119.990000000005
+2021-07,Apparel,Men's,Maryland,226,11095,3680.3999999999996
+2021-07,Apparel,Men's,Massachusetts,398,20633,5859.61
+2021-07,Apparel,Men's,Michigan,693,40722,17138.219999999998
+2021-07,Apparel,Men's,Mississippi,800,45750,17301.0
+2021-07,Apparel,Men's,Missouri,469,18478,6954.22
+2021-07,Apparel,Men's,Nebraska,571,24666,9233.56
+2021-07,Apparel,Men's,New Hampshire,571,34463,11403.61
+2021-07,Apparel,Men's,New Jersey,349,17301,5652.0599999999995
+2021-07,Apparel,Men's,New Mexico,805,44665,14601.95
+2021-07,Apparel,Men's,New York,768,49416,18441.36
+2021-07,Apparel,Men's,North Carolina,882,56238,21186.62
+2021-07,Apparel,Men's,North Dakota,260,12940,4852.4
+2021-07,Apparel,Men's,Ohio,704,44836,16692.059999999998
+2021-07,Apparel,Men's,Oklahoma,564,31770,12054.8
+2021-07,Apparel,Men's,Oregon,954,80568,34345.44
+2021-07,Apparel,Men's,Rhode Island,356,16454,5322.0599999999995
+2021-07,Apparel,Men's,South Carolina,1040,67360,25112.0
+2021-07,Apparel,Men's,South Dakota,252,12548,4672.08
+2021-07,Apparel,Men's,Utah,693,22891,8580.01
+2021-07,Apparel,Men's,Vermont,533,29022,10900.2
+2021-07,Apparel,Men's,Virginia,972,82890,35675.1
+2021-07,Apparel,Men's,West Virginia,387,22698,9736.92
+2021-07,Apparel,Men's,Wisconsin,250,12400,6488.0
+2021-07,Apparel,Men's,Wyoming,662,32826,10636.92
+2021-07,Apparel,Women's,Alaska,630,43710,14419.5
+2021-07,Apparel,Women's,Arizona,693,44661,12570.08
+2021-07,Apparel,Women's,Arkansas,948,58350,25257.0
+2021-07,Apparel,Women's,Connecticut,770,42588,16129.24
+2021-07,Apparel,Women's,Delaware,645,37975,15987.5
+2021-07,Apparel,Women's,Florida,1008,102588,48432.66
+2021-07,Apparel,Women's,Georgia,775,50838,14275.31
+2021-07,Apparel,Women's,Hawaii,704,69784,29687.68
+2021-07,Apparel,Women's,Idaho,1272,78776,45729.04000000001
+2021-07,Apparel,Women's,Illinois,2082,116178,61134.61
+2021-07,Apparel,Women's,Indiana,476,27954,11781.54
+2021-07,Apparel,Women's,Iowa,469,25419,10647.0
+2021-07,Apparel,Women's,Kansas,640,40900,15491.0
+2021-07,Apparel,Women's,Kentucky,540,29125,12455.0
+2021-07,Apparel,Women's,Louisiana,1021,105137,39991.4
+2021-07,Apparel,Women's,Maryland,452,24757,8088.0599999999995
+2021-07,Apparel,Women's,Massachusetts,685,37952,12338.64
+2021-07,Apparel,Women's,Michigan,935,60145,34902.55
+2021-07,Apparel,Women's,Mississippi,1060,64852,33914.19
+2021-07,Apparel,Women's,Missouri,710,31310,16376.6
+2021-07,Apparel,Women's,Nebraska,1735,83699,43899.33
+2021-07,Apparel,Women's,New Hampshire,825,53179,20223.22
+2021-07,Apparel,Women's,New Jersey,581,31823,13648.82
+2021-07,Apparel,Women's,New Mexico,800,55000,15554.6
+2021-07,Apparel,Women's,New York,969,67054,35447.6
+2021-07,Apparel,Women's,North Carolina,1138,78082,41229.16
+2021-07,Apparel,Women's,North Dakota,473,25917,11107.68
+2021-07,Apparel,Women's,Ohio,906,63239,33243.07
+2021-07,Apparel,Women's,Oklahoma,830,50122,21774.93
+2021-07,Apparel,Women's,Oregon,954,93462,30580.2
+2021-07,Apparel,Women's,Rhode Island,652,32967,13870.16
+2021-07,Apparel,Women's,South Carolina,1219,84354,44592.6
+2021-07,Apparel,Women's,South Dakota,469,25607,10890.46
+2021-07,Apparel,Women's,Utah,954,36228,19295.4
+2021-07,Apparel,Women's,Vermont,800,48700,20995.249999999996
+2021-07,Apparel,Women's,Virginia,966,95532,30845.16
+2021-07,Apparel,Women's,West Virginia,608,39254,16874.66
+2021-07,Apparel,Women's,Wisconsin,469,25513,10889.52
+2021-07,Apparel,Women's,Wyoming,896,48496,13223.56
+2021-07,Athletic Footwear,Men's,Alaska,536,32049,12003.03
+2021-07,Athletic Footwear,Men's,Arizona,830,42495,18170.2
+2021-07,Athletic Footwear,Men's,Arkansas,835,39027,14467.71
+2021-07,Athletic Footwear,Men's,Connecticut,632,29936,12764.48
+2021-07,Athletic Footwear,Men's,Delaware,544,26843,9954.349999999999
+2021-07,Athletic Footwear,Men's,Florida,1238,110512,31181.86
+2021-07,Athletic Footwear,Men's,Georgia,921,46849,20094.190000000002
+2021-07,Athletic Footwear,Men's,Hawaii,832,69992,16062.28
+2021-07,Athletic Footwear,Men's,Idaho,1248,63969,27173.28
+2021-07,Athletic Footwear,Men's,Illinois,2162,99155,37102.85
+2021-07,Athletic Footwear,Men's,Indiana,384,19116,8058.0
+2021-07,Athletic Footwear,Men's,Iowa,387,17328,6600.72
+2021-07,Athletic Footwear,Men's,Kansas,544,27081,10353.0
+2021-07,Athletic Footwear,Men's,Kentucky,445,19930,7560.7
+2021-07,Athletic Footwear,Men's,Louisiana,1201,106542,46415.159999999996
+2021-07,Athletic Footwear,Men's,Maryland,347,15399,5782.77
+2021-07,Athletic Footwear,Men's,Massachusetts,560,26425,8860.95
+2021-07,Athletic Footwear,Men's,Michigan,839,45767,19408.67
+2021-07,Athletic Footwear,Men's,Mississippi,948,49332,18334.92
+2021-07,Athletic Footwear,Men's,Missouri,630,21790,8141.3
+2021-07,Athletic Footwear,Men's,Nebraska,1306,48229,18155.61
+2021-07,Athletic Footwear,Men's,New Hampshire,730,41208,17483.82
+2021-07,Athletic Footwear,Men's,New Jersey,473,20991,7964.25
+2021-07,Athletic Footwear,Men's,New Mexico,990,55530,23906.7
+2021-07,Athletic Footwear,Men's,New York,896,52976,19639.199999999997
+2021-07,Athletic Footwear,Men's,North Carolina,1024,60992,23296.0
+2021-07,Athletic Footwear,Men's,North Dakota,384,17196,5639.28
+2021-07,Athletic Footwear,Men's,Ohio,845,49920,18782.4
+2021-07,Athletic Footwear,Men's,Oklahoma,702,32490,12303.0
+2021-07,Athletic Footwear,Men's,Oregon,1113,93982,35752.22
+2021-07,Athletic Footwear,Men's,Rhode Island,520,21594,8129.01
+2021-07,Athletic Footwear,Men's,South Carolina,1170,69660,26573.4
+2021-07,Athletic Footwear,Men's,South Dakota,381,17064,5653.8
+2021-07,Athletic Footwear,Men's,Utah,892,24780,9421.8
+2021-07,Athletic Footwear,Men's,Vermont,685,35330,16848.15
+2021-07,Athletic Footwear,Men's,Virginia,1127,92883,35378.7
+2021-07,Athletic Footwear,Men's,West Virginia,516,27800,11874.0
+2021-07,Athletic Footwear,Men's,Wisconsin,387,17154,6515.46
+2021-07,Athletic Footwear,Men's,Wyoming,788,35297,11521.46
+2021-07,Athletic Footwear,Women's,Alaska,375,20325,5578.5
+2021-07,Athletic Footwear,Women's,Arizona,589,27666,10289.94
+2021-07,Athletic Footwear,Women's,Arkansas,636,26956,11574.24
+2021-07,Athletic Footwear,Women's,Connecticut,449,18931,6341.46
+2021-07,Athletic Footwear,Women's,Delaware,390,17370,7451.1
+2021-07,Athletic Footwear,Women's,Florida,966,79734,26168.22
+2021-07,Athletic Footwear,Women's,Georgia,681,32130,13749.28
+2021-07,Athletic Footwear,Women's,Hawaii,630,49490,13796.0
+2021-07,Athletic Footwear,Women's,Idaho,820,38693,20428.08
+2021-07,Athletic Footwear,Women's,Illinois,1137,46452,19695.61
+2021-07,Athletic Footwear,Women's,Indiana,224,9933,3723.51
+2021-07,Athletic Footwear,Women's,Iowa,222,8739,2812.99
+2021-07,Athletic Footwear,Women's,Kansas,375,16725,6305.25
+2021-07,Athletic Footwear,Women's,Kentucky,288,11331,4858.74
+2021-07,Athletic Footwear,Women's,Louisiana,966,80724,34926.12
+2021-07,Athletic Footwear,Women's,Maryland,195,7620,2861.4
+2021-07,Athletic Footwear,Women's,Massachusetts,358,15207,4256.05
+2021-07,Athletic Footwear,Women's,Michigan,683,33676,12529.2
+2021-07,Athletic Footwear,Women's,Mississippi,742,34421,14683.73
+2021-07,Athletic Footwear,Women's,Missouri,476,14179,6052.37
+2021-07,Athletic Footwear,Women's,Nebraska,642,19908,8525.65
+2021-07,Athletic Footwear,Women's,New Hampshire,517,26553,8805.25
+2021-07,Athletic Footwear,Women's,New Jersey,313,12268,5224.72
+2021-07,Athletic Footwear,Women's,New Mexico,734,37851,14383.619999999999
+2021-07,Athletic Footwear,Women's,New York,725,39575,12906.0
+2021-07,Athletic Footwear,Women's,North Carolina,878,47681,20233.56
+2021-07,Athletic Footwear,Women's,North Dakota,228,9014,2966.02
+2021-07,Athletic Footwear,Women's,Ohio,677,36931,15900.240000000002
+2021-07,Athletic Footwear,Women's,Oklahoma,517,21962,9468.970000000001
+2021-07,Athletic Footwear,Women's,Oregon,886,70711,27133.609999999997
+2021-07,Athletic Footwear,Women's,Rhode Island,318,12006,5171.52
+2021-07,Athletic Footwear,Women's,South Carolina,977,53129,17199.18
+2021-07,Athletic Footwear,Women's,South Dakota,219,8672,2818.96
+2021-07,Athletic Footwear,Women's,Utah,668,15318,6535.06
+2021-07,Athletic Footwear,Women's,Vermont,486,22596,8730.119999999999
+2021-07,Athletic Footwear,Women's,Virginia,886,71123,27087.879999999997
+2021-07,Athletic Footwear,Women's,West Virginia,352,17446,7384.96
+2021-07,Athletic Footwear,Women's,Wisconsin,226,8938,2913.96
+2021-07,Athletic Footwear,Women's,Wyoming,650,25850,9749.5
+2021-07,Street Footwear,Men's,Alaska,857,55341,20630.61
+2021-07,Street Footwear,Men's,Arizona,1087,51994,19715.260000000002
+2021-07,Street Footwear,Men's,Arkansas,1279,64843,27313.58
+2021-07,Street Footwear,Men's,Connecticut,1034,54145,23496.34
+2021-07,Street Footwear,Men's,Delaware,857,46770,17816.4
+2021-07,Street Footwear,Men's,Florida,1458,122859,41304.24
+2021-07,Street Footwear,Men's,Georgia,1139,53528,22816.36
+2021-07,Street Footwear,Men's,Hawaii,1008,79392,21695.04
+2021-07,Street Footwear,Men's,Idaho,1256,58406,24958.399999999998
+2021-07,Street Footwear,Men's,Illinois,3122,164563,69999.25
+2021-07,Street Footwear,Men's,Indiana,699,37849,16127.470000000001
+2021-07,Street Footwear,Men's,Iowa,688,34262,11225.28
+2021-07,Street Footwear,Men's,Kansas,857,46406,17634.4
+2021-07,Street Footwear,Men's,Kentucky,768,37896,16342.8
+2021-07,Street Footwear,Men's,Louisiana,1476,123192,52864.56
+2021-07,Street Footwear,Men's,Maryland,656,32668,13837.48
+2021-07,Street Footwear,Men's,Massachusetts,930,47459,15373.499999999998
+2021-07,Street Footwear,Men's,Michigan,1125,66825,34695.0
+2021-07,Street Footwear,Men's,Mississippi,1360,77401,33185.36
+2021-07,Street Footwear,Men's,Missouri,953,37308,16019.400000000001
+2021-07,Street Footwear,Men's,Nebraska,2527,108425,46220.87
+2021-07,Street Footwear,Men's,New Hampshire,1120,69020,29458.24
+2021-07,Street Footwear,Men's,New Jersey,813,40085,15090.07
+2021-07,Street Footwear,Men's,New Mexico,1201,62380,23555.159999999996
+2021-07,Street Footwear,Men's,New York,1197,76323,35802.65
+2021-07,Street Footwear,Men's,North Carolina,1344,85890,36120.0
+2021-07,Street Footwear,Men's,North Dakota,710,35180,13388.2
+2021-07,Street Footwear,Men's,Ohio,1152,74376,31655.52
+2021-07,Street Footwear,Men's,Oklahoma,1120,57833,24429.88
+2021-07,Street Footwear,Men's,Oregon,1403,110275,42466.7
+2021-07,Street Footwear,Men's,Rhode Island,915,43005,16017.169999999998
+2021-07,Street Footwear,Men's,South Carolina,1461,94343,45197.37
+2021-07,Street Footwear,Men's,South Dakota,704,34738,12954.48
+2021-07,Street Footwear,Men's,Utah,1272,42560,18146.24
+2021-07,Street Footwear,Men's,Vermont,1066,59733,28717.56
+2021-07,Street Footwear,Men's,Virginia,1377,108715,41398.4
+2021-07,Street Footwear,Men's,West Virginia,832,49010,20805.2
+2021-07,Street Footwear,Men's,Wisconsin,699,34205,11066.1
+2021-07,Street Footwear,Men's,Wyoming,1103,54694,28879.16
+2021-07,Street Footwear,Women's,Alaska,452,24656,6758.66
+2021-07,Street Footwear,Women's,Arizona,765,39031,14719.73
+2021-07,Street Footwear,Women's,Arkansas,716,30148,12834.38
+2021-07,Street Footwear,Women's,Connecticut,517,21408,7050.12
+2021-07,Street Footwear,Women's,Delaware,452,19932,8558.28
+2021-07,Street Footwear,Women's,Florida,1127,99890,32928.0
+2021-07,Street Footwear,Women's,Georgia,846,43269,16624.29
+2021-07,Street Footwear,Women's,Hawaii,750,62850,17016.0
+2021-07,Street Footwear,Women's,Idaho,1444,66788,28567.14
+2021-07,Street Footwear,Women's,Illinois,1343,54828,20479.8
+2021-07,Street Footwear,Women's,Indiana,293,12981,4828.95
+2021-07,Street Footwear,Women's,Iowa,293,11448,3777.12
+2021-07,Street Footwear,Women's,Kansas,452,20034,7483.139999999999
+2021-07,Street Footwear,Women's,Kentucky,344,13622,5763.4400000000005
+2021-07,Street Footwear,Women's,Louisiana,1106,98630,42935.899999999994
+2021-07,Street Footwear,Women's,Maryland,260,10220,3887.8
+2021-07,Street Footwear,Women's,Massachusetts,440,18348,5106.639999999999
+2021-07,Street Footwear,Women's,Michigan,748,36708,12206.099999999999
+2021-07,Street Footwear,Women's,Mississippi,835,39282,16518.72
+2021-07,Street Footwear,Women's,Missouri,553,16462,6170.02
+2021-07,Street Footwear,Women's,Nebraska,821,28143,10627.41
+2021-07,Street Footwear,Women's,New Hampshire,612,31247,10305.72
+2021-07,Street Footwear,Women's,New Jersey,381,14997,6358.4400000000005
+2021-07,Street Footwear,Women's,New Mexico,881,48949,18471.93
+2021-07,Street Footwear,Women's,New York,794,42994,11610.4
+2021-07,Street Footwear,Women's,North Carolina,921,50263,21663.4
+2021-07,Street Footwear,Women's,North Dakota,284,11183,3573.2
+2021-07,Street Footwear,Women's,Ohio,748,40448,17149.73
+2021-07,Street Footwear,Women's,Oklahoma,600,25334,10842.33
+2021-07,Street Footwear,Women's,Oregon,1034,87104,33189.58
+2021-07,Street Footwear,Women's,Rhode Island,393,14511,6198.3
+2021-07,Street Footwear,Women's,South Carolina,1073,58023,15897.029999999999
+2021-07,Street Footwear,Women's,South Dakota,286,11257,3647.94
+2021-07,Street Footwear,Women's,Utah,770,18170,6909.38
+2021-07,Street Footwear,Women's,Vermont,557,25605,9619.73
+2021-07,Street Footwear,Women's,Virginia,1040,87048,32418.88
+2021-07,Street Footwear,Women's,West Virginia,423,21052,9045.06
+2021-07,Street Footwear,Women's,Wisconsin,286,11318,3696.74
+2021-07,Street Footwear,Women's,Wyoming,699,27662,10417.759999999998
+2021-08,Apparel,Men's,Alabama,2430,91281,37439.09
+2021-08,Apparel,Men's,Alaska,290,18655,5187.65
+2021-08,Apparel,Men's,Arizona,652,38964,12870.44
+2021-08,Apparel,Men's,Arkansas,601,28694,10892.66
+2021-08,Apparel,Men's,Connecticut,314,16317,5346.36
+2021-08,Apparel,Men's,Delaware,288,15524,5129.7
+2021-08,Apparel,Men's,Florida,784,59040,13390.34
+2021-08,Apparel,Men's,Georgia,716,43950,16650.9
+2021-08,Apparel,Men's,Hawaii,672,46893,8251.11
+2021-08,Apparel,Men's,Idaho,774,39515,15044.189999999999
+2021-08,Apparel,Men's,Illinois,449,26718,10037.9
+2021-08,Apparel,Men's,Indiana,228,11241,3745.95
+2021-08,Apparel,Men's,Iowa,226,11198,5843.8
+2021-08,Apparel,Men's,Kansas,344,16993,6434.0
+2021-08,Apparel,Men's,Kentucky,290,14435,5498.15
+2021-08,Apparel,Men's,Louisiana,765,46850,22604.74
+2021-08,Apparel,Men's,Maryland,163,8035,2678.3999999999996
+2021-08,Apparel,Men's,Massachusetts,245,12489,3427.05
+2021-08,Apparel,Men's,Michigan,635,28170,12005.1
+2021-08,Apparel,Men's,Mississippi,730,33642,12722.999999999998
+2021-08,Apparel,Men's,Missouri,381,13254,4969.379999999999
+2021-08,Apparel,Men's,New Hampshire,403,24157,8001.15
+2021-08,Apparel,Men's,New Jersey,221,10865,3534.58
+2021-08,Apparel,Men's,New Mexico,761,49334,15942.04
+2021-08,Apparel,Men's,New York,699,37998,14306.54
+2021-08,Apparel,Men's,North Carolina,826,45078,16989.94
+2021-08,Apparel,Men's,North Dakota,219,10774,3993.54
+2021-08,Apparel,Men's,Ohio,635,34250,12932.5
+2021-08,Apparel,Men's,Oklahoma,486,23007,8517.15
+2021-08,Apparel,Men's,Oregon,689,45278,19336.96
+2021-08,Apparel,Men's,Rhode Island,196,9124,2965.5
+2021-08,Apparel,Men's,South Carolina,975,52725,19716.0
+2021-08,Apparel,Men's,South Dakota,221,10912,4057.02
+2021-08,Apparel,Men's,Texas,1527,56546,16547.0
+2021-08,Apparel,Men's,Utah,564,16052,6053.429999999999
+2021-08,Apparel,Men's,Vermont,362,20301,7747.889999999999
+2021-08,Apparel,Men's,Virginia,663,43266,18389.24
+2021-08,Apparel,Men's,West Virginia,318,15832,6799.280000000001
+2021-08,Apparel,Men's,Wisconsin,221,10958,5810.2
+2021-08,Apparel,Men's,Wyoming,640,31580,10197.8
+2021-08,Apparel,Women's,Alabama,4189,137378,84329.45000000001
+2021-08,Apparel,Women's,Alaska,504,34968,11326.56
+2021-08,Apparel,Women's,Arizona,600,38648,10767.14
+2021-08,Apparel,Women's,Arkansas,886,45120,19446.4
+2021-08,Apparel,Women's,Connecticut,604,33731,12835.779999999999
+2021-08,Apparel,Women's,Delaware,520,31080,13281.6
+2021-08,Apparel,Women's,Florida,483,38307,18384.66
+2021-08,Apparel,Women's,Georgia,672,44242,12125.699999999999
+2021-08,Apparel,Women's,Hawaii,438,32586,13858.08
+2021-08,Apparel,Women's,Idaho,1160,64600,37536.880000000005
+2021-08,Apparel,Women's,Illinois,696,44897,23518.92
+2021-08,Apparel,Women's,Indiana,441,24164,10304.42
+2021-08,Apparel,Women's,Iowa,448,24444,10556.7
+2021-08,Apparel,Women's,Kansas,563,30626,11600.5
+2021-08,Apparel,Women's,Kentucky,520,28120,12104.8
+2021-08,Apparel,Women's,Louisiana,492,31362,11911.259999999998
+2021-08,Apparel,Women's,Maryland,381,20792,6795.69
+2021-08,Apparel,Women's,Massachusetts,514,29286,9802.9
+2021-08,Apparel,Women's,Michigan,851,41670,23948.1
+2021-08,Apparel,Women's,Mississippi,1000,51984,27768.15
+2021-08,Apparel,Women's,Missouri,603,23608,12495.2
+2021-08,Apparel,Women's,New Hampshire,676,43204,16068.880000000001
+2021-08,Apparel,Women's,New Jersey,455,24709,10593.400000000001
+2021-08,Apparel,Women's,New Mexico,729,50220,14237.1
+2021-08,Apparel,Women's,New York,943,55490,28944.0
+2021-08,Apparel,Women's,North Carolina,1056,61974,32733.36
+2021-08,Apparel,Women's,North Dakota,445,24380,10418.9
+2021-08,Apparel,Women's,Ohio,844,49626,25816.86
+2021-08,Apparel,Women's,Oklahoma,765,38965,16794.8
+2021-08,Apparel,Women's,Oregon,411,28451,9566.960000000001
+2021-08,Apparel,Women's,Rhode Island,483,24671,10757.12
+2021-08,Apparel,Women's,South Carolina,1203,71624,37585.64
+2021-08,Apparel,Women's,South Dakota,438,23914,10032.0
+2021-08,Apparel,Women's,Texas,2368,77349,38081.0
+2021-08,Apparel,Women's,Utah,861,28207,14937.66
+2021-08,Apparel,Women's,Vermont,640,38328,16208.56
+2021-08,Apparel,Women's,Virginia,405,28625,9420.5
+2021-08,Apparel,Women's,West Virginia,540,29585,12703.4
+2021-08,Apparel,Women's,Wisconsin,452,24554,10405.04
+2021-08,Apparel,Women's,Wyoming,871,47317,13358.05
+2021-08,Athletic Footwear,Men's,Alabama,4146,111112,51292.10999999999
+2021-08,Athletic Footwear,Men's,Alaska,531,31436,11596.2
+2021-08,Athletic Footwear,Men's,Arizona,926,52417,22059.3
+2021-08,Athletic Footwear,Men's,Arkansas,840,43321,16424.19
+2021-08,Athletic Footwear,Men's,Connecticut,636,29536,12722.560000000001
+2021-08,Athletic Footwear,Men's,Delaware,553,27266,10204.859999999999
+2021-08,Athletic Footwear,Men's,Florida,1303,102307,27489.35
+2021-08,Athletic Footwear,Men's,Georgia,1000,56450,23974.0
+2021-08,Athletic Footwear,Men's,Hawaii,943,69853,16137.52
+2021-08,Athletic Footwear,Men's,Idaho,1200,61020,26034.6
+2021-08,Athletic Footwear,Men's,Illinois,1296,45688,15626.2
+2021-08,Athletic Footwear,Men's,Indiana,387,17067,7326.18
+2021-08,Athletic Footwear,Men's,Iowa,378,16776,6231.96
+2021-08,Athletic Footwear,Men's,Kansas,536,29036,10728.699999999999
+2021-08,Athletic Footwear,Men's,Kentucky,441,19481,7266.07
+2021-08,Athletic Footwear,Men's,Louisiana,1320,103120,43856.009999999995
+2021-08,Athletic Footwear,Men's,Maryland,358,15778,6032.75
+2021-08,Athletic Footwear,Men's,Massachusetts,550,25332,8128.48
+2021-08,Athletic Footwear,Men's,Michigan,845,45500,19175.0
+2021-08,Athletic Footwear,Men's,Mississippi,966,50112,19153.92
+2021-08,Athletic Footwear,Men's,Missouri,618,24434,9149.64
+2021-08,Athletic Footwear,Men's,Nebraska,871,25934,11169.359999999999
+2021-08,Athletic Footwear,Men's,New Hampshire,720,40095,17502.75
+2021-08,Athletic Footwear,Men's,New Jersey,476,21117,7899.99
+2021-08,Athletic Footwear,Men's,New Mexico,1034,61962,26418.08
+2021-08,Athletic Footwear,Men's,New York,910,53550,19897.499999999996
+2021-08,Athletic Footwear,Men's,North Carolina,1000,59600,22020.0
+2021-08,Athletic Footwear,Men's,North Dakota,390,17280,5562.0
+2021-08,Athletic Footwear,Men's,Ohio,845,50310,18852.6
+2021-08,Athletic Footwear,Men's,Oklahoma,703,35693,13546.71
+2021-08,Athletic Footwear,Men's,Oregon,1264,95580,37043.16
+2021-08,Athletic Footwear,Men's,Rhode Island,527,21888,8222.67
+2021-08,Athletic Footwear,Men's,South Carolina,1143,67122,25329.78
+2021-08,Athletic Footwear,Men's,South Dakota,378,16776,5524.2
+2021-08,Athletic Footwear,Men's,Texas,3193,104128,37829.5
+2021-08,Athletic Footwear,Men's,Utah,835,27841,10629.67
+2021-08,Athletic Footwear,Men's,Vermont,680,35400,17165.010000000002
+2021-08,Athletic Footwear,Men's,Virginia,1217,90072,34411.36
+2021-08,Athletic Footwear,Men's,West Virginia,390,17280,7479.0
+2021-08,Athletic Footwear,Men's,Wisconsin,384,17112,6422.639999999999
+2021-08,Athletic Footwear,Men's,Wyoming,788,35134,11311.19
+2021-08,Athletic Footwear,Women's,Alabama,2561,75010,42567.020000000004
+2021-08,Athletic Footwear,Women's,Alaska,318,17354,4879.1
+2021-08,Athletic Footwear,Women's,Arizona,632,32984,12720.96
+2021-08,Athletic Footwear,Women's,Arkansas,636,23884,10150.6
+2021-08,Athletic Footwear,Women's,Connecticut,365,15217,4940.9
+2021-08,Athletic Footwear,Women's,Delaware,313,13833,5791.5
+2021-08,Athletic Footwear,Women's,Florida,765,58419,19129.26
+2021-08,Athletic Footwear,Women's,Georgia,712,36997,15830.380000000001
+2021-08,Athletic Footwear,Women's,Hawaii,667,46264,12802.82
+2021-08,Athletic Footwear,Women's,Idaho,761,35048,18684.1
+2021-08,Athletic Footwear,Women's,Illinois,1159,47377,20180.2
+2021-08,Athletic Footwear,Women's,Indiana,260,10280,3871.6
+2021-08,Athletic Footwear,Women's,Iowa,254,9998,3219.18
+2021-08,Athletic Footwear,Women's,Kansas,390,15330,5831.7
+2021-08,Athletic Footwear,Women's,Kentucky,325,12850,5425.0
+2021-08,Athletic Footwear,Women's,Louisiana,746,52962,22966.71
+2021-08,Athletic Footwear,Women's,Maryland,194,7628,2848.88
+2021-08,Athletic Footwear,Women's,Massachusetts,284,11815,3243.31
+2021-08,Athletic Footwear,Women's,Michigan,667,23203,8603.85
+2021-08,Athletic Footwear,Women's,Mississippi,750,28696,12171.52
+2021-08,Athletic Footwear,Women's,Missouri,416,10309,4451.2
+2021-08,Athletic Footwear,Women's,Nebraska,613,21179,11227.06
+2021-08,Athletic Footwear,Women's,New Hampshire,435,22493,7262.46
+2021-08,Athletic Footwear,Women's,New Jersey,252,9872,4154.72
+2021-08,Athletic Footwear,Women's,New Mexico,770,43357,16258.59
+2021-08,Athletic Footwear,Women's,New York,725,32025,10222.5
+2021-08,Athletic Footwear,Women's,North Carolina,857,38383,16394.239999999998
+2021-08,Athletic Footwear,Women's,North Dakota,252,9976,3210.16
+2021-08,Athletic Footwear,Women's,Ohio,683,30103,12753.78
+2021-08,Athletic Footwear,Women's,Oklahoma,524,19808,8384.960000000001
+2021-08,Athletic Footwear,Women's,Oregon,672,44242,16566.82
+2021-08,Athletic Footwear,Women's,Rhode Island,236,8806,3750.88
+2021-08,Athletic Footwear,Women's,South Carolina,1008,45127,14665.82
+2021-08,Athletic Footwear,Women's,South Dakota,258,10204,3347.7200000000003
+2021-08,Athletic Footwear,Women's,Texas,1345,44131,19961.12
+2021-08,Athletic Footwear,Women's,Utah,600,11155,4832.99
+2021-08,Athletic Footwear,Women's,Vermont,403,19232,7369.04
+2021-08,Athletic Footwear,Women's,Virginia,672,44148,16760.32
+2021-08,Athletic Footwear,Women's,West Virginia,347,13592,5721.92
+2021-08,Athletic Footwear,Women's,Wisconsin,250,9950,3277.5
+2021-08,Athletic Footwear,Women's,Wyoming,672,26586,10087.14
+2021-08,Street Footwear,Men's,Alabama,5334,129994,60823.75
+2021-08,Street Footwear,Men's,Alaska,813,51867,19115.15
+2021-08,Street Footwear,Men's,Arizona,982,50479,19287.85
+2021-08,Street Footwear,Men's,Arkansas,1193,66569,28745.55
+2021-08,Street Footwear,Men's,Connecticut,982,50447,21580.95
+2021-08,Street Footwear,Men's,Delaware,813,43899,16505.65
+2021-08,Street Footwear,Men's,Florida,1318,116621,38065.11
+2021-08,Street Footwear,Men's,Georgia,1066,54922,23518.92
+2021-08,Street Footwear,Men's,Hawaii,960,80340,22075.8
+2021-08,Street Footwear,Men's,Idaho,1193,56014,24031.679999999997
+2021-08,Street Footwear,Men's,Illinois,1564,56830,22564.5
+2021-08,Street Footwear,Men's,Indiana,677,33394,14429.2
+2021-08,Street Footwear,Men's,Iowa,656,32669,10570.98
+2021-08,Street Footwear,Men's,Kansas,839,49584,18942.0
+2021-08,Street Footwear,Men's,Kentucky,742,36432,15648.28
+2021-08,Street Footwear,Men's,Louisiana,1360,121295,52233.35
+2021-08,Street Footwear,Men's,Maryland,635,31479,13434.0
+2021-08,Street Footwear,Men's,Massachusetts,932,47514,15616.399999999998
+2021-08,Street Footwear,Men's,Michigan,1138,66965,35507.6
+2021-08,Street Footwear,Men's,Mississippi,1296,72036,31024.8
+2021-08,Street Footwear,Men's,Missouri,903,35714,15057.0
+2021-08,Street Footwear,Men's,Nebraska,878,17357,7444.21
+2021-08,Street Footwear,Men's,New Hampshire,1074,65379,28029.84
+2021-08,Street Footwear,Men's,New Jersey,780,38459,14560.449999999999
+2021-08,Street Footwear,Men's,New Mexico,1099,60760,22915.199999999997
+2021-08,Street Footwear,Men's,New York,1175,75625,35736.25
+2021-08,Street Footwear,Men's,North Carolina,1333,85413,36607.64
+2021-08,Street Footwear,Men's,North Dakota,672,33012,12500.880000000001
+2021-08,Street Footwear,Men's,Ohio,1103,70783,29704.0
+2021-08,Street Footwear,Men's,Oklahoma,1094,60514,25558.440000000002
+2021-08,Street Footwear,Men's,Oregon,1256,105864,39511.68
+2021-08,Street Footwear,Men's,Rhode Island,875,40993,15617.65
+2021-08,Street Footwear,Men's,South Carolina,1451,93337,44427.090000000004
+2021-08,Street Footwear,Men's,South Dakota,656,32669,12268.619999999999
+2021-08,Street Footwear,Men's,Texas,3254,75363,27166.01
+2021-08,Street Footwear,Men's,Utah,1201,39645,16996.62
+2021-08,Street Footwear,Men's,Vermont,1041,58238,28280.1
+2021-08,Street Footwear,Men's,Virginia,1312,110144,41453.6
+2021-08,Street Footwear,Men's,West Virginia,656,32276,13633.52
+2021-08,Street Footwear,Men's,Wisconsin,683,33518,10927.56
+2021-08,Street Footwear,Men's,Wyoming,1105,54485,28920.4
+2021-08,Street Footwear,Women's,Alabama,3084,65817,30407.159999999996
+2021-08,Street Footwear,Women's,Alaska,452,24758,6795.38
+2021-08,Street Footwear,Women's,Arizona,716,36513,13973.49
+2021-08,Street Footwear,Women's,Arkansas,711,33822,14455.44
+2021-08,Street Footwear,Women's,Connecticut,517,21962,7199.4
+2021-08,Street Footwear,Women's,Delaware,455,20160,8505.0
+2021-08,Street Footwear,Women's,Florida,1120,85064,27865.32
+2021-08,Street Footwear,Women's,Georgia,800,41900,15997.0
+2021-08,Street Footwear,Women's,Hawaii,762,52368,14543.52
+2021-08,Street Footwear,Women's,Idaho,1480,69645,29709.85
+2021-08,Street Footwear,Women's,Illinois,1252,48068,17057.5
+2021-08,Street Footwear,Women's,Indiana,281,11072,4123.84
+2021-08,Street Footwear,Women's,Iowa,286,11379,3722.9700000000003
+2021-08,Street Footwear,Women's,Kansas,452,22294,8522.0
+2021-08,Street Footwear,Women's,Kentucky,355,13880,5955.2
+2021-08,Street Footwear,Women's,Louisiana,1106,76580,32833.5
+2021-08,Street Footwear,Women's,Maryland,260,10340,3970.0
+2021-08,Street Footwear,Women's,Massachusetts,429,17738,4872.2
+2021-08,Street Footwear,Women's,Michigan,719,31923,10302.66
+2021-08,Street Footwear,Women's,Mississippi,851,39929,17083.24
+2021-08,Street Footwear,Women's,Missouri,520,17840,6666.4
+2021-08,Street Footwear,Women's,Nebraska,613,18114,7825.199999999999
+2021-08,Street Footwear,Women's,New Hampshire,593,30492,10186.949999999999
+2021-08,Street Footwear,Women's,New Jersey,375,14775,6298.5
+2021-08,Street Footwear,Women's,New Mexico,830,47234,17812.76
+2021-08,Street Footwear,Women's,New York,813,43963,12045.43
+2021-08,Street Footwear,Women's,North Carolina,935,51215,21960.2
+2021-08,Street Footwear,Women's,North Dakota,288,11331,3655.71
+2021-08,Street Footwear,Women's,Ohio,725,39575,16704.5
+2021-08,Street Footwear,Women's,Oklahoma,601,28355,12333.01
+2021-08,Street Footwear,Women's,Oregon,1060,69510,26722.399999999998
+2021-08,Street Footwear,Women's,Rhode Island,410,15400,6664.0
+2021-08,Street Footwear,Women's,South Carolina,1056,56925,15963.75
+2021-08,Street Footwear,Women's,South Dakota,290,11340,3636.0
+2021-08,Street Footwear,Women's,Texas,2393,67196,24266.43
+2021-08,Street Footwear,Women's,Utah,721,20411,7820.67
+2021-08,Street Footwear,Women's,Vermont,571,26484,9981.56
+2021-08,Street Footwear,Women's,Virginia,1054,69936,26400.829999999998
+2021-08,Street Footwear,Women's,West Virginia,387,15306,6519.12
+2021-08,Street Footwear,Women's,Wisconsin,281,11184,3573.6
+2021-08,Street Footwear,Women's,Wyoming,693,27434,10145.3
+2021-09,Apparel,Men's,Alabama,3370,149180,70063.26
+2021-09,Apparel,Men's,Alaska,260,16720,4738.0
+2021-09,Apparel,Men's,Arizona,608,31543,10414.14
+2021-09,Apparel,Men's,Arkansas,530,12285,4703.97
+2021-09,Apparel,Men's,Connecticut,284,14552,4814.28
+2021-09,Apparel,Men's,Delaware,260,13999,4619.7
+2021-09,Apparel,Men's,Florida,443,29062,6485.64
+2021-09,Apparel,Men's,Georgia,632,32152,12050.24
+2021-09,Apparel,Men's,Hawaii,441,32711,5875.8
+2021-09,Apparel,Men's,Idaho,644,33080,12502.8
+2021-09,Apparel,Men's,Indiana,192,6636,2129.4
+2021-09,Apparel,Men's,Iowa,195,6780,3558.3
+2021-09,Apparel,Men's,Kansas,286,7089,2686.1099999999997
+2021-09,Apparel,Men's,Kentucky,258,11494,4322.18
+2021-09,Apparel,Men's,Louisiana,435,22455,10599.54
+2021-09,Apparel,Men's,Maryland,130,6439,2118.9
+2021-09,Apparel,Men's,Massachusetts,200,10241,2850.67
+2021-09,Apparel,Men's,Michigan,603,26623,11174.0
+2021-09,Apparel,Men's,Mississippi,640,18036,6806.88
+2021-09,Apparel,Men's,Missouri,352,8646,3238.62
+2021-09,Apparel,Men's,New Hampshire,358,22017,7330.86
+2021-09,Apparel,Men's,New Jersey,191,9426,3039.7699999999995
+2021-09,Apparel,Men's,New Mexico,681,37294,12077.6
+2021-09,Apparel,Men's,New York,656,35556,13313.13
+2021-09,Apparel,Men's,North Carolina,756,29928,11126.88
+2021-09,Apparel,Men's,North Dakota,192,7512,2840.88
+2021-09,Apparel,Men's,Ohio,572,19654,7386.42
+2021-09,Apparel,Men's,Oklahoma,396,9374,3484.1
+2021-09,Apparel,Men's,Oregon,361,20618,8765.98
+2021-09,Apparel,Men's,Rhode Island,160,7390,2423.91
+2021-09,Apparel,Men's,South Carolina,875,43400,16114.0
+2021-09,Apparel,Men's,South Dakota,192,8472,3223.5
+2021-09,Apparel,Men's,Texas,3797,176275,62731.55
+2021-09,Apparel,Men's,Utah,527,9996,3858.84
+2021-09,Apparel,Men's,Vermont,318,18164,6770.68
+2021-09,Apparel,Men's,Virginia,355,19634,8380.42
+2021-09,Apparel,Men's,West Virginia,286,9827,4165.04
+2021-09,Apparel,Men's,Wisconsin,158,5464,2895.35
+2021-09,Apparel,Men's,Wyoming,625,31000,10080.0
+2021-09,Apparel,Women's,Alabama,5460,265670,177267.67000000004
+2021-09,Apparel,Women's,Alaska,384,26376,8504.16
+2021-09,Apparel,Women's,Arizona,676,37840,10657.0
+2021-09,Apparel,Women's,Arkansas,684,19281,8257.14
+2021-09,Apparel,Women's,Connecticut,441,24717,9539.88
+2021-09,Apparel,Women's,Delaware,384,22872,9830.880000000001
+2021-09,Apparel,Women's,Florida,474,24482,11565.720000000001
+2021-09,Apparel,Women's,Georgia,716,40939,11704.6
+2021-09,Apparel,Women's,Hawaii,480,28380,12116.4
+2021-09,Apparel,Women's,Idaho,1006,47319,27305.730000000003
+2021-09,Apparel,Women's,Indiana,293,11448,4872.96
+2021-09,Apparel,Women's,Iowa,286,11196,4698.0
+2021-09,Apparel,Women's,Kansas,419,12476,4748.24
+2021-09,Apparel,Women's,Kentucky,349,17376,7385.52
+2021-09,Apparel,Women's,Louisiana,465,17625,6742.5
+2021-09,Apparel,Women's,Maine,284,16863,7148.76
+2021-09,Apparel,Women's,Maryland,250,13699,4379.7
+2021-09,Apparel,Women's,Massachusetts,365,20248,6707.76
+2021-09,Apparel,Women's,Michigan,748,37054,21210.100000000002
+2021-09,Apparel,Women's,Mississippi,790,25820,13658.8
+2021-09,Apparel,Women's,Missouri,445,13160,6952.4
+2021-09,Apparel,Women's,New Hampshire,527,34926,13067.38
+2021-09,Apparel,Women's,New Jersey,323,17399,7434.1
+2021-09,Apparel,Women's,New Mexico,765,46258,12804.47
+2021-09,Apparel,Women's,New York,781,46704,24272.4
+2021-09,Apparel,Women's,North Carolina,903,39823,20827.03
+2021-09,Apparel,Women's,North Dakota,288,12897,5574.6
+2021-09,Apparel,Women's,Ohio,688,27106,14165.72
+2021-09,Apparel,Women's,Oklahoma,560,15785,6811.35
+2021-09,Apparel,Women's,Oregon,408,17302,5610.96
+2021-09,Apparel,Women's,Rhode Island,322,16639,7118.56
+2021-09,Apparel,Women's,South Carolina,1032,56064,29238.4
+2021-09,Apparel,Women's,South Dakota,290,14240,5995.0
+2021-09,Apparel,Women's,Texas,6297,302998,168142.05000000002
+2021-09,Apparel,Women's,Utah,652,15256,8197.52
+2021-09,Apparel,Women's,Vermont,471,28287,12256.199999999999
+2021-09,Apparel,Women's,Virginia,403,16928,5624.94
+2021-09,Apparel,Women's,West Virginia,375,14700,6177.0
+2021-09,Apparel,Women's,Wisconsin,252,9976,4188.0
+2021-09,Apparel,Women's,Wyoming,774,42048,11869.2
+2021-09,Athletic Footwear,Men's,Alabama,5431,247776,128371.95999999999
+2021-09,Athletic Footwear,Men's,Alaska,416,24505,9227.400000000001
+2021-09,Athletic Footwear,Men's,Arizona,937,42829,18551.83
+2021-09,Athletic Footwear,Men's,Arkansas,711,26424,10097.82
+2021-09,Athletic Footwear,Men's,Connecticut,468,22245,9581.4
+2021-09,Athletic Footwear,Men's,Delaware,410,20245,7485.25
+2021-09,Athletic Footwear,Men's,Florida,785,47350,13214.5
+2021-09,Athletic Footwear,Men's,Georgia,954,44856,19343.16
+2021-09,Athletic Footwear,Men's,Hawaii,699,48781,11092.73
+2021-09,Athletic Footwear,Men's,Idaho,1032,52097,22216.46
+2021-09,Athletic Footwear,Men's,Indiana,349,10396,4373.0
+2021-09,Athletic Footwear,Men's,Iowa,352,10329,3864.63
+2021-09,Athletic Footwear,Men's,Kansas,441,17458,6456.1
+2021-09,Athletic Footwear,Men's,Kentucky,419,18761,7145.389999999999
+2021-09,Athletic Footwear,Men's,Louisiana,800,37750,15942.5
+2021-09,Athletic Footwear,Men's,Maryland,288,12897,4791.15
+2021-09,Athletic Footwear,Men's,Massachusetts,401,18667,6124.4
+2021-09,Athletic Footwear,Men's,Michigan,774,30438,12883.380000000001
+2021-09,Athletic Footwear,Men's,Mississippi,830,35013,13184.789999999999
+2021-09,Athletic Footwear,Men's,Missouri,500,14800,5516.0
+2021-09,Athletic Footwear,Men's,New Hampshire,561,31118,13162.56
+2021-09,Athletic Footwear,Men's,New Jersey,347,15327,5807.25
+2021-09,Athletic Footwear,Men's,New Mexico,969,49663,21180.28
+2021-09,Athletic Footwear,Men's,New York,813,40324,14895.8
+2021-09,Athletic Footwear,Men's,North Carolina,906,45119,17122.0
+2021-09,Athletic Footwear,Men's,North Dakota,347,12073,3940.14
+2021-09,Athletic Footwear,Men's,Ohio,748,36881,13884.07
+2021-09,Athletic Footwear,Men's,Oklahoma,601,22308,8395.24
+2021-09,Athletic Footwear,Men's,Oregon,730,37766,14106.34
+2021-09,Athletic Footwear,Men's,Rhode Island,360,14903,5576.49
+2021-09,Athletic Footwear,Men's,South Carolina,1048,51954,19575.42
+2021-09,Athletic Footwear,Men's,South Dakota,355,14120,4548.0
+2021-09,Athletic Footwear,Men's,Texas,6119,276253,113822.78
+2021-09,Athletic Footwear,Men's,Utah,730,17058,6340.959999999999
+2021-09,Athletic Footwear,Men's,Vermont,521,26787,12971.369999999999
+2021-09,Athletic Footwear,Men's,Virginia,716,37205,13931.27
+2021-09,Athletic Footwear,Men's,West Virginia,441,13139,5598.67
+2021-09,Athletic Footwear,Men's,Wisconsin,315,9385,3473.25
+2021-09,Athletic Footwear,Men's,Wyoming,750,33600,10938.0
+2021-09,Athletic Footwear,Women's,Alabama,3682,161302,99904.56000000001
+2021-09,Athletic Footwear,Women's,Alaska,256,13800,3842.0
+2021-09,Athletic Footwear,Women's,Arizona,612,25600,9597.8
+2021-09,Athletic Footwear,Women's,Arkansas,517,7355,3114.8
+2021-09,Athletic Footwear,Women's,Connecticut,279,11501,3802.7999999999997
+2021-09,Athletic Footwear,Women's,Delaware,260,11460,4854.6
+2021-09,Athletic Footwear,Women's,Florida,393,21942,7314.24
+2021-09,Athletic Footwear,Women's,Georgia,640,27360,11918.4
+2021-09,Athletic Footwear,Women's,Hawaii,410,26395,7389.25
+2021-09,Athletic Footwear,Women's,Idaho,652,35820,19011.4
+2021-09,Athletic Footwear,Women's,Indiana,191,4734,1774.98
+2021-09,Athletic Footwear,Women's,Iowa,188,4624,1518.3
+2021-09,Athletic Footwear,Women's,Kansas,290,4285,1608.95
+2021-09,Athletic Footwear,Women's,Kentucky,254,8728,3681.2799999999997
+2021-09,Athletic Footwear,Women's,Louisiana,393,16553,6959.73
+2021-09,Athletic Footwear,Women's,Maryland,125,4900,1805.0
+2021-09,Athletic Footwear,Women's,Massachusetts,200,8463,2369.07
+2021-09,Athletic Footwear,Women's,Michigan,594,20671,7639.45
+2021-09,Athletic Footwear,Women's,Mississippi,620,11820,5109.0
+2021-09,Athletic Footwear,Women's,Missouri,358,5287,2265.86
+2021-09,Athletic Footwear,Women's,New Hampshire,355,18377,6081.639999999999
+2021-09,Athletic Footwear,Women's,New Jersey,188,7406,3145.1800000000003
+2021-09,Athletic Footwear,Women's,New Mexico,693,32642,12469.84
+2021-09,Athletic Footwear,Women's,New York,662,29653,9558.98
+2021-09,Athletic Footwear,Women's,North Carolina,750,22200,9300.0
+2021-09,Athletic Footwear,Women's,North Dakota,194,5732,1855.12
+2021-09,Athletic Footwear,Women's,Ohio,563,13962,5883.12
+2021-09,Athletic Footwear,Women's,Oklahoma,396,5628,2368.14
+2021-09,Athletic Footwear,Women's,Oregon,314,14904,5661.6
+2021-09,Athletic Footwear,Women's,Rhode Island,159,6013,2610.2200000000003
+2021-09,Athletic Footwear,Women's,South Carolina,910,36190,11676.0
+2021-09,Athletic Footwear,Women's,South Dakota,189,6576,2105.4
+2021-09,Athletic Footwear,Women's,Texas,4310,166812,83860.77
+2021-09,Athletic Footwear,Women's,Utah,524,4907,2106.2200000000003
+2021-09,Athletic Footwear,Women's,Vermont,318,14650,5570.599999999999
+2021-09,Athletic Footwear,Women's,Virginia,324,15020,5726.7
+2021-09,Athletic Footwear,Women's,West Virginia,284,6982,2928.5
+2021-09,Athletic Footwear,Women's,Wisconsin,159,3907,1289.4
+2021-09,Athletic Footwear,Women's,Wyoming,635,25130,9513.7
+2021-09,Street Footwear,Men's,Alabama,5323,191497,100858.10999999999
+2021-09,Street Footwear,Men's,Alaska,656,42509,15968.070000000002
+2021-09,Street Footwear,Men's,Arizona,926,39162,15116.08
+2021-09,Street Footwear,Men's,Arkansas,1053,48971,20868.77
+2021-09,Street Footwear,Men's,Connecticut,795,41309,17945.300000000003
+2021-09,Street Footwear,Men's,Delaware,667,35974,13584.9
+2021-09,Street Footwear,Men's,Florida,795,44940,14771.4
+2021-09,Street Footwear,Men's,Georgia,984,41064,17888.64
+2021-09,Street Footwear,Men's,Hawaii,699,44988,12263.18
+2021-09,Street Footwear,Men's,Idaho,1081,55355,23587.799999999996
+2021-09,Street Footwear,Men's,Indiana,608,21014,9020.06
+2021-09,Street Footwear,Men's,Iowa,608,21147,6796.3
+2021-09,Street Footwear,Men's,Kansas,715,35255,13502.5
+2021-09,Street Footwear,Men's,Kentucky,662,32826,13985.28
+2021-09,Street Footwear,Men's,Louisiana,820,34510,14854.75
+2021-09,Street Footwear,Men's,Maryland,553,27521,11698.32
+2021-09,Street Footwear,Men's,Massachusetts,738,37412,12302.52
+2021-09,Street Footwear,Men's,Michigan,1032,45744,24138.72
+2021-09,Street Footwear,Men's,Mississippi,1160,55071,23735.34
+2021-09,Street Footwear,Men's,Missouri,774,26568,11184.0
+2021-09,Street Footwear,Men's,New Hampshire,897,54679,23355.64
+2021-09,Street Footwear,Men's,New Jersey,599,29453,11107.11
+2021-09,Street Footwear,Men's,New Mexico,994,46859,17732.89
+2021-09,Street Footwear,Men's,New York,1088,58650,28058.5
+2021-09,Street Footwear,Men's,North Carolina,1175,64125,27240.0
+2021-09,Street Footwear,Men's,North Dakota,608,23788,9044.0
+2021-09,Street Footwear,Men's,Ohio,1000,53875,23125.0
+2021-09,Street Footwear,Men's,Oklahoma,921,42960,18624.600000000002
+2021-09,Street Footwear,Men's,Oregon,721,33178,12274.82
+2021-09,Street Footwear,Men's,Rhode Island,664,31236,11781.539999999999
+2021-09,Street Footwear,Men's,South Carolina,1312,71012,33858.21
+2021-09,Street Footwear,Men's,South Dakota,613,27171,10089.449999999999
+2021-09,Street Footwear,Men's,Texas,6164,246806,101363.70999999999
+2021-09,Street Footwear,Men's,Utah,1047,29645,12708.32
+2021-09,Street Footwear,Men's,Vermont,841,47048,22407.28
+2021-09,Street Footwear,Men's,Virginia,712,32913,12664.3
+2021-09,Street Footwear,Men's,West Virginia,704,24486,10370.36
+2021-09,Street Footwear,Men's,Wisconsin,618,21344,6922.29
+2021-09,Street Footwear,Men's,Wyoming,1008,49984,26389.760000000002
+2021-09,Street Footwear,Women's,Alabama,5880,267548,139358.3
+2021-09,Street Footwear,Women's,Alaska,284,15325,4214.75
+2021-09,Street Footwear,Women's,Arizona,698,29559,10994.65
+2021-09,Street Footwear,Women's,Arkansas,561,7835,3376.55
+2021-09,Street Footwear,Women's,Connecticut,324,13572,4458.24
+2021-09,Street Footwear,Women's,Delaware,286,12748,5387.73
+2021-09,Street Footwear,Women's,Florida,471,25794,8458.02
+2021-09,Street Footwear,Women's,Georgia,720,30240,11350.8
+2021-09,Street Footwear,Women's,Hawaii,480,31095,8714.55
+2021-09,Street Footwear,Women's,Idaho,1060,59421,25427.89
+2021-09,Street Footwear,Women's,Indiana,224,5502,2060.94
+2021-09,Street Footwear,Women's,Iowa,224,5551,1782.9
+2021-09,Street Footwear,Women's,Kansas,325,4875,1841.25
+2021-09,Street Footwear,Women's,Kentucky,290,10020,4286.85
+2021-09,Street Footwear,Women's,Louisiana,474,19734,8468.880000000001
+2021-09,Street Footwear,Women's,Maryland,161,6368,2434.0
+2021-09,Street Footwear,Women's,Massachusetts,236,9759,2702.13
+2021-09,Street Footwear,Women's,Michigan,645,22430,7320.6
+2021-09,Street Footwear,Women's,Mississippi,693,13012,5590.75
+2021-09,Street Footwear,Women's,Missouri,375,5550,2089.5
+2021-09,Street Footwear,Women's,New Hampshire,403,21004,6908.82
+2021-09,Street Footwear,Women's,New Jersey,226,8989,3854.17
+2021-09,Street Footwear,Women's,New Mexico,765,36061,13812.02
+2021-09,Street Footwear,Women's,New York,688,30408,8167.8
+2021-09,Street Footwear,Women's,North Carolina,800,23650,9999.0
+2021-09,Street Footwear,Women's,North Dakota,226,6627,2180.88
+2021-09,Street Footwear,Women's,Ohio,613,15049,6495.7
+2021-09,Street Footwear,Women's,Oklahoma,435,6183,2601.3
+2021-09,Street Footwear,Women's,Oregon,408,19412,7388.29
+2021-09,Street Footwear,Women's,Rhode Island,202,7499,3184.01
+2021-09,Street Footwear,Women's,South Carolina,921,36448,10154.720000000001
+2021-09,Street Footwear,Women's,South Dakota,228,7821,2515.9
+2021-09,Street Footwear,Women's,Texas,6354,273088,114503.01
+2021-09,Street Footwear,Women's,Utah,546,5054,1943.2
+2021-09,Street Footwear,Women's,Vermont,353,16706,6435.099999999999
+2021-09,Street Footwear,Women's,Virginia,393,18207,6871.65
+2021-09,Street Footwear,Women's,West Virginia,318,7882,3381.28
+2021-09,Street Footwear,Women's,Wisconsin,194,4806,1600.1999999999998
+2021-09,Street Footwear,Women's,Wyoming,662,26206,9744.759999999998
+2021-10,Apparel,Men's,Alabama,1485,76700,36475.409999999996
+2021-10,Apparel,Men's,Alaska,194,14374,3905.8999999999996
+2021-10,Apparel,Men's,Arizona,432,22654,7432.9400000000005
+2021-10,Apparel,Men's,Arkansas,449,12402,4647.84
+2021-10,Apparel,Men's,Connecticut,237,14688,4796.46
+2021-10,Apparel,Men's,Delaware,224,14413,4627.7
+2021-10,Apparel,Men's,Florida,564,33984,7541.860000000001
+2021-10,Apparel,Men's,Georgia,492,25182,9517.8
+2021-10,Apparel,Men's,Hawaii,320,20660,3672.3
+2021-10,Apparel,Men's,Idaho,564,18237,6884.51
+2021-10,Apparel,Men's,Indiana,188,8307,2710.22
+2021-10,Apparel,Men's,Iowa,163,7220,3833.44
+2021-10,Apparel,Men's,Kansas,221,6584,2491.16
+2021-10,Apparel,Men's,Kentucky,191,10422,3951.9199999999996
+2021-10,Apparel,Men's,Louisiana,557,26333,12605.99
+2021-10,Apparel,Men's,Maine,643,33612,9339.58
+2021-10,Apparel,Men's,Maryland,95,5620,1798.0
+2021-10,Apparel,Men's,Massachusetts,161,9908,2696.42
+2021-10,Apparel,Men's,Michigan,512,25376,10956.8
+2021-10,Apparel,Men's,Mississippi,553,18011,6958.0
+2021-10,Apparel,Men's,Missouri,293,10051,3778.97
+2021-10,Apparel,Men's,New Hampshire,279,19291,6269.88
+2021-10,Apparel,Men's,New Jersey,163,9704,3153.64
+2021-10,Apparel,Men's,New Mexico,530,29270,9634.66
+2021-10,Apparel,Men's,New York,650,38850,14659.5
+2021-10,Apparel,Men's,North Carolina,699,31008,11603.76
+2021-10,Apparel,Men's,North Dakota,159,7779,2906.2499999999995
+2021-10,Apparel,Men's,Ohio,516,20292,7574.32
+2021-10,Apparel,Men's,Oklahoma,318,8946,3364.48
+2021-10,Apparel,Men's,Oregon,468,24045,10339.5
+2021-10,Apparel,Men's,Pennsylvania,202,10540,3986.7199999999993
+2021-10,Apparel,Men's,Rhode Island,117,6465,2071.6
+2021-10,Apparel,Men's,South Carolina,839,45578,17229.94
+2021-10,Apparel,Men's,South Dakota,163,8926,3370.3399999999997
+2021-10,Apparel,Men's,Texas,2988,153098,58248.89
+2021-10,Apparel,Men's,Utah,443,12357,4754.0
+2021-10,Apparel,Men's,Vermont,284,18806,7083.48
+2021-10,Apparel,Men's,Virginia,492,25521,11162.64
+2021-10,Apparel,Men's,West Virginia,228,10047,4344.75
+2021-10,Apparel,Men's,Wisconsin,158,7076,3726.76
+2021-10,Apparel,Men's,Wyoming,603,33037,10878.78
+2021-10,Apparel,Women's,Alabama,2179,135392,92769.72000000002
+2021-10,Apparel,Women's,Alaska,358,28059,9023.6
+2021-10,Apparel,Women's,Arizona,517,29289,8142.21
+2021-10,Apparel,Women's,Arkansas,636,17656,7586.48
+2021-10,Apparel,Women's,Connecticut,443,28236,10884.58
+2021-10,Apparel,Women's,Delaware,378,25914,11102.7
+2021-10,Apparel,Women's,Florida,644,42180,20379.2
+2021-10,Apparel,Women's,Georgia,561,36042,10225.26
+2021-10,Apparel,Women's,Hawaii,375,25800,10848.0
+2021-10,Apparel,Women's,Idaho,846,35675,20520.730000000003
+2021-10,Apparel,Women's,Indiana,358,17733,7611.120000000001
+2021-10,Apparel,Women's,Iowa,323,16076,6895.410000000001
+2021-10,Apparel,Women's,Kansas,390,11520,4359.6
+2021-10,Apparel,Women's,Kentucky,358,19523,8249.1
+2021-10,Apparel,Women's,Louisiana,648,33560,12702.0
+2021-10,Apparel,Women's,Maine,1162,54273,23040.73
+2021-10,Apparel,Women's,Maryland,252,16119,5147.7
+2021-10,Apparel,Women's,Massachusetts,358,23508,7826.4
+2021-10,Apparel,Women's,Michigan,662,35999,20868.050000000003
+2021-10,Apparel,Women's,Mississippi,761,25091,13293.34
+2021-10,Apparel,Women's,Missouri,438,17343,9139.66
+2021-10,Apparel,Women's,New Hampshire,471,35592,13445.759999999998
+2021-10,Apparel,Women's,New Jersey,318,20465,8734.08
+2021-10,Apparel,Women's,New Mexico,611,42732,11987.82
+2021-10,Apparel,Women's,New York,781,50609,26502.58
+2021-10,Apparel,Women's,North Carolina,851,42198,22197.239999999998
+2021-10,Apparel,Women's,North Dakota,323,17618,7550.17
+2021-10,Apparel,Women's,Ohio,672,26586,14019.18
+2021-10,Apparel,Women's,Oklahoma,517,14611,6395.79
+2021-10,Apparel,Women's,Oregon,578,32133,10784.61
+2021-10,Apparel,Women's,Pennsylvania,356,14988,4953.22
+2021-10,Apparel,Women's,Rhode Island,324,19813,8457.6
+2021-10,Apparel,Women's,South Carolina,1000,59100,31440.0
+2021-10,Apparel,Women's,South Dakota,320,18849,8117.1
+2021-10,Apparel,Women's,Texas,4391,248984,144281.88
+2021-10,Apparel,Women's,Utah,644,20827,10952.86
+2021-10,Apparel,Women's,Vermont,471,33111,14283.630000000001
+2021-10,Apparel,Women's,Virginia,561,31378,10343.12
+2021-10,Apparel,Women's,West Virginia,384,18947,7973.6
+2021-10,Apparel,Women's,Wisconsin,315,15489,6524.5
+2021-10,Apparel,Women's,Wyoming,750,44250,12052.5
+2021-10,Athletic Footwear,Men's,Alabama,2655,103471,52417.70999999999
+2021-10,Athletic Footwear,Men's,Alaska,352,22495,8473.850000000002
+2021-10,Athletic Footwear,Men's,Arizona,820,37590,16037.45
+2021-10,Athletic Footwear,Men's,Arkansas,663,12362,4620.5
+2021-10,Athletic Footwear,Men's,Connecticut,441,22535,9535.04
+2021-10,Athletic Footwear,Men's,Delaware,390,21090,7886.4
+2021-10,Athletic Footwear,Men's,Florida,909,54041,14941.529999999999
+2021-10,Athletic Footwear,Men's,Georgia,840,38806,16440.92
+2021-10,Athletic Footwear,Men's,Hawaii,613,39293,8700.400000000001
+2021-10,Athletic Footwear,Men's,Idaho,938,34531,14862.44
+2021-10,Athletic Footwear,Men's,Indiana,315,10830,4644.0
+2021-10,Athletic Footwear,Men's,Iowa,325,11150,4166.5
+2021-10,Athletic Footwear,Men's,Kansas,410,8115,3017.9
+2021-10,Athletic Footwear,Men's,Kentucky,358,15778,6032.75
+2021-10,Athletic Footwear,Men's,Louisiana,914,41981,18151.449999999997
+2021-10,Athletic Footwear,Men's,Maine,894,39693,14990.31
+2021-10,Athletic Footwear,Men's,Maryland,258,12784,4780.639999999999
+2021-10,Athletic Footwear,Men's,Massachusetts,349,17859,5928.7
+2021-10,Athletic Footwear,Men's,Michigan,742,29179,12351.29
+2021-10,Athletic Footwear,Men's,Mississippi,810,18930,7044.099999999999
+2021-10,Athletic Footwear,Men's,Missouri,441,10934,4154.5
+2021-10,Athletic Footwear,Men's,New Hampshire,483,29064,12476.880000000001
+2021-10,Athletic Footwear,Men's,New Jersey,313,15524,5887.0
+2021-10,Athletic Footwear,Men's,New Mexico,881,44616,19022.38
+2021-10,Athletic Footwear,Men's,New York,781,38426,14238.46
+2021-10,Athletic Footwear,Men's,North Carolina,896,30968,11550.279999999999
+2021-10,Athletic Footwear,Men's,North Dakota,323,12628,4077.48
+2021-10,Athletic Footwear,Men's,Ohio,688,20502,7655.94
+2021-10,Athletic Footwear,Men's,Oklahoma,550,10240,3877.68
+2021-10,Athletic Footwear,Men's,Oregon,846,42598,15888.99
+2021-10,Athletic Footwear,Men's,Pennsylvania,204,8573,3271.1499999999996
+2021-10,Athletic Footwear,Men's,Rhode Island,324,15160,5744.16
+2021-10,Athletic Footwear,Men's,South Carolina,1008,44736,16968.0
+2021-10,Athletic Footwear,Men's,South Dakota,325,14325,4666.5
+2021-10,Athletic Footwear,Men's,Texas,3839,168058,70886.64
+2021-10,Athletic Footwear,Men's,Utah,632,11748,4489.2
+2021-10,Athletic Footwear,Men's,Vermont,474,26406,12623.94
+2021-10,Athletic Footwear,Men's,Virginia,840,42864,16218.69
+2021-10,Athletic Footwear,Men's,West Virginia,355,12185,5181.2
+2021-10,Athletic Footwear,Men's,Wisconsin,293,10119,3833.37
+2021-10,Athletic Footwear,Men's,Wyoming,774,34656,11162.4
+2021-10,Athletic Footwear,Women's,Alabama,1760,90871,55831.170000000006
+2021-10,Athletic Footwear,Women's,Alaska,192,12228,3329.58
+2021-10,Athletic Footwear,Women's,Arizona,492,20634,7894.26
+2021-10,Athletic Footwear,Women's,Arkansas,441,8278,3559.54
+2021-10,Athletic Footwear,Women's,Connecticut,233,12085,3931.6
+2021-10,Athletic Footwear,Women's,Delaware,219,11913,4994.0
+2021-10,Athletic Footwear,Women's,Florida,608,31188,10230.33
+2021-10,Athletic Footwear,Women's,Georgia,527,22145,9391.12
+2021-10,Athletic Footwear,Women's,Hawaii,358,19275,5316.75
+2021-10,Athletic Footwear,Women's,Idaho,592,25379,13477.9
+2021-10,Athletic Footwear,Women's,Indiana,194,6702,2505.4199999999996
+2021-10,Athletic Footwear,Women's,Iowa,156,5429,1755.18
+2021-10,Athletic Footwear,Women's,Kansas,222,4393,1653.6399999999999
+2021-10,Athletic Footwear,Women's,Kentucky,192,8472,3595.44
+2021-10,Athletic Footwear,Women's,Louisiana,600,22500,9489.599999999999
+2021-10,Athletic Footwear,Women's,Maine,283,12237,3920.2200000000003
+2021-10,Athletic Footwear,Women's,Maryland,96,4779,1827.0
+2021-10,Athletic Footwear,Women's,Massachusetts,159,8174,2257.36
+2021-10,Athletic Footwear,Women's,Michigan,516,20408,7804.0
+2021-10,Athletic Footwear,Women's,Mississippi,564,13345,5688.5
+2021-10,Athletic Footwear,Women's,Missouri,284,6982,2928.5
+2021-10,Athletic Footwear,Women's,New Hampshire,283,16973,5524.4
+2021-10,Athletic Footwear,Women's,New Jersey,156,7738,3273.76
+2021-10,Athletic Footwear,Women's,New Mexico,557,25790,9912.7
+2021-10,Athletic Footwear,Women's,New York,635,31075,9990.75
+2021-10,Athletic Footwear,Women's,North Carolina,710,24690,10637.6
+2021-10,Athletic Footwear,Women's,North Dakota,158,6254,2001.6
+2021-10,Athletic Footwear,Women's,Ohio,512,15248,6456.48
+2021-10,Athletic Footwear,Women's,Oklahoma,314,5866,2477.32
+2021-10,Athletic Footwear,Women's,Oregon,520,22065,8341.11
+2021-10,Athletic Footwear,Women's,Pennsylvania,80,2983,1263.56
+2021-10,Athletic Footwear,Women's,Rhode Island,121,5728,2444.15
+2021-10,Athletic Footwear,Women's,South Carolina,826,36466,11661.4
+2021-10,Athletic Footwear,Women's,South Dakota,161,7173,2384.1
+2021-10,Athletic Footwear,Women's,Texas,3252,176980,93029.43000000001
+2021-10,Athletic Footwear,Women's,Utah,441,8090,3514.52
+2021-10,Athletic Footwear,Women's,Vermont,282,15836,5927.619999999999
+2021-10,Athletic Footwear,Women's,Virginia,524,21774,8246.04
+2021-10,Athletic Footwear,Women's,West Virginia,222,7629,3247.12
+2021-10,Athletic Footwear,Women's,Wisconsin,158,5431,1745.46
+2021-10,Athletic Footwear,Women's,Wyoming,594,26254,9725.589999999998
+2021-10,Street Footwear,Men's,Alabama,1955,96814,47649.84
+2021-10,Street Footwear,Men's,Alaska,563,39184,14636.480000000001
+2021-10,Street Footwear,Men's,Arizona,805,34155,13102.199999999999
+2021-10,Street Footwear,Men's,Arkansas,930,25830,10926.0
+2021-10,Street Footwear,Men's,Connecticut,716,40705,17422.81
+2021-10,Street Footwear,Men's,Delaware,603,35668,13200.599999999999
+2021-10,Street Footwear,Men's,Florida,640,30160,10088.2
+2021-10,Street Footwear,Men's,Georgia,829,35009,14961.74
+2021-10,Street Footwear,Men's,Hawaii,599,32573,9110.45
+2021-10,Street Footwear,Men's,Idaho,943,35042,15039.92
+2021-10,Street Footwear,Men's,Indiana,516,22755,9720.28
+2021-10,Street Footwear,Men's,Iowa,512,22815,7374.26
+2021-10,Street Footwear,Men's,Kansas,645,19205,7184.3
+2021-10,Street Footwear,Men's,Kentucky,576,31427,13572.5
+2021-10,Street Footwear,Men's,Louisiana,636,20908,8989.32
+2021-10,Street Footwear,Men's,Maine,2329,102187,38780.49
+2021-10,Street Footwear,Men's,Maryland,488,26500,11422.640000000001
+2021-10,Street Footwear,Men's,Massachusetts,652,36120,12020.4
+2021-10,Street Footwear,Men's,Michigan,975,48525,25475.25
+2021-10,Street Footwear,Men's,Mississippi,1067,34441,14875.92
+2021-10,Street Footwear,Men's,Missouri,656,22829,9621.54
+2021-10,Street Footwear,Men's,New Hampshire,756,49290,20874.56
+2021-10,Street Footwear,Men's,New Jersey,544,29681,11082.119999999999
+2021-10,Street Footwear,Men's,New Mexico,886,41405,15799.45
+2021-10,Street Footwear,Men's,New York,1008,59856,28357.920000000002
+2021-10,Street Footwear,Men's,North Carolina,1120,49665,21306.6
+2021-10,Street Footwear,Men's,North Dakota,516,25683,9671.13
+2021-10,Street Footwear,Men's,Ohio,935,36560,15531.2
+2021-10,Street Footwear,Men's,Oklahoma,835,23183,10071.62
+2021-10,Street Footwear,Men's,Oregon,571,21327,8067.61
+2021-10,Street Footwear,Men's,Pennsylvania,760,31685,18292.11
+2021-10,Street Footwear,Men's,Rhode Island,582,29787,11423.609999999999
+2021-10,Street Footwear,Men's,South Carolina,1219,65825,31451.25
+2021-10,Street Footwear,Men's,South Dakota,504,27615,10283.009999999998
+2021-10,Street Footwear,Men's,Texas,4118,184271,83851.54
+2021-10,Street Footwear,Men's,Utah,949,26918,11637.720000000001
+2021-10,Street Footwear,Men's,Vermont,765,46029,22088.11
+2021-10,Street Footwear,Men's,Virginia,571,21208,7977.0
+2021-10,Street Footwear,Men's,West Virginia,540,23839,10195.7
+2021-10,Street Footwear,Men's,Wisconsin,488,21733,7102.98
+2021-10,Street Footwear,Men's,Wyoming,977,52725,27776.5
+2021-10,Street Footwear,Women's,Alabama,2403,116607,60378.299999999996
+2021-10,Street Footwear,Women's,Alaska,221,14089,3929.3500000000004
+2021-10,Street Footwear,Women's,Arizona,527,22070,8313.84
+2021-10,Street Footwear,Women's,Arkansas,477,9066,3869.64
+2021-10,Street Footwear,Women's,Connecticut,285,14418,4816.73
+2021-10,Street Footwear,Women's,Delaware,252,13600,5830.0
+2021-10,Street Footwear,Women's,Florida,640,35664,11596.96
+2021-10,Street Footwear,Women's,Georgia,578,24096,9080.88
+2021-10,Street Footwear,Women's,Hawaii,387,22872,6205.2
+2021-10,Street Footwear,Women's,Idaho,835,34545,14519.79
+2021-10,Street Footwear,Women's,Indiana,188,6466,2409.0199999999995
+2021-10,Street Footwear,Women's,Iowa,189,6576,2118.66
+2021-10,Street Footwear,Women's,Kansas,260,5140,1935.8
+2021-10,Street Footwear,Women's,Kentucky,222,9896,4241.34
+2021-10,Street Footwear,Women's,Louisiana,628,26424,11200.8
+2021-10,Street Footwear,Women's,Maine,668,23631,10131.0
+2021-10,Street Footwear,Women's,Maryland,125,6225,2313.5
+2021-10,Street Footwear,Women's,Massachusetts,197,10235,2816.85
+2021-10,Street Footwear,Women's,Michigan,548,21551,7147.95
+2021-10,Street Footwear,Women's,Mississippi,593,14007,6091.68
+2021-10,Street Footwear,Women's,Missouri,323,7929,2993.42
+2021-10,Street Footwear,Women's,New Hampshire,314,19306,6331.44
+2021-10,Street Footwear,Women's,New Jersey,192,9432,3966.0
+2021-10,Street Footwear,Women's,New Mexico,600,27870,10563.3
+2021-10,Street Footwear,Women's,New York,662,32552,9083.3
+2021-10,Street Footwear,Women's,North Carolina,725,25225,10651.0
+2021-10,Street Footwear,Women's,North Dakota,189,7521,2469.24
+2021-10,Street Footwear,Women's,Ohio,531,15612,6616.860000000001
+2021-10,Street Footwear,Women's,Oklahoma,355,6656,2806.32
+2021-10,Street Footwear,Women's,Oregon,550,25719,9668.35
+2021-10,Street Footwear,Women's,Pennsylvania,275,9039,3870.7799999999997
+2021-10,Street Footwear,Women's,Rhode Island,159,7505,3206.6
+2021-10,Street Footwear,Women's,South Carolina,851,37591,10407.99
+2021-10,Street Footwear,Women's,South Dakota,192,8556,2747.4
+2021-10,Street Footwear,Women's,Texas,3469,184401,79164.28
+2021-10,Street Footwear,Women's,Utah,477,8823,3389.67
+2021-10,Street Footwear,Women's,Vermont,320,17826,6769.8
+2021-10,Street Footwear,Women's,Virginia,564,26511,10084.42
+2021-10,Street Footwear,Women's,West Virginia,219,7577,3219.56
+2021-10,Street Footwear,Women's,Wisconsin,158,5497,1794.96
+2021-10,Street Footwear,Women's,Wyoming,625,27750,10290.0
+2021-11,Apparel,Men's,Alaska,358,26352,7160.7
+2021-11,Apparel,Men's,Arizona,486,25467,8408.67
+2021-11,Apparel,Men's,Arkansas,546,38409,14549.43
+2021-11,Apparel,Men's,Connecticut,406,24202,8064.12
+2021-11,Apparel,Men's,Delaware,347,22195,7090.5
+2021-11,Apparel,Men's,Florida,746,58449,13241.42
+2021-11,Apparel,Men's,Georgia,571,34463,12964.239999999998
+2021-11,Apparel,Men's,Hawaii,488,41254,7594.95
+2021-11,Apparel,Men's,Idaho,680,35207,13364.32
+2021-11,Apparel,Men's,Indiana,325,19125,6150.0
+2021-11,Apparel,Men's,Iowa,224,13195,6867.0
+2021-11,Apparel,Men's,Kansas,320,23510,8752.1
+2021-11,Apparel,Men's,Kentucky,228,14502,5482.209999999999
+2021-11,Apparel,Men's,Louisiana,741,49133,23074.870000000003
+2021-11,Apparel,Men's,Maine,966,53744,14790.74
+2021-11,Apparel,Men's,Maryland,156,9236,3013.84
+2021-11,Apparel,Men's,Massachusetts,398,24560,6986.3
+2021-11,Apparel,Men's,Michigan,576,34434,14888.699999999999
+2021-11,Apparel,Men's,Mississippi,680,48396,18201.3
+2021-11,Apparel,Men's,Missouri,381,16982,6396.49
+2021-11,Apparel,Men's,New Hampshire,477,33915,11091.18
+2021-11,Apparel,Men's,New Jersey,284,16745,5477.8
+2021-11,Apparel,Men's,New Mexico,619,40669,13724.18
+2021-11,Apparel,Men's,New York,704,45298,16809.1
+2021-11,Apparel,Men's,North Carolina,788,58611,22156.89
+2021-11,Apparel,Men's,North Dakota,194,11420,4239.0
+2021-11,Apparel,Men's,Ohio,613,48488,18439.12
+2021-11,Apparel,Men's,Oklahoma,437,31192,11937.579999999998
+2021-11,Apparel,Men's,Oregon,681,46673,20160.92
+2021-11,Apparel,Men's,Pennsylvania,881,50251,17730.309999999998
+2021-11,Apparel,Men's,Rhode Island,280,15675,5138.47
+2021-11,Apparel,Men's,South Carolina,921,63686,23842.42
+2021-11,Apparel,Men's,South Dakota,195,11655,4371.3
+2021-11,Apparel,Men's,Utah,564,20993,7947.73
+2021-11,Apparel,Men's,Vermont,446,29160,11192.0
+2021-11,Apparel,Men's,Virginia,672,47594,20557.690000000002
+2021-11,Apparel,Men's,West Virginia,378,24336,10363.08
+2021-11,Apparel,Men's,Wisconsin,256,15248,8013.76
+2021-11,Apparel,Men's,Wyoming,618,33418,10827.63
+2021-11,Apparel,Women's,Alaska,476,37474,12139.08
+2021-11,Apparel,Women's,Arizona,676,37065,10162.65
+2021-11,Apparel,Women's,Arkansas,702,49446,21246.48
+2021-11,Apparel,Women's,Connecticut,561,36897,13919.029999999999
+2021-11,Apparel,Women's,Delaware,473,32522,13949.6
+2021-11,Apparel,Women's,Florida,960,81000,39053.880000000005
+2021-11,Apparel,Women's,Georgia,756,48532,13227.88
+2021-11,Apparel,Women's,Hawaii,640,56480,23969.6
+2021-11,Apparel,Women's,Idaho,982,60788,35061.44
+2021-11,Apparel,Women's,Indiana,441,28300,12097.140000000001
+2021-11,Apparel,Women's,Iowa,347,22122,9358.560000000001
+2021-11,Apparel,Women's,Kansas,438,32674,12142.54
+2021-11,Apparel,Women's,Kentucky,355,24530,10551.2
+2021-11,Apparel,Women's,Louisiana,954,76614,29338.32
+2021-11,Apparel,Women's,Maine,1358,77970,33096.97
+2021-11,Apparel,Women's,Maryland,288,18530,6066.78
+2021-11,Apparel,Women's,Massachusetts,571,36676,12238.8
+2021-11,Apparel,Women's,Michigan,794,50595,29223.190000000002
+2021-11,Apparel,Women's,Mississippi,851,58687,31125.1
+2021-11,Apparel,Women's,Missouri,508,25183,13265.42
+2021-11,Apparel,Women's,New Hampshire,636,48368,18453.76
+2021-11,Apparel,Women's,New Jersey,416,26493,11295.17
+2021-11,Apparel,Women's,New Mexico,810,57100,16162.2
+2021-11,Apparel,Women's,New York,826,57468,30409.52
+2021-11,Apparel,Women's,North Carolina,935,69495,36864.3
+2021-11,Apparel,Women's,North Dakota,315,20149,8488.6
+2021-11,Apparel,Women's,Ohio,742,58358,30909.12
+2021-11,Apparel,Women's,Oklahoma,608,43365,18332.4
+2021-11,Apparel,Women's,Oregon,864,64069,21191.73
+2021-11,Apparel,Women's,Pennsylvania,1842,100796,31856.38
+2021-11,Apparel,Women's,Rhode Island,435,26312,11231.92
+2021-11,Apparel,Women's,South Carolina,1031,77119,40541.22
+2021-11,Apparel,Women's,South Dakota,315,20214,8482.1
+2021-11,Apparel,Women's,Utah,721,30638,16324.35
+2021-11,Apparel,Women's,Vermont,597,42001,18166.519999999997
+2021-11,Apparel,Women's,Virginia,875,65586,21095.2
+2021-11,Apparel,Women's,West Virginia,500,34400,14464.0
+2021-11,Apparel,Women's,Wisconsin,375,24074,10132.85
+2021-11,Apparel,Women's,Wyoming,736,43355,12078.45
+2021-11,Athletic Footwear,Men's,Alaska,381,24279,9023.34
+2021-11,Athletic Footwear,Men's,Arizona,835,39206,16927.420000000002
+2021-11,Athletic Footwear,Men's,Arkansas,585,8217,3162.6699999999996
+2021-11,Athletic Footwear,Men's,Connecticut,489,24669,10614.78
+2021-11,Athletic Footwear,Men's,Delaware,410,22380,8328.55
+2021-11,Athletic Footwear,Men's,Florida,1106,62076,17491.32
+2021-11,Athletic Footwear,Men's,Georgia,932,51894,22456.760000000002
+2021-11,Athletic Footwear,Men's,Hawaii,768,45408,10210.56
+2021-11,Athletic Footwear,Men's,Idaho,1087,35917,15279.88
+2021-11,Athletic Footwear,Men's,Indiana,423,14609,6328.7
+2021-11,Athletic Footwear,Men's,Iowa,347,11929,4497.71
+2021-11,Athletic Footwear,Men's,Kansas,347,5133,1947.75
+2021-11,Athletic Footwear,Men's,Kentucky,347,13808,5169.759999999999
+2021-11,Athletic Footwear,Men's,Louisiana,1134,48160,20871.199999999997
+2021-11,Athletic Footwear,Men's,Maine,1248,62894,23870.26
+2021-11,Athletic Footwear,Men's,Maryland,226,11045,4141.15
+2021-11,Athletic Footwear,Men's,Massachusetts,492,25260,8437.2
+2021-11,Athletic Footwear,Men's,Michigan,645,28590,12349.5
+2021-11,Athletic Footwear,Men's,Mississippi,720,13401,4969.8
+2021-11,Athletic Footwear,Men's,Missouri,438,10774,3973.3
+2021-11,Athletic Footwear,Men's,New Hampshire,537,31989,13668.36
+2021-11,Athletic Footwear,Men's,New Jersey,355,17430,6615.7
+2021-11,Athletic Footwear,Men's,New Mexico,930,55770,23784.6
+2021-11,Athletic Footwear,Men's,New York,762,37938,14389.619999999999
+2021-11,Athletic Footwear,Men's,North Carolina,845,28990,10895.3
+2021-11,Athletic Footwear,Men's,North Dakota,323,12628,4182.6
+2021-11,Athletic Footwear,Men's,Ohio,640,15860,5887.0
+2021-11,Athletic Footwear,Men's,Oklahoma,474,6648,2489.52
+2021-11,Athletic Footwear,Men's,Oregon,1047,49334,18969.86
+2021-11,Athletic Footwear,Men's,Pennsylvania,1663,87989,31880.61
+2021-11,Athletic Footwear,Men's,Rhode Island,362,17108,6484.799999999999
+2021-11,Athletic Footwear,Men's,South Carolina,938,42022,15534.9
+2021-11,Athletic Footwear,Men's,South Dakota,313,13833,4434.03
+2021-11,Athletic Footwear,Men's,Utah,644,12064,4536.16
+2021-11,Athletic Footwear,Men's,Vermont,504,28561,13615.84
+2021-11,Athletic Footwear,Men's,Virginia,1040,47957,18047.25
+2021-11,Athletic Footwear,Men's,West Virginia,445,15385,6561.55
+2021-11,Athletic Footwear,Men's,Wisconsin,378,12996,4848.119999999999
+2021-11,Athletic Footwear,Men's,Wyoming,742,32889,10778.52
+2021-11,Athletic Footwear,Women's,Alaska,390,25080,6995.4
+2021-11,Athletic Footwear,Women's,Arizona,564,23694,9054.78
+2021-11,Athletic Footwear,Women's,Arkansas,612,31432,13338.619999999999
+2021-11,Athletic Footwear,Women's,Connecticut,438,22362,7415.1900000000005
+2021-11,Athletic Footwear,Women's,Delaware,384,20784,8870.52
+2021-11,Athletic Footwear,Women's,Florida,820,50090,16594.6
+2021-11,Athletic Footwear,Women's,Georgia,656,33096,14259.12
+2021-11,Athletic Footwear,Women's,Hawaii,504,32240,8933.6
+2021-11,Athletic Footwear,Women's,Idaho,730,40382,21051.56
+2021-11,Athletic Footwear,Women's,Indiana,358,12447,4779.75
+2021-11,Athletic Footwear,Women's,Iowa,252,8768,2824.88
+2021-11,Athletic Footwear,Women's,Kansas,358,19607,7445.110000000001
+2021-11,Athletic Footwear,Women's,Kentucky,252,13704,5752.0
+2021-11,Athletic Footwear,Women's,Louisiana,780,37200,15852.0
+2021-11,Athletic Footwear,Women's,Maine,921,42179,13644.36
+2021-11,Athletic Footwear,Women's,Maryland,191,9468,3530.2799999999997
+2021-11,Athletic Footwear,Women's,Massachusetts,438,22691,6383.39
+2021-11,Athletic Footwear,Women's,Michigan,613,27033,10253.669999999998
+2021-11,Athletic Footwear,Women's,Mississippi,720,39897,17043.3
+2021-11,Athletic Footwear,Women's,Missouri,413,10149,4302.48
+2021-11,Athletic Footwear,Women's,New Hampshire,524,31467,10180.18
+2021-11,Athletic Footwear,Women's,New Jersey,315,15685,6751.75
+2021-11,Athletic Footwear,Women's,New Mexico,676,37265,14128.15
+2021-11,Athletic Footwear,Women's,New York,719,35518,11332.2
+2021-11,Athletic Footwear,Women's,North Carolina,813,47965,20172.15
+2021-11,Athletic Footwear,Women's,North Dakota,222,8833,2888.19
+2021-11,Athletic Footwear,Women's,Ohio,635,40465,16982.5
+2021-11,Athletic Footwear,Women's,Oklahoma,465,23730,10232.1
+2021-11,Athletic Footwear,Women's,Oregon,730,37242,14118.27
+2021-11,Athletic Footwear,Women's,Pennsylvania,840,41821,17337.149999999998
+2021-11,Athletic Footwear,Women's,Rhode Island,326,15232,6632.8
+2021-11,Athletic Footwear,Women's,South Carolina,975,53175,17383.5
+2021-11,Athletic Footwear,Women's,South Dakota,219,9767,3194.98
+2021-11,Athletic Footwear,Women's,Utah,612,11507,4876.17
+2021-11,Athletic Footwear,Women's,Vermont,471,26157,9934.98
+2021-11,Athletic Footwear,Women's,Virginia,707,35810,13504.74
+2021-11,Athletic Footwear,Women's,West Virginia,416,16458,7101.9
+2021-11,Athletic Footwear,Women's,Wisconsin,290,10020,3327.75
+2021-11,Athletic Footwear,Women's,Wyoming,635,28170,10653.3
+2021-11,Street Footwear,Men's,Alaska,548,40239,15170.970000000001
+2021-11,Street Footwear,Men's,Arizona,785,32820,12306.899999999998
+2021-11,Street Footwear,Men's,Arkansas,869,20350,8673.28
+2021-11,Street Footwear,Men's,Connecticut,685,41884,17647.57
+2021-11,Street Footwear,Men's,Delaware,585,37350,14044.5
+2021-11,Street Footwear,Men's,Florida,982,50871,16448.42
+2021-11,Street Footwear,Men's,Georgia,835,42090,17729.13
+2021-11,Street Footwear,Men's,Hawaii,683,36933,10200.21
+2021-11,Street Footwear,Men's,Idaho,1060,35112,15274.56
+2021-11,Street Footwear,Men's,Indiana,548,24167,10221.53
+2021-11,Street Footwear,Men's,Iowa,512,22591,7420.18
+2021-11,Street Footwear,Men's,Kansas,572,14056,5256.32
+2021-11,Street Footwear,Men's,Kentucky,548,27154,11570.08
+2021-11,Street Footwear,Men's,Louisiana,1032,38464,16548.04
+2021-11,Street Footwear,Men's,Maine,2488,140111,52683.149999999994
+2021-11,Street Footwear,Men's,Maryland,438,26104,11207.2
+2021-11,Street Footwear,Men's,Massachusetts,608,37261,12383.08
+2021-11,Street Footwear,Men's,Michigan,871,43354,22925.52
+2021-11,Street Footwear,Men's,Mississippi,994,27846,11958.64
+2021-11,Street Footwear,Men's,Missouri,650,22600,9601.0
+2021-11,Street Footwear,Men's,New Hampshire,716,50497,21496.81
+2021-11,Street Footwear,Men's,New Jersey,508,30372,11458.56
+2021-11,Street Footwear,Men's,New Mexico,886,50552,19488.72
+2021-11,Street Footwear,Men's,New York,992,58652,27608.6
+2021-11,Street Footwear,Men's,North Carolina,1040,46585,20053.0
+2021-11,Street Footwear,Men's,North Dakota,520,25879,9939.65
+2021-11,Street Footwear,Men's,Ohio,844,29371,12437.92
+2021-11,Street Footwear,Men's,Oklahoma,774,17590,7570.5
+2021-11,Street Footwear,Men's,Oregon,938,39947,14947.97
+2021-11,Street Footwear,Men's,Pennsylvania,3814,209159,116793.07
+2021-11,Street Footwear,Men's,Rhode Island,550,30425,11674.25
+2021-11,Street Footwear,Men's,South Carolina,1203,64775,30816.75
+2021-11,Street Footwear,Men's,South Dakota,504,27511,10400.529999999999
+2021-11,Street Footwear,Men's,Utah,864,24451,10321.4
+2021-11,Street Footwear,Men's,Vermont,716,47124,22793.4
+2021-11,Street Footwear,Men's,Virginia,903,38267,14586.39
+2021-11,Street Footwear,Men's,West Virginia,567,25397,10776.560000000001
+2021-11,Street Footwear,Men's,Wisconsin,504,22263,7233.219999999999
+2021-11,Street Footwear,Men's,Wyoming,968,52804,27672.94
+2021-11,Street Footwear,Women's,Alaska,413,26287,7339.93
+2021-11,Street Footwear,Women's,Arizona,604,25587,9627.33
+2021-11,Street Footwear,Women's,Arkansas,512,12008,5089.04
+2021-11,Street Footwear,Women's,Connecticut,478,24013,8075.46
+2021-11,Street Footwear,Women's,Delaware,406,22072,9320.720000000001
+2021-11,Street Footwear,Women's,Florida,845,44278,14673.25
+2021-11,Street Footwear,Women's,Georgia,685,35240,13361.949999999999
+2021-11,Street Footwear,Women's,Hawaii,548,29525,8303.75
+2021-11,Street Footwear,Women's,Idaho,960,53520,22802.399999999998
+2021-11,Street Footwear,Women's,Indiana,351,12042,4551.66
+2021-11,Street Footwear,Women's,Iowa,277,9524,3112.56
+2021-11,Street Footwear,Women's,Kansas,275,6765,2557.5
+2021-11,Street Footwear,Women's,Kentucky,277,12237,5151.87
+2021-11,Street Footwear,Women's,Louisiana,820,30946,13287.52
+2021-11,Street Footwear,Women's,Maine,1212,53392,22816.989999999998
+2021-11,Street Footwear,Women's,Maryland,218,10852,4151.0
+2021-11,Street Footwear,Women's,Massachusetts,469,24379,6751.45
+2021-11,Street Footwear,Women's,Michigan,565,25185,8329.5
+2021-11,Street Footwear,Women's,Mississippi,625,17576,7517.88
+2021-11,Street Footwear,Women's,Missouri,375,9215,3482.85
+2021-11,Street Footwear,Women's,New Hampshire,563,34791,11710.8
+2021-11,Street Footwear,Women's,New Jersey,338,16764,7064.64
+2021-11,Street Footwear,Women's,New Mexico,716,40172,15018.619999999999
+2021-11,Street Footwear,Women's,New York,692,33865,9193.9
+2021-11,Street Footwear,Women's,North Carolina,762,30146,12946.84
+2021-11,Street Footwear,Women's,North Dakota,248,9867,3249.48
+2021-11,Street Footwear,Women's,Ohio,561,19287,8086.0
+2021-11,Street Footwear,Women's,Oklahoma,400,9366,4030.8500000000004
+2021-11,Street Footwear,Women's,Oregon,755,31615,12212.13
+2021-11,Street Footwear,Women's,Pennsylvania,1397,64448,26283.26
+2021-11,Street Footwear,Women's,Rhode Island,352,16588,7191.08
+2021-11,Street Footwear,Women's,South Carolina,897,39961,10858.85
+2021-11,Street Footwear,Women's,South Dakota,252,11226,3710.94
+2021-11,Street Footwear,Women's,Utah,545,10165,3892.3199999999997
+2021-11,Street Footwear,Women's,Vermont,518,29364,11082.6
+2021-11,Street Footwear,Women's,Virginia,756,32028,12169.98
+2021-11,Street Footwear,Women's,West Virginia,372,12789,5362.0
+2021-11,Street Footwear,Women's,Wisconsin,314,10852,3528.84
+2021-11,Street Footwear,Women's,Wyoming,666,29532,11256.0
+2021-12,Apparel,Men's,Arizona,547,28404,9299.2
+2021-12,Apparel,Men's,Arkansas,644,41768,15952.32
+2021-12,Apparel,Men's,Connecticut,477,28338,9411.3
+2021-12,Apparel,Men's,Delaware,416,26676,8557.9
+2021-12,Apparel,Men's,Florida,851,71348,16853.26
+2021-12,Apparel,Men's,Georgia,636,38704,14818.4
+2021-12,Apparel,Men's,Hawaii,553,49002,8533.02
+2021-12,Apparel,Men's,Idaho,755,39095,14993.509999999998
+2021-12,Apparel,Men's,Indiana,384,22536,7350.48
+2021-12,Apparel,Men's,Iowa,284,16981,8873.41
+2021-12,Apparel,Men's,Kansas,381,26184,9942.0
+2021-12,Apparel,Men's,Kentucky,293,17172,6450.84
+2021-12,Apparel,Men's,Louisiana,824,64607,30746.81
+2021-12,Apparel,Men's,Maine,606,35449,9708.97
+2021-12,Apparel,Men's,Maryland,226,13254,4279.139999999999
+2021-12,Apparel,Men's,Massachusetts,474,29388,8263.32
+2021-12,Apparel,Men's,Michigan,693,40865,17289.8
+2021-12,Apparel,Men's,Mississippi,756,49788,18889.14
+2021-12,Apparel,Men's,Missouri,438,19445,7360.15
+2021-12,Apparel,Men's,New Hampshire,578,40170,13491.6
+2021-12,Apparel,Men's,New Jersey,358,21065,7004.25
+2021-12,Apparel,Men's,New Mexico,672,44406,14675.4
+2021-12,Apparel,Men's,New York,730,46675,17359.25
+2021-12,Apparel,Men's,North Carolina,844,58235,21920.15
+2021-12,Apparel,Men's,North Dakota,254,15132,5609.4
+2021-12,Apparel,Men's,Ohio,667,49031,18512.69
+2021-12,Apparel,Men's,Oklahoma,504,33729,12801.22
+2021-12,Apparel,Men's,Oregon,765,56054,23972.66
+2021-12,Apparel,Men's,Pennsylvania,1476,89080,32738.03
+2021-12,Apparel,Men's,Rhode Island,367,20342,6810.02
+2021-12,Apparel,Men's,South Carolina,1000,69100,25670.0
+2021-12,Apparel,Men's,South Dakota,250,14800,5460.0
+2021-12,Apparel,Men's,Utah,636,23604,9100.68
+2021-12,Apparel,Men's,Vermont,510,33169,12664.099999999999
+2021-12,Apparel,Men's,Virginia,765,56839,23974.22
+2021-12,Apparel,Men's,West Virginia,445,28545,11997.5
+2021-12,Apparel,Men's,Wisconsin,323,19161,9996.6
+2021-12,Apparel,Men's,Wyoming,645,35330,11773.5
+2021-12,Apparel,Women's,Arizona,720,40635,11272.5
+2021-12,Apparel,Women's,Arkansas,820,57350,24562.5
+2021-12,Apparel,Women's,Connecticut,632,41744,15560.64
+2021-12,Apparel,Women's,Delaware,548,37745,15897.5
+2021-12,Apparel,Women's,Florida,981,85747,40327.35
+2021-12,Apparel,Women's,Georgia,795,51160,14030.0
+2021-12,Apparel,Women's,Hawaii,667,62513,26269.0
+2021-12,Apparel,Women's,Idaho,1153,69789,40684.590000000004
+2021-12,Apparel,Women's,Indiana,520,33439,14119.6
+2021-12,Apparel,Women's,Iowa,413,26316,11305.2
+2021-12,Apparel,Women's,Kansas,512,37616,14003.36
+2021-12,Apparel,Women's,Kentucky,423,27396,11773.76
+2021-12,Apparel,Women's,Louisiana,994,82921,31117.149999999998
+2021-12,Apparel,Women's,Maine,1279,79643,34135.47
+2021-12,Apparel,Women's,Maryland,347,22266,7206.84
+2021-12,Apparel,Women's,Massachusetts,640,41808,13757.439999999999
+2021-12,Apparel,Women's,Michigan,813,51866,29488.0
+2021-12,Apparel,Women's,Mississippi,897,62783,32987.84
+2021-12,Apparel,Women's,Missouri,576,28421,14861.92
+2021-12,Apparel,Women's,New Hampshire,711,53442,20356.02
+2021-12,Apparel,Women's,New Jersey,476,30333,12967.460000000001
+2021-12,Apparel,Women's,New Mexico,829,58495,15760.71
+2021-12,Apparel,Women's,New York,857,59808,31662.12
+2021-12,Apparel,Women's,North Carolina,1000,73650,39153.75
+2021-12,Apparel,Women's,North Dakota,378,24413,10404.02
+2021-12,Apparel,Women's,Ohio,781,61544,31926.4
+2021-12,Apparel,Women's,Oklahoma,676,46767,19739.04
+2021-12,Apparel,Women's,Oregon,949,73251,23749.6
+2021-12,Apparel,Women's,Pennsylvania,2274,144428,45835.24
+2021-12,Apparel,Women's,Rhode Island,521,31885,13688.830000000002
+2021-12,Apparel,Women's,South Carolina,1103,81129,42114.9
+2021-12,Apparel,Women's,South Dakota,375,24299,10295.6
+2021-12,Apparel,Women's,Utah,795,32679,17015.6
+2021-12,Apparel,Women's,Vermont,676,47783,20587.159999999996
+2021-12,Apparel,Women's,Virginia,915,73525,24274.0
+2021-12,Apparel,Women's,West Virginia,572,39796,17162.8
+2021-12,Apparel,Women's,Wisconsin,438,27941,11799.44
+2021-12,Apparel,Women's,Wyoming,774,45744,12507.84
+2021-12,Athletic Footwear,Men's,Alaska,512,32720,12258.4
+2021-12,Athletic Footwear,Men's,Arizona,1013,46854,20363.84
+2021-12,Athletic Footwear,Men's,Arkansas,795,44690,16905.2
+2021-12,Athletic Footwear,Men's,Connecticut,607,30623,13058.16
+2021-12,Athletic Footwear,Men's,Delaware,500,27000,10100.0
+2021-12,Athletic Footwear,Men's,Florida,1256,98480,27104.8
+2021-12,Athletic Footwear,Men's,Georgia,1087,60159,26097.45
+2021-12,Athletic Footwear,Men's,Hawaii,882,73514,16104.2
+2021-12,Athletic Footwear,Men's,Idaho,1224,63123,27331.86
+2021-12,Athletic Footwear,Men's,Indiana,508,25292,10910.6
+2021-12,Athletic Footwear,Men's,Iowa,416,20527,7697.69
+2021-12,Athletic Footwear,Men's,Kansas,520,31080,11940.0
+2021-12,Athletic Footwear,Men's,Kentucky,423,22971,8702.33
+2021-12,Athletic Footwear,Men's,Louisiana,1264,92448,39050.24
+2021-12,Athletic Footwear,Men's,Maine,1059,54177,20465.85
+2021-12,Athletic Footwear,Men's,Maryland,315,15490,5870.0
+2021-12,Athletic Footwear,Men's,Massachusetts,593,30371,9751.42
+2021-12,Athletic Footwear,Men's,Michigan,826,40596,17290.879999999997
+2021-12,Athletic Footwear,Men's,Mississippi,931,52334,19752.38
+2021-12,Athletic Footwear,Men's,Missouri,563,19366,7248.18
+2021-12,Athletic Footwear,Men's,New Hampshire,668,40682,17415.99
+2021-12,Athletic Footwear,Men's,New Jersey,455,22645,8594.6
+2021-12,Athletic Footwear,Men's,New Mexico,1099,66801,28544.53
+2021-12,Athletic Footwear,Men's,New York,844,45744,17303.25
+2021-12,Athletic Footwear,Men's,North Carolina,977,57610,21274.499999999996
+2021-12,Athletic Footwear,Men's,North Dakota,375,18450,6052.5
+2021-12,Athletic Footwear,Men's,Ohio,806,51485,19322.95
+2021-12,Athletic Footwear,Men's,Oklahoma,693,39405,14692.039999999999
+2021-12,Athletic Footwear,Men's,Oregon,1201,84994,32283.82
+2021-12,Athletic Footwear,Men's,Pennsylvania,2036,106873,38467.06
+2021-12,Athletic Footwear,Men's,Rhode Island,480,22284,8331.18
+2021-12,Athletic Footwear,Men's,South Carolina,1094,65202,24090.9
+2021-12,Athletic Footwear,Men's,South Dakota,375,18375,5951.25
+2021-12,Athletic Footwear,Men's,Utah,815,22800,8810.2
+2021-12,Athletic Footwear,Men's,Vermont,632,34912,16585.12
+2021-12,Athletic Footwear,Men's,Virginia,1200,85050,32161.5
+2021-12,Athletic Footwear,Men's,West Virginia,585,31770,13550.4
+2021-12,Athletic Footwear,Men's,Wisconsin,452,22498,8474.06
+2021-12,Athletic Footwear,Men's,Wyoming,768,34392,11130.72
+2021-12,Athletic Footwear,Women's,Arizona,668,28281,10650.11
+2021-12,Athletic Footwear,Women's,Arkansas,644,35800,15370.0
+2021-12,Athletic Footwear,Women's,Connecticut,483,24759,8163.42
+2021-12,Athletic Footwear,Women's,Delaware,423,23069,9954.76
+2021-12,Athletic Footwear,Women's,Florida,984,73872,24179.28
+2021-12,Athletic Footwear,Women's,Georgia,746,38373,16173.6
+2021-12,Athletic Footwear,Women's,Hawaii,645,50585,13704.75
+2021-12,Athletic Footwear,Women's,Idaho,851,47974,25405.62
+2021-12,Athletic Footwear,Women's,Indiana,387,18915,7207.5
+2021-12,Athletic Footwear,Women's,Iowa,286,14239,4660.27
+2021-12,Athletic Footwear,Women's,Kansas,390,23310,8689.5
+2021-12,Athletic Footwear,Women's,Kentucky,293,14582,6265.96
+2021-12,Athletic Footwear,Women's,Louisiana,948,66408,28848.0
+2021-12,Athletic Footwear,Women's,Maine,637,30703,10005.71
+2021-12,Athletic Footwear,Women's,Maryland,219,10906,4075.8199999999997
+2021-12,Athletic Footwear,Women's,Massachusetts,480,24915,6871.2
+2021-12,Athletic Footwear,Women's,Michigan,688,34124,12804.52
+2021-12,Athletic Footwear,Women's,Mississippi,751,41811,18028.57
+2021-12,Athletic Footwear,Women's,Missouri,438,15242,6455.84
+2021-12,Athletic Footwear,Women's,New Hampshire,554,33890,11215.039999999999
+2021-12,Athletic Footwear,Women's,New Jersey,358,17651,7489.51
+2021-12,Athletic Footwear,Women's,New Mexico,805,45175,17048.5
+2021-12,Athletic Footwear,Women's,New York,730,39995,12919.2
+2021-12,Athletic Footwear,Women's,North Carolina,871,51280,22021.2
+2021-12,Athletic Footwear,Women's,North Dakota,254,12538,4040.58
+2021-12,Athletic Footwear,Women's,Ohio,672,43386,18280.5
+2021-12,Athletic Footwear,Women's,Oklahoma,533,29706,12798.78
+2021-12,Athletic Footwear,Women's,Oregon,858,56826,21197.0
+2021-12,Athletic Footwear,Women's,Pennsylvania,1324,67421,28051.01
+2021-12,Athletic Footwear,Women's,Rhode Island,367,16988,7185.74
+2021-12,Athletic Footwear,Women's,South Carolina,969,57946,19100.7
+2021-12,Athletic Footwear,Women's,South Dakota,250,12250,4012.5
+2021-12,Athletic Footwear,Women's,Utah,648,18016,7598.88
+2021-12,Athletic Footwear,Women's,Vermont,507,28480,10732.68
+2021-12,Athletic Footwear,Women's,Virginia,886,58196,22335.64
+2021-12,Athletic Footwear,Women's,West Virginia,452,24656,10457.06
+2021-12,Athletic Footwear,Women's,Wisconsin,323,16004,5326.8
+2021-12,Athletic Footwear,Women's,Wyoming,635,28440,10785.599999999999
+2021-12,Street Footwear,Men's,Alaska,774,57006,21392.820000000003
+2021-12,Street Footwear,Men's,Arizona,1000,42879,16223.189999999999
+2021-12,Street Footwear,Men's,Arkansas,1141,75691,33101.95
+2021-12,Street Footwear,Men's,Connecticut,898,54010,22733.2
+2021-12,Street Footwear,Men's,Delaware,768,49416,18545.52
+2021-12,Street Footwear,Men's,Florida,1296,91792,30067.2
+2021-12,Street Footwear,Men's,Georgia,1087,56053,24558.16
+2021-12,Street Footwear,Men's,Hawaii,889,65352,18265.8
+2021-12,Street Footwear,Men's,Idaho,1248,64806,28163.879999999997
+2021-12,Street Footwear,Men's,Indiana,750,44700,18837.0
+2021-12,Street Footwear,Men's,Iowa,672,39438,12783.96
+2021-12,Street Footwear,Men's,Kansas,750,51900,19650.0
+2021-12,Street Footwear,Men's,Kentucky,683,43447,18777.1
+2021-12,Street Footwear,Men's,Louisiana,1312,85072,36766.719999999994
+2021-12,Street Footwear,Men's,Maine,1857,106870,40165.86
+2021-12,Street Footwear,Men's,Maryland,572,33954,14277.0
+2021-12,Street Footwear,Men's,Massachusetts,903,56053,18325.8
+2021-12,Street Footwear,Men's,Michigan,1105,65025,34055.25
+2021-12,Street Footwear,Men's,Mississippi,1225,79730,34467.12
+2021-12,Street Footwear,Men's,Missouri,813,35932,15174.76
+2021-12,Street Footwear,Men's,New Hampshire,994,68674,29955.45
+2021-12,Street Footwear,Men's,New Jersey,699,41195,15483.6
+2021-12,Street Footwear,Men's,New Mexico,1148,64022,24411.239999999998
+2021-12,Street Footwear,Men's,New York,1120,71330,33977.65
+2021-12,Street Footwear,Men's,North Carolina,1219,83866,35264.16
+2021-12,Street Footwear,Men's,North Dakota,650,38250,14295.0
+2021-12,Street Footwear,Men's,Ohio,1056,78045,32835.0
+2021-12,Street Footwear,Men's,Oklahoma,994,65566,28068.8
+2021-12,Street Footwear,Men's,Oregon,1163,71693,27386.64
+2021-12,Street Footwear,Men's,Pennsylvania,3624,224272,125087.36
+2021-12,Street Footwear,Men's,Rhode Island,795,44970,17140.2
+2021-12,Street Footwear,Men's,South Carolina,1365,94680,45520.5
+2021-12,Street Footwear,Men's,South Dakota,640,38120,14235.2
+2021-12,Street Footwear,Men's,Utah,1134,42616,18635.89
+2021-12,Street Footwear,Men's,Vermont,954,61680,29636.64
+2021-12,Street Footwear,Men's,Virginia,1223,74402,28268.3
+2021-12,Street Footwear,Men's,West Virginia,826,52810,22391.2
+2021-12,Street Footwear,Men's,Wisconsin,688,41004,13181.64
+2021-12,Street Footwear,Men's,Wyoming,1024,55648,29105.28
+2021-12,Street Footwear,Women's,Arizona,684,29174,11184.07
+2021-12,Street Footwear,Women's,Arkansas,725,40337,17361.28
+2021-12,Street Footwear,Women's,Connecticut,554,28638,9401.039999999999
+2021-12,Street Footwear,Women's,Delaware,484,26075,11193.0
+2021-12,Street Footwear,Women's,Florida,978,74106,23928.48
+2021-12,Street Footwear,Women's,Georgia,760,38731,15023.39
+2021-12,Street Footwear,Women's,Hawaii,635,49990,13496.5
+2021-12,Street Footwear,Women's,Idaho,1074,60837,25936.76
+2021-12,Street Footwear,Women's,Indiana,455,22645,8491.7
+2021-12,Street Footwear,Women's,Iowa,358,17651,5763.42
+2021-12,Street Footwear,Women's,Kansas,445,26510,9884.599999999999
+2021-12,Street Footwear,Women's,Kentucky,349,18899,8125.700000000001
+2021-12,Street Footwear,Women's,Louisiana,954,66354,28188.239999999998
+2021-12,Street Footwear,Women's,Maine,799,38507,16268.899999999998
+2021-12,Street Footwear,Women's,Maryland,290,14175,5312.25
+2021-12,Street Footwear,Women's,Massachusetts,560,28280,7850.360000000001
+2021-12,Street Footwear,Women's,Michigan,768,38064,12628.8
+2021-12,Street Footwear,Women's,Mississippi,820,46377,20022.120000000003
+2021-12,Street Footwear,Women's,Missouri,520,17840,6704.8
+2021-12,Street Footwear,Women's,New Hampshire,636,38712,12778.08
+2021-12,Street Footwear,Women's,New Jersey,416,20709,8729.5
+2021-12,Street Footwear,Women's,New Mexico,780,44270,16964.3
+2021-12,Street Footwear,Women's,New York,788,42851,11899.39
+2021-12,Street Footwear,Women's,North Carolina,943,55490,23514.9
+2021-12,Street Footwear,Women's,North Dakota,323,16004,5326.8
+2021-12,Street Footwear,Women's,Ohio,736,46874,19889.48
+2021-12,Street Footwear,Women's,Oklahoma,607,33819,14371.3
+2021-12,Street Footwear,Women's,Oregon,908,58819,22247.989999999998
+2021-12,Street Footwear,Women's,Pennsylvania,1557,79345,32956.08
+2021-12,Street Footwear,Women's,Rhode Island,437,20748,8928.18
+2021-12,Street Footwear,Women's,South Carolina,1040,61540,16589.0
+2021-12,Street Footwear,Women's,South Dakota,323,15785,5129.7
+2021-12,Street Footwear,Women's,Utah,716,19837,7397.389999999999
+2021-12,Street Footwear,Women's,Vermont,619,34479,13101.649999999998
+2021-12,Street Footwear,Women's,Virginia,869,57101,21703.88
+2021-12,Street Footwear,Women's,West Virginia,512,27600,11768.0
+2021-12,Street Footwear,Women's,Wisconsin,387,18915,6222.6
+2021-12,Street Footwear,Women's,Wyoming,715,32010,12002.1
