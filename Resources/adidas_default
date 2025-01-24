@@ -1,0 +1,2707 @@
+,State,Year,Month,Region,Gender,Product,Units Sold,Total Sales,Average Temp
+0,Alabama,2021,8,South,Men's,Apparel,2430,91281,79.7
+1,Alabama,2021,8,South,Men's,Athletic Footwear,4146,111112,79.7
+2,Alabama,2021,8,South,Men's,Street Footwear,5334,129994,79.7
+3,Alabama,2021,8,South,Women's,Apparel,4189,137378,79.7
+4,Alabama,2021,8,South,Women's,Athletic Footwear,2561,75010,79.7
+5,Alabama,2021,8,South,Women's,Street Footwear,3084,65817,79.7
+6,Alabama,2021,9,South,Men's,Apparel,3370,149180,76.9
+7,Alabama,2021,9,South,Men's,Athletic Footwear,5431,247776,76.9
+8,Alabama,2021,9,South,Men's,Street Footwear,5323,191497,76.9
+9,Alabama,2021,9,South,Women's,Apparel,5460,265670,76.9
+10,Alabama,2021,9,South,Women's,Athletic Footwear,3682,161302,76.9
+11,Alabama,2021,9,South,Women's,Street Footwear,5880,267548,76.9
+12,Alabama,2021,10,South,Men's,Apparel,1485,76700,70.6
+13,Alabama,2021,10,South,Men's,Athletic Footwear,2655,103471,70.6
+14,Alabama,2021,10,South,Men's,Street Footwear,1955,96814,70.6
+15,Alabama,2021,10,South,Women's,Apparel,2179,135392,70.6
+16,Alabama,2021,10,South,Women's,Athletic Footwear,1760,90871,70.6
+17,Alabama,2021,10,South,Women's,Street Footwear,2403,116607,70.6
+86,Arizona,2021,1,West,Men's,Apparel,449,20452,42.3
+87,Arizona,2021,1,West,Men's,Athletic Footwear,760,31581,42.3
+88,Arizona,2021,1,West,Men's,Street Footwear,760,25117,42.3
+89,Arizona,2021,1,West,Women's,Apparel,769,32727,42.3
+90,Arizona,2021,1,West,Women's,Athletic Footwear,511,21310,42.3
+91,Arizona,2021,1,West,Women's,Street Footwear,770,32195,42.3
+92,Arizona,2021,2,West,Men's,Apparel,245,10434,44.6
+93,Arizona,2021,2,West,Men's,Athletic Footwear,667,28685,44.6
+94,Arizona,2021,2,West,Men's,Street Footwear,845,27896,44.6
+95,Arizona,2021,2,West,Women's,Apparel,554,20940,44.6
+96,Arizona,2021,2,West,Women's,Athletic Footwear,356,13162,44.6
+97,Arizona,2021,2,West,Women's,Street Footwear,668,28296,44.6
+98,Arizona,2021,3,West,Men's,Apparel,195,10148,48.0
+99,Arizona,2021,3,West,Men's,Athletic Footwear,561,26468,48.0
+100,Arizona,2021,3,West,Men's,Street Footwear,805,30005,48.0
+101,Arizona,2021,3,West,Women's,Apparel,520,24345,48.0
+102,Arizona,2021,3,West,Women's,Athletic Footwear,361,17030,48.0
+103,Arizona,2021,3,West,Women's,Street Footwear,560,26362,48.0
+104,Arizona,2021,4,West,Men's,Apparel,236,12221,55.4
+105,Arizona,2021,4,West,Men's,Athletic Footwear,480,24600,55.4
+106,Arizona,2021,4,West,Men's,Street Footwear,805,38240,55.4
+107,Arizona,2021,4,West,Women's,Apparel,530,34487,55.4
+108,Arizona,2021,4,West,Women's,Athletic Footwear,403,19070,55.4
+109,Arizona,2021,4,West,Women's,Street Footwear,575,29516,55.4
+110,Arizona,2021,5,West,Men's,Apparel,320,16376,64.6
+111,Arizona,2021,5,West,Men's,Athletic Footwear,604,30790,64.6
+112,Arizona,2021,5,West,Men's,Street Footwear,856,40151,64.6
+113,Arizona,2021,5,West,Women's,Apparel,597,39094,64.6
+114,Arizona,2021,5,West,Women's,Athletic Footwear,483,23037,64.6
+115,Arizona,2021,5,West,Women's,Street Footwear,652,33412,64.6
+116,Arizona,2021,6,West,Men's,Apparel,365,18939,74.4
+117,Arizona,2021,6,West,Men's,Athletic Footwear,756,38311,74.4
+118,Arizona,2021,6,West,Men's,Street Footwear,975,45916,74.4
+119,Arizona,2021,6,West,Women's,Apparel,814,53057,74.4
+120,Arizona,2021,6,West,Women's,Athletic Footwear,550,25860,74.4
+121,Arizona,2021,6,West,Women's,Street Footwear,760,39190,74.4
+122,Arizona,2021,7,West,Men's,Apparel,698,35831,81.0
+123,Arizona,2021,7,West,Men's,Athletic Footwear,830,42495,81.0
+124,Arizona,2021,7,West,Men's,Street Footwear,1087,51994,81.0
+125,Arizona,2021,7,West,Women's,Apparel,693,44661,81.0
+126,Arizona,2021,7,West,Women's,Athletic Footwear,589,27666,81.0
+127,Arizona,2021,7,West,Women's,Street Footwear,765,39031,81.0
+128,Arizona,2021,8,West,Men's,Apparel,652,38964,80.4
+129,Arizona,2021,8,West,Men's,Athletic Footwear,926,52417,80.4
+130,Arizona,2021,8,West,Men's,Street Footwear,982,50479,80.4
+131,Arizona,2021,8,West,Women's,Apparel,600,38648,80.4
+132,Arizona,2021,8,West,Women's,Athletic Footwear,632,32984,80.4
+133,Arizona,2021,8,West,Women's,Street Footwear,716,36513,80.4
+134,Arizona,2021,9,West,Men's,Apparel,608,31543,77.2
+135,Arizona,2021,9,West,Men's,Athletic Footwear,937,42829,77.2
+136,Arizona,2021,9,West,Men's,Street Footwear,926,39162,77.2
+137,Arizona,2021,9,West,Women's,Apparel,676,37840,77.2
+138,Arizona,2021,9,West,Women's,Athletic Footwear,612,25600,77.2
+139,Arizona,2021,9,West,Women's,Street Footwear,698,29559,77.2
+140,Arizona,2021,10,West,Men's,Apparel,432,22654,67.4
+141,Arizona,2021,10,West,Men's,Athletic Footwear,820,37590,67.4
+142,Arizona,2021,10,West,Men's,Street Footwear,805,34155,67.4
+143,Arizona,2021,10,West,Women's,Apparel,517,29289,67.4
+144,Arizona,2021,10,West,Women's,Athletic Footwear,492,20634,67.4
+145,Arizona,2021,10,West,Women's,Street Footwear,527,22070,67.4
+146,Arizona,2021,11,West,Men's,Apparel,486,25467,57.9
+147,Arizona,2021,11,West,Men's,Athletic Footwear,835,39206,57.9
+148,Arizona,2021,11,West,Men's,Street Footwear,785,32820,57.9
+149,Arizona,2021,11,West,Women's,Apparel,676,37065,57.9
+150,Arizona,2021,11,West,Women's,Athletic Footwear,564,23694,57.9
+151,Arizona,2021,11,West,Women's,Street Footwear,604,25587,57.9
+152,Arizona,2021,12,West,Men's,Apparel,547,28404,50.7
+153,Arizona,2021,12,West,Men's,Athletic Footwear,1013,46854,50.7
+154,Arizona,2021,12,West,Men's,Street Footwear,1000,42879,50.7
+155,Arizona,2021,12,West,Women's,Apparel,720,40635,50.7
+156,Arizona,2021,12,West,Women's,Athletic Footwear,668,28281,50.7
+157,Arizona,2021,12,West,Women's,Street Footwear,684,29174,50.7
+158,Arkansas,2021,1,South,Men's,Apparel,446,14358,42.0
+159,Arkansas,2021,1,South,Men's,Athletic Footwear,608,14332,42.0
+160,Arkansas,2021,1,South,Men's,Street Footwear,920,21409,42.0
+161,Arkansas,2021,1,South,Women's,Apparel,600,13930,42.0
+162,Arkansas,2021,1,South,Women's,Athletic Footwear,364,6632,42.0
+163,Arkansas,2021,1,South,Women's,Street Footwear,604,8405,42.0
+164,Arkansas,2021,2,South,Men's,Apparel,534,17260,38.0
+165,Arkansas,2021,2,South,Men's,Athletic Footwear,438,10126,38.0
+166,Arkansas,2021,2,South,Men's,Street Footwear,1000,23389,38.0
+167,Arkansas,2021,2,South,Women's,Apparel,685,13005,38.0
+168,Arkansas,2021,2,South,Women's,Athletic Footwear,398,7430,38.0
+169,Arkansas,2021,2,South,Women's,Street Footwear,514,7416,38.0
+170,Arkansas,2021,3,South,Men's,Apparel,403,12942,45.0
+171,Arkansas,2021,3,South,Men's,Athletic Footwear,530,9958,45.0
+172,Arkansas,2021,3,South,Men's,Street Footwear,1032,19248,45.0
+173,Arkansas,2021,3,South,Women's,Apparel,564,13438,45.0
+174,Arkansas,2021,3,South,Women's,Athletic Footwear,330,6189,45.0
+175,Arkansas,2021,3,South,Women's,Street Footwear,550,5276,45.0
+176,Arkansas,2021,4,South,Men's,Apparel,398,15026,56.7
+177,Arkansas,2021,4,South,Men's,Athletic Footwear,483,11484,56.7
+178,Arkansas,2021,4,South,Men's,Street Footwear,978,22878,56.7
+179,Arkansas,2021,4,South,Women's,Apparel,636,18128,56.7
+180,Arkansas,2021,4,South,Women's,Athletic Footwear,365,6760,56.7
+181,Arkansas,2021,4,South,Women's,Street Footwear,471,6606,56.7
+182,Arkansas,2021,5,South,Men's,Apparel,521,21746,62.5
+183,Arkansas,2021,5,South,Men's,Athletic Footwear,604,22542,62.5
+184,Arkansas,2021,5,South,Men's,Street Footwear,1079,39787,62.5
+185,Arkansas,2021,5,South,Women's,Apparel,681,28793,62.5
+186,Arkansas,2021,5,South,Women's,Athletic Footwear,468,15312,62.5
+187,Arkansas,2021,5,South,Women's,Street Footwear,560,18557,62.5
+188,Arkansas,2021,6,South,Men's,Apparel,589,30208,71.8
+189,Arkansas,2021,6,South,Men's,Athletic Footwear,680,21992,71.8
+190,Arkansas,2021,6,South,Men's,Street Footwear,1114,40916,71.8
+191,Arkansas,2021,6,South,Women's,Apparel,875,49560,71.8
+192,Arkansas,2021,6,South,Women's,Athletic Footwear,597,22222,71.8
+193,Arkansas,2021,6,South,Women's,Street Footwear,628,23424,71.8
+194,Arkansas,2021,7,South,Men's,Apparel,693,38005,78.0
+195,Arkansas,2021,7,South,Men's,Athletic Footwear,835,39027,78.0
+196,Arkansas,2021,7,South,Men's,Street Footwear,1279,64843,78.0
+197,Arkansas,2021,7,South,Women's,Apparel,948,58350,78.0
+198,Arkansas,2021,7,South,Women's,Athletic Footwear,636,26956,78.0
+199,Arkansas,2021,7,South,Women's,Street Footwear,716,30148,78.0
+200,Arkansas,2021,8,South,Men's,Apparel,601,28694,79.9
+201,Arkansas,2021,8,South,Men's,Athletic Footwear,840,43321,79.9
+202,Arkansas,2021,8,South,Men's,Street Footwear,1193,66569,79.9
+203,Arkansas,2021,8,South,Women's,Apparel,886,45120,79.9
+204,Arkansas,2021,8,South,Women's,Athletic Footwear,636,23884,79.9
+205,Arkansas,2021,8,South,Women's,Street Footwear,711,33822,79.9
+206,Arkansas,2021,9,South,Men's,Apparel,530,12285,77.4
+207,Arkansas,2021,9,South,Men's,Athletic Footwear,711,26424,77.4
+208,Arkansas,2021,9,South,Men's,Street Footwear,1053,48971,77.4
+209,Arkansas,2021,9,South,Women's,Apparel,684,19281,77.4
+210,Arkansas,2021,9,South,Women's,Athletic Footwear,517,7355,77.4
+211,Arkansas,2021,9,South,Women's,Street Footwear,561,7835,77.4
+212,Arkansas,2021,10,South,Men's,Apparel,449,12402,69.9
+213,Arkansas,2021,10,South,Men's,Athletic Footwear,663,12362,69.9
+214,Arkansas,2021,10,South,Men's,Street Footwear,930,25830,69.9
+215,Arkansas,2021,10,South,Women's,Apparel,636,17656,69.9
+216,Arkansas,2021,10,South,Women's,Athletic Footwear,441,8278,69.9
+217,Arkansas,2021,10,South,Women's,Street Footwear,477,9066,69.9
+218,Arkansas,2021,11,South,Men's,Apparel,546,38409,57.4
+219,Arkansas,2021,11,South,Men's,Athletic Footwear,585,8217,57.4
+220,Arkansas,2021,11,South,Men's,Street Footwear,869,20350,57.4
+221,Arkansas,2021,11,South,Women's,Apparel,702,49446,57.4
+222,Arkansas,2021,11,South,Women's,Athletic Footwear,612,31432,57.4
+223,Arkansas,2021,11,South,Women's,Street Footwear,512,12008,57.4
+224,Arkansas,2021,12,South,Men's,Apparel,644,41768,51.4
+225,Arkansas,2021,12,South,Men's,Athletic Footwear,795,44690,51.4
+226,Arkansas,2021,12,South,Men's,Street Footwear,1141,75691,51.4
+227,Arkansas,2021,12,South,Women's,Apparel,820,57350,51.4
+228,Arkansas,2021,12,South,Women's,Athletic Footwear,644,35800,51.4
+229,Arkansas,2021,12,South,Women's,Street Footwear,725,40337,51.4
+242,California,2021,1,West,Men's,Apparel,5429,340637,45.5
+243,California,2021,1,West,Men's,Athletic Footwear,8236,495112,45.5
+244,California,2021,1,West,Men's,Street Footwear,7632,417741,45.5
+245,California,2021,1,West,Women's,Apparel,6227,451161,45.5
+246,California,2021,1,West,Women's,Athletic Footwear,5752,322563,45.5
+247,California,2021,1,West,Women's,Street Footwear,6338,372581,45.5
+248,California,2021,2,West,Men's,Apparel,3214,194545,46.4
+249,California,2021,2,West,Men's,Athletic Footwear,4117,217246,46.4
+250,California,2021,2,West,Men's,Street Footwear,4118,190326,46.4
+251,California,2021,2,West,Women's,Apparel,3617,236508,46.4
+252,California,2021,2,West,Women's,Athletic Footwear,3461,177603,46.4
+253,California,2021,2,West,Women's,Street Footwear,3538,182680,46.4
+254,California,2021,3,West,Men's,Apparel,2162,101717,47.8
+255,California,2021,3,West,Men's,Athletic Footwear,2133,89538,47.8
+256,California,2021,3,West,Men's,Street Footwear,2495,81868,47.8
+257,California,2021,3,West,Women's,Apparel,2126,88174,47.8
+258,California,2021,3,West,Women's,Athletic Footwear,2628,110659,47.8
+259,California,2021,3,West,Women's,Street Footwear,3213,135872,47.8
+260,California,2021,4,West,Men's,Apparel,3317,155724,53.2
+261,California,2021,4,West,Men's,Athletic Footwear,4494,208691,53.2
+262,California,2021,4,West,Men's,Street Footwear,5476,230346,53.2
+263,California,2021,4,West,Women's,Apparel,5382,308365,53.2
+264,California,2021,4,West,Women's,Athletic Footwear,3808,159168,53.2
+265,California,2021,4,West,Women's,Street Footwear,4428,206293,53.2
+266,California,2021,5,West,Men's,Apparel,5057,283835,61.4
+267,California,2021,5,West,Men's,Athletic Footwear,6727,347244,61.4
+268,California,2021,5,West,Men's,Street Footwear,7604,355427,61.4
+269,California,2021,5,West,Women's,Apparel,5460,330228,61.4
+270,California,2021,5,West,Women's,Athletic Footwear,5282,245796,61.4
+271,California,2021,5,West,Women's,Street Footwear,5495,256465,61.4
+272,California,2021,6,West,Men's,Athletic Footwear,443,18353,69.7
+273,California,2021,6,West,Women's,Athletic Footwear,200,7365,69.7
+274,California,2021,6,West,Women's,Street Footwear,452,14537,69.7
+293,Connecticut,2021,1,Northeast,Men's,Apparel,202,8573,31.4
+294,Connecticut,2021,1,Northeast,Men's,Athletic Footwear,367,12229,31.4
+295,Connecticut,2021,1,Northeast,Men's,Street Footwear,689,22212,31.4
+296,Connecticut,2021,1,Northeast,Women's,Apparel,360,11826,31.4
+297,Connecticut,2021,1,Northeast,Women's,Athletic Footwear,119,3406,31.4
+298,Connecticut,2021,1,Northeast,Women's,Street Footwear,360,8505,31.4
+299,Connecticut,2021,2,Northeast,Men's,Apparel,326,15514,28.8
+300,Connecticut,2021,2,Northeast,Men's,Athletic Footwear,202,6583,28.8
+301,Connecticut,2021,2,Northeast,Men's,Street Footwear,756,24559,28.8
+302,Connecticut,2021,2,Northeast,Women's,Apparel,480,18348,28.8
+303,Connecticut,2021,2,Northeast,Women's,Athletic Footwear,198,6399,28.8
+304,Connecticut,2021,2,Northeast,Women's,Street Footwear,277,6505,28.8
+305,Connecticut,2021,3,Northeast,Men's,Apparel,242,11439,33.9
+306,Connecticut,2021,3,Northeast,Men's,Athletic Footwear,349,13304,33.9
+307,Connecticut,2021,3,Northeast,Men's,Street Footwear,832,30602,33.9
+308,Connecticut,2021,3,Northeast,Women's,Apparel,408,15239,33.9
+309,Connecticut,2021,3,Northeast,Women's,Athletic Footwear,164,5378,33.9
+310,Connecticut,2021,3,Northeast,Women's,Street Footwear,393,11197,33.9
+311,Connecticut,2021,4,Northeast,Men's,Apparel,200,9340,44.0
+312,Connecticut,2021,4,Northeast,Men's,Athletic Footwear,322,12124,44.0
+313,Connecticut,2021,4,Northeast,Men's,Street Footwear,805,29740,44.0
+314,Connecticut,2021,4,Northeast,Women's,Apparel,438,15928,44.0
+315,Connecticut,2021,4,Northeast,Women's,Athletic Footwear,204,6657,44.0
+316,Connecticut,2021,4,Northeast,Women's,Street Footwear,320,8904,44.0
+317,Connecticut,2021,5,Northeast,Men's,Apparel,403,20320,53.3
+318,Connecticut,2021,5,Northeast,Men's,Athletic Footwear,406,18909,53.3
+319,Connecticut,2021,5,Northeast,Men's,Street Footwear,878,45282,53.3
+320,Connecticut,2021,5,Northeast,Women's,Apparel,616,33963,53.3
+321,Connecticut,2021,5,Northeast,Women's,Athletic Footwear,362,15265,53.3
+322,Connecticut,2021,5,Northeast,Women's,Street Footwear,432,18213,53.3
+323,Connecticut,2021,6,Northeast,Men's,Apparel,440,22322,63.6
+324,Connecticut,2021,6,Northeast,Men's,Athletic Footwear,593,27974,63.6
+325,Connecticut,2021,6,Northeast,Men's,Street Footwear,1006,51364,63.6
+326,Connecticut,2021,6,Northeast,Women's,Apparel,676,37380,63.6
+327,Connecticut,2021,6,Northeast,Women's,Athletic Footwear,440,18710,63.6
+328,Connecticut,2021,6,Northeast,Women's,Street Footwear,483,20514,63.6
+329,Connecticut,2021,7,Northeast,Men's,Apparel,474,24791,70.2
+330,Connecticut,2021,7,Northeast,Men's,Athletic Footwear,632,29936,70.2
+331,Connecticut,2021,7,Northeast,Men's,Street Footwear,1034,54145,70.2
+332,Connecticut,2021,7,Northeast,Women's,Apparel,770,42588,70.2
+333,Connecticut,2021,7,Northeast,Women's,Athletic Footwear,449,18931,70.2
+334,Connecticut,2021,7,Northeast,Women's,Street Footwear,517,21408,70.2
+335,Connecticut,2021,8,Northeast,Men's,Apparel,314,16317,71.9
+336,Connecticut,2021,8,Northeast,Men's,Athletic Footwear,636,29536,71.9
+337,Connecticut,2021,8,Northeast,Men's,Street Footwear,982,50447,71.9
+338,Connecticut,2021,8,Northeast,Women's,Apparel,604,33731,71.9
+339,Connecticut,2021,8,Northeast,Women's,Athletic Footwear,365,15217,71.9
+340,Connecticut,2021,8,Northeast,Women's,Street Footwear,517,21962,71.9
+341,Connecticut,2021,9,Northeast,Men's,Apparel,284,14552,69.0
+342,Connecticut,2021,9,Northeast,Men's,Athletic Footwear,468,22245,69.0
+343,Connecticut,2021,9,Northeast,Men's,Street Footwear,795,41309,69.0
+344,Connecticut,2021,9,Northeast,Women's,Apparel,441,24717,69.0
+345,Connecticut,2021,9,Northeast,Women's,Athletic Footwear,279,11501,69.0
+346,Connecticut,2021,9,Northeast,Women's,Street Footwear,324,13572,69.0
+347,Connecticut,2021,10,Northeast,Men's,Apparel,237,14688,61.0
+348,Connecticut,2021,10,Northeast,Men's,Athletic Footwear,441,22535,61.0
+349,Connecticut,2021,10,Northeast,Men's,Street Footwear,716,40705,61.0
+350,Connecticut,2021,10,Northeast,Women's,Apparel,443,28236,61.0
+351,Connecticut,2021,10,Northeast,Women's,Athletic Footwear,233,12085,61.0
+352,Connecticut,2021,10,Northeast,Women's,Street Footwear,285,14418,61.0
+353,Connecticut,2021,11,Northeast,Men's,Apparel,406,24202,48.9
+354,Connecticut,2021,11,Northeast,Men's,Athletic Footwear,489,24669,48.9
+355,Connecticut,2021,11,Northeast,Men's,Street Footwear,685,41884,48.9
+356,Connecticut,2021,11,Northeast,Women's,Apparel,561,36897,48.9
+357,Connecticut,2021,11,Northeast,Women's,Athletic Footwear,438,22362,48.9
+358,Connecticut,2021,11,Northeast,Women's,Street Footwear,478,24013,48.9
+359,Connecticut,2021,12,Northeast,Men's,Apparel,477,28338,39.0
+360,Connecticut,2021,12,Northeast,Men's,Athletic Footwear,607,30623,39.0
+361,Connecticut,2021,12,Northeast,Men's,Street Footwear,898,54010,39.0
+362,Connecticut,2021,12,Northeast,Women's,Apparel,632,41744,39.0
+363,Connecticut,2021,12,Northeast,Women's,Athletic Footwear,483,24759,39.0
+364,Connecticut,2021,12,Northeast,Women's,Street Footwear,554,28638,39.0
+365,Delaware,2021,1,Northeast,Men's,Apparel,222,9802,38.0
+366,Delaware,2021,1,Northeast,Men's,Athletic Footwear,352,12166,38.0
+367,Delaware,2021,1,Northeast,Men's,Street Footwear,613,21041,38.0
+368,Delaware,2021,1,Northeast,Women's,Apparel,344,11902,38.0
+369,Delaware,2021,1,Northeast,Women's,Athletic Footwear,163,4776,38.0
+370,Delaware,2021,1,Northeast,Women's,Street Footwear,347,8603,38.0
+371,Delaware,2021,2,Northeast,Men's,Apparel,290,14175,35.8
+372,Delaware,2021,2,Northeast,Men's,Athletic Footwear,228,7821,35.8
+373,Delaware,2021,2,Northeast,Men's,Street Footwear,672,23373,35.8
+374,Delaware,2021,2,Northeast,Women's,Apparel,423,16822,35.8
+375,Delaware,2021,2,Northeast,Women's,Athletic Footwear,195,6735,35.8
+376,Delaware,2021,2,Northeast,Women's,Street Footwear,288,7137,35.8
+377,Delaware,2021,3,Northeast,Men's,Apparel,224,11004,41.5
+378,Delaware,2021,3,Northeast,Men's,Athletic Footwear,318,12652,41.5
+379,Delaware,2021,3,Northeast,Men's,Street Footwear,703,27488,41.5
+380,Delaware,2021,3,Northeast,Women's,Apparel,347,13808,41.5
+381,Delaware,2021,3,Northeast,Women's,Athletic Footwear,156,5367,41.5
+382,Delaware,2021,3,Northeast,Women's,Street Footwear,344,10251,41.5
+383,Delaware,2021,4,Northeast,Men's,Apparel,195,9615,51.4
+384,Delaware,2021,4,Northeast,Men's,Athletic Footwear,286,11318,51.4
+385,Delaware,2021,4,Northeast,Men's,Street Footwear,656,25716,51.4
+386,Delaware,2021,4,Northeast,Women's,Apparel,378,14964,51.4
+387,Delaware,2021,4,Northeast,Women's,Athletic Footwear,194,6658,51.4
+388,Delaware,2021,4,Northeast,Women's,Street Footwear,284,8343,51.4
+389,Delaware,2021,5,Northeast,Men's,Apparel,349,18824,59.3
+390,Delaware,2021,5,Northeast,Men's,Athletic Footwear,344,16993,59.3
+391,Delaware,2021,5,Northeast,Men's,Street Footwear,730,39509,59.3
+392,Delaware,2021,5,Northeast,Women's,Apparel,504,29616,59.3
+393,Delaware,2021,5,Northeast,Women's,Athletic Footwear,315,13915,59.3
+394,Delaware,2021,5,Northeast,Women's,Street Footwear,381,16821,59.3
+395,Delaware,2021,6,Northeast,Men's,Apparel,375,20249,68.6
+396,Delaware,2021,6,Northeast,Men's,Athletic Footwear,520,25760,68.6
+397,Delaware,2021,6,Northeast,Men's,Street Footwear,839,45388,68.6
+398,Delaware,2021,6,Northeast,Women's,Apparel,585,34560,68.6
+399,Delaware,2021,6,Northeast,Women's,Athletic Footwear,375,16575,68.6
+400,Delaware,2021,6,Northeast,Women's,Street Footwear,410,18280,68.6
+401,Delaware,2021,7,Northeast,Men's,Apparel,419,22668,75.7
+402,Delaware,2021,7,Northeast,Men's,Athletic Footwear,544,26843,75.7
+403,Delaware,2021,7,Northeast,Men's,Street Footwear,857,46770,75.7
+404,Delaware,2021,7,Northeast,Women's,Apparel,645,37975,75.7
+405,Delaware,2021,7,Northeast,Women's,Athletic Footwear,390,17370,75.7
+406,Delaware,2021,7,Northeast,Women's,Street Footwear,452,19932,75.7
+407,Delaware,2021,8,Northeast,Men's,Apparel,288,15524,77.2
+408,Delaware,2021,8,Northeast,Men's,Athletic Footwear,553,27266,77.2
+409,Delaware,2021,8,Northeast,Men's,Street Footwear,813,43899,77.2
+410,Delaware,2021,8,Northeast,Women's,Apparel,520,31080,77.2
+411,Delaware,2021,8,Northeast,Women's,Athletic Footwear,313,13833,77.2
+412,Delaware,2021,8,Northeast,Women's,Street Footwear,455,20160,77.2
+413,Delaware,2021,9,Northeast,Men's,Apparel,260,13999,73.4
+414,Delaware,2021,9,Northeast,Men's,Athletic Footwear,410,20245,73.4
+415,Delaware,2021,9,Northeast,Men's,Street Footwear,667,35974,73.4
+416,Delaware,2021,9,Northeast,Women's,Apparel,384,22872,73.4
+417,Delaware,2021,9,Northeast,Women's,Athletic Footwear,260,11460,73.4
+418,Delaware,2021,9,Northeast,Women's,Street Footwear,286,12748,73.4
+419,Delaware,2021,10,Northeast,Men's,Apparel,224,14413,66.4
+420,Delaware,2021,10,Northeast,Men's,Athletic Footwear,390,21090,66.4
+421,Delaware,2021,10,Northeast,Men's,Street Footwear,603,35668,66.4
+422,Delaware,2021,10,Northeast,Women's,Apparel,378,25914,66.4
+423,Delaware,2021,10,Northeast,Women's,Athletic Footwear,219,11913,66.4
+424,Delaware,2021,10,Northeast,Women's,Street Footwear,252,13600,66.4
+425,Delaware,2021,11,Northeast,Men's,Apparel,347,22195,54.1
+426,Delaware,2021,11,Northeast,Men's,Athletic Footwear,410,22380,54.1
+427,Delaware,2021,11,Northeast,Men's,Street Footwear,585,37350,54.1
+428,Delaware,2021,11,Northeast,Women's,Apparel,473,32522,54.1
+429,Delaware,2021,11,Northeast,Women's,Athletic Footwear,384,20784,54.1
+430,Delaware,2021,11,Northeast,Women's,Street Footwear,406,22072,54.1
+431,Delaware,2021,12,Northeast,Men's,Apparel,416,26676,44.6
+432,Delaware,2021,12,Northeast,Men's,Athletic Footwear,500,27000,44.6
+433,Delaware,2021,12,Northeast,Men's,Street Footwear,768,49416,44.6
+434,Delaware,2021,12,Northeast,Women's,Apparel,548,37745,44.6
+435,Delaware,2021,12,Northeast,Women's,Athletic Footwear,423,23069,44.6
+436,Delaware,2021,12,Northeast,Women's,Street Footwear,484,26075,44.6
+467,Florida,2021,1,Southeast,Men's,Apparel,908,45613,58.2
+468,Florida,2021,1,Southeast,Men's,Athletic Footwear,1060,45522,58.2
+469,Florida,2021,1,Southeast,Men's,Street Footwear,1377,56865,58.2
+470,Florida,2021,1,Southeast,Women's,Apparel,1047,44729,58.2
+471,Florida,2021,1,Southeast,Women's,Athletic Footwear,815,30465,58.2
+472,Florida,2021,1,Southeast,Women's,Street Footwear,1021,33410,58.2
+473,Florida,2021,2,Southeast,Men's,Apparel,322,16848,61.2
+474,Florida,2021,2,Southeast,Men's,Athletic Footwear,853,35661,61.2
+475,Florida,2021,2,Southeast,Men's,Street Footwear,1422,61164,61.2
+476,Florida,2021,2,Southeast,Women's,Apparel,632,29168,61.2
+477,Florida,2021,2,Southeast,Women's,Athletic Footwear,443,20464,61.2
+478,Florida,2021,2,Southeast,Women's,Street Footwear,978,31434,61.2
+479,Florida,2021,3,Southeast,Men's,Apparel,279,16699,65.8
+480,Florida,2021,3,Southeast,Men's,Athletic Footwear,624,35256,65.8
+481,Florida,2021,3,Southeast,Men's,Street Footwear,881,40845,65.8
+482,Florida,2021,3,Southeast,Women's,Apparel,607,34242,65.8
+483,Florida,2021,3,Southeast,Women's,Athletic Footwear,530,29566,65.8
+484,Florida,2021,3,Southeast,Women's,Street Footwear,689,41412,65.8
+485,Florida,2021,4,Southeast,Men's,Apparel,318,18242,68.8
+486,Florida,2021,4,Southeast,Men's,Athletic Footwear,553,36323,68.8
+487,Florida,2021,4,Southeast,Men's,Street Footwear,859,52343,68.8
+488,Florida,2021,4,Southeast,Women's,Apparel,597,42414,68.8
+489,Florida,2021,4,Southeast,Women's,Athletic Footwear,474,24558,68.8
+490,Florida,2021,4,Southeast,Women's,Street Footwear,652,42388,68.8
+491,Florida,2021,5,Southeast,Men's,Apparel,361,18766,72.9
+492,Florida,2021,5,Southeast,Men's,Athletic Footwear,685,41377,72.9
+493,Florida,2021,5,Southeast,Men's,Street Footwear,931,52334,72.9
+494,Florida,2021,5,Southeast,Women's,Apparel,921,60145,72.9
+495,Florida,2021,5,Southeast,Women's,Athletic Footwear,520,28865,72.9
+496,Florida,2021,5,Southeast,Women's,Street Footwear,676,40718,72.9
+497,Florida,2021,6,Southeast,Men's,Apparel,729,64827,78.4
+498,Florida,2021,6,Southeast,Men's,Athletic Footwear,1127,73864,78.4
+499,Florida,2021,6,Southeast,Men's,Street Footwear,1320,80827,78.4
+500,Florida,2021,6,Southeast,Women's,Apparel,1216,123306,78.4
+501,Florida,2021,6,Southeast,Women's,Athletic Footwear,926,73746,78.4
+502,Florida,2021,6,Southeast,Women's,Street Footwear,1148,90580,78.4
+503,Florida,2021,7,Southeast,Men's,Apparel,1053,93249,81.3
+504,Florida,2021,7,Southeast,Men's,Athletic Footwear,1238,110512,81.3
+505,Florida,2021,7,Southeast,Men's,Street Footwear,1458,122859,81.3
+506,Florida,2021,7,Southeast,Women's,Apparel,1008,102588,81.3
+507,Florida,2021,7,Southeast,Women's,Athletic Footwear,966,79734,81.3
+508,Florida,2021,7,Southeast,Women's,Street Footwear,1127,99890,81.3
+509,Florida,2021,8,Southeast,Men's,Apparel,784,59040,82.2
+510,Florida,2021,8,Southeast,Men's,Athletic Footwear,1303,102307,82.2
+511,Florida,2021,8,Southeast,Men's,Street Footwear,1318,116621,82.2
+512,Florida,2021,8,Southeast,Women's,Apparel,483,38307,82.2
+513,Florida,2021,8,Southeast,Women's,Athletic Footwear,765,58419,82.2
+514,Florida,2021,8,Southeast,Women's,Street Footwear,1120,85064,82.2
+515,Florida,2021,9,Southeast,Men's,Apparel,443,29062,81.1
+516,Florida,2021,9,Southeast,Men's,Athletic Footwear,785,47350,81.1
+517,Florida,2021,9,Southeast,Men's,Street Footwear,795,44940,81.1
+518,Florida,2021,9,Southeast,Women's,Apparel,474,24482,81.1
+519,Florida,2021,9,Southeast,Women's,Athletic Footwear,393,21942,81.1
+520,Florida,2021,9,Southeast,Women's,Street Footwear,471,25794,81.1
+521,Florida,2021,10,Southeast,Men's,Apparel,564,33984,77.6
+522,Florida,2021,10,Southeast,Men's,Athletic Footwear,909,54041,77.6
+523,Florida,2021,10,Southeast,Men's,Street Footwear,640,30160,77.6
+524,Florida,2021,10,Southeast,Women's,Apparel,644,42180,77.6
+525,Florida,2021,10,Southeast,Women's,Athletic Footwear,608,31188,77.6
+526,Florida,2021,10,Southeast,Women's,Street Footwear,640,35664,77.6
+527,Florida,2021,11,Southeast,Men's,Apparel,746,58449,69.4
+528,Florida,2021,11,Southeast,Men's,Athletic Footwear,1106,62076,69.4
+529,Florida,2021,11,Southeast,Men's,Street Footwear,982,50871,69.4
+530,Florida,2021,11,Southeast,Women's,Apparel,960,81000,69.4
+531,Florida,2021,11,Southeast,Women's,Athletic Footwear,820,50090,69.4
+532,Florida,2021,11,Southeast,Women's,Street Footwear,845,44278,69.4
+533,Florida,2021,12,Southeast,Men's,Apparel,851,71348,64.9
+534,Florida,2021,12,Southeast,Men's,Athletic Footwear,1256,98480,64.9
+535,Florida,2021,12,Southeast,Men's,Street Footwear,1296,91792,64.9
+536,Florida,2021,12,Southeast,Women's,Apparel,981,85747,64.9
+537,Florida,2021,12,Southeast,Women's,Athletic Footwear,984,73872,64.9
+538,Florida,2021,12,Southeast,Women's,Street Footwear,978,74106,64.9
+539,Georgia,2021,1,Southeast,Men's,Apparel,1161,53778,47.0
+540,Georgia,2021,1,Southeast,Men's,Athletic Footwear,1287,48302,47.0
+541,Georgia,2021,1,Southeast,Men's,Street Footwear,1630,60058,47.0
+542,Georgia,2021,1,Southeast,Women's,Apparel,1345,50273,47.0
+543,Georgia,2021,1,Southeast,Women's,Athletic Footwear,1087,35752,47.0
+544,Georgia,2021,1,Southeast,Women's,Street Footwear,1337,38278,47.0
+545,Georgia,2021,2,Southeast,Men's,Apparel,286,12006,48.6
+546,Georgia,2021,2,Southeast,Men's,Athletic Footwear,1190,44171,48.6
+547,Georgia,2021,2,Southeast,Men's,Street Footwear,1763,66512,48.6
+548,Georgia,2021,2,Southeast,Women's,Apparel,604,22294,48.6
+549,Georgia,2021,2,Southeast,Women's,Athletic Footwear,393,14668,48.6
+550,Georgia,2021,2,Southeast,Women's,Street Footwear,1240,34751,48.6
+551,Georgia,2021,3,Southeast,Men's,Apparel,234,12084,54.7
+552,Georgia,2021,3,Southeast,Men's,Athletic Footwear,589,27577,54.7
+553,Georgia,2021,3,Southeast,Men's,Street Footwear,825,30959,54.7
+554,Georgia,2021,3,Southeast,Women's,Apparel,557,26540,54.7
+555,Georgia,2021,3,Southeast,Women's,Athletic Footwear,401,18895,54.7
+556,Georgia,2021,3,Southeast,Women's,Street Footwear,612,29123,54.7
+557,Georgia,2021,4,Southeast,Men's,Apparel,284,14509,61.0
+558,Georgia,2021,4,Southeast,Men's,Athletic Footwear,524,26803,61.0
+559,Georgia,2021,4,Southeast,Men's,Street Footwear,846,39263,61.0
+560,Georgia,2021,4,Southeast,Women's,Apparel,567,37387,61.0
+561,Georgia,2021,4,Southeast,Women's,Athletic Footwear,440,20902,61.0
+562,Georgia,2021,4,Southeast,Women's,Street Footwear,582,29393,61.0
+563,Georgia,2021,5,Southeast,Men's,Apparel,355,18061,65.7
+564,Georgia,2021,5,Southeast,Men's,Athletic Footwear,644,32512,65.7
+565,Georgia,2021,5,Southeast,Men's,Street Footwear,897,41939,65.7
+566,Georgia,2021,5,Southeast,Women's,Apparel,644,42252,65.7
+567,Georgia,2021,5,Southeast,Women's,Athletic Footwear,530,24403,65.7
+568,Georgia,2021,5,Southeast,Women's,Street Footwear,693,35571,65.7
+569,Georgia,2021,6,Southeast,Men's,Apparel,441,22745,73.2
+570,Georgia,2021,6,Southeast,Men's,Athletic Footwear,835,43496,73.2
+571,Georgia,2021,6,Southeast,Men's,Street Footwear,1054,48951,73.2
+572,Georgia,2021,6,Southeast,Women's,Apparel,915,60370,73.2
+573,Georgia,2021,6,Southeast,Women's,Athletic Footwear,652,30236,73.2
+574,Georgia,2021,6,Southeast,Women's,Street Footwear,825,42421,73.2
+575,Georgia,2021,7,Southeast,Men's,Apparel,775,39895,78.2
+576,Georgia,2021,7,Southeast,Men's,Athletic Footwear,921,46849,78.2
+577,Georgia,2021,7,Southeast,Men's,Street Footwear,1139,53528,78.2
+578,Georgia,2021,7,Southeast,Women's,Apparel,775,50838,78.2
+579,Georgia,2021,7,Southeast,Women's,Athletic Footwear,681,32130,78.2
+580,Georgia,2021,7,Southeast,Women's,Street Footwear,846,43269,78.2
+581,Georgia,2021,8,Southeast,Men's,Apparel,716,43950,79.6
+582,Georgia,2021,8,Southeast,Men's,Athletic Footwear,1000,56450,79.6
+583,Georgia,2021,8,Southeast,Men's,Street Footwear,1066,54922,79.6
+584,Georgia,2021,8,Southeast,Women's,Apparel,672,44242,79.6
+585,Georgia,2021,8,Southeast,Women's,Athletic Footwear,712,36997,79.6
+586,Georgia,2021,8,Southeast,Women's,Street Footwear,800,41900,79.6
+587,Georgia,2021,9,Southeast,Men's,Apparel,632,32152,76.8
+588,Georgia,2021,9,Southeast,Men's,Athletic Footwear,954,44856,76.8
+589,Georgia,2021,9,Southeast,Men's,Street Footwear,984,41064,76.8
+590,Georgia,2021,9,Southeast,Women's,Apparel,716,40939,76.8
+591,Georgia,2021,9,Southeast,Women's,Athletic Footwear,640,27360,76.8
+592,Georgia,2021,9,Southeast,Women's,Street Footwear,720,30240,76.8
+593,Georgia,2021,10,Southeast,Men's,Apparel,492,25182,70.4
+594,Georgia,2021,10,Southeast,Men's,Athletic Footwear,840,38806,70.4
+595,Georgia,2021,10,Southeast,Men's,Street Footwear,829,35009,70.4
+596,Georgia,2021,10,Southeast,Women's,Apparel,561,36042,70.4
+597,Georgia,2021,10,Southeast,Women's,Athletic Footwear,527,22145,70.4
+598,Georgia,2021,10,Southeast,Women's,Street Footwear,578,24096,70.4
+599,Georgia,2021,11,Southeast,Men's,Apparel,571,34463,59.8
+600,Georgia,2021,11,Southeast,Men's,Athletic Footwear,932,51894,59.8
+601,Georgia,2021,11,Southeast,Men's,Street Footwear,835,42090,59.8
+602,Georgia,2021,11,Southeast,Women's,Apparel,756,48532,59.8
+603,Georgia,2021,11,Southeast,Women's,Athletic Footwear,656,33096,59.8
+604,Georgia,2021,11,Southeast,Women's,Street Footwear,685,35240,59.8
+605,Georgia,2021,12,Southeast,Men's,Apparel,636,38704,54.6
+606,Georgia,2021,12,Southeast,Men's,Athletic Footwear,1087,60159,54.6
+607,Georgia,2021,12,Southeast,Men's,Street Footwear,1087,56053,54.6
+608,Georgia,2021,12,Southeast,Women's,Apparel,795,51160,54.6
+609,Georgia,2021,12,Southeast,Women's,Athletic Footwear,746,38373,54.6
+610,Georgia,2021,12,Southeast,Women's,Street Footwear,760,38731,54.6
+683,Idaho,2021,1,West,Men's,Apparel,356,15151,26.4
+684,Idaho,2021,1,West,Men's,Athletic Footwear,671,25122,26.4
+685,Idaho,2021,1,West,Men's,Street Footwear,680,19328,26.4
+686,Idaho,2021,1,West,Women's,Apparel,676,24776,26.4
+687,Idaho,2021,1,West,Women's,Athletic Footwear,440,16566,26.4
+688,Idaho,2021,1,West,Women's,Street Footwear,676,25417,26.4
+689,Idaho,2021,2,West,Men's,Apparel,408,15458,26.0
+690,Idaho,2021,2,West,Men's,Athletic Footwear,616,22878,26.0
+691,Idaho,2021,2,West,Men's,Street Footwear,780,21798,26.0
+692,Idaho,2021,2,West,Women's,Apparel,716,23714,26.0
+693,Idaho,2021,2,West,Women's,Athletic Footwear,600,19745,26.0
+694,Idaho,2021,2,West,Women's,Street Footwear,604,22462,26.0
+695,Idaho,2021,3,West,Men's,Apparel,413,15591,30.0
+696,Idaho,2021,3,West,Men's,Athletic Footwear,982,36160,30.0
+697,Idaho,2021,3,West,Men's,Street Footwear,981,27318,30.0
+698,Idaho,2021,3,West,Women's,Apparel,640,20928,30.0
+699,Idaho,2021,3,West,Women's,Athletic Footwear,567,18627,30.0
+700,Idaho,2021,3,West,Women's,Street Footwear,698,19364,30.0
+701,Idaho,2021,4,West,Men's,Apparel,438,14530,38.4
+702,Idaho,2021,4,West,Men's,Athletic Footwear,1060,29670,38.4
+703,Idaho,2021,4,West,Men's,Street Footwear,1060,19930,38.4
+704,Idaho,2021,4,West,Women's,Apparel,864,24412,38.4
+705,Idaho,2021,4,West,Women's,Athletic Footwear,604,16847,38.4
+706,Idaho,2021,4,West,Women's,Street Footwear,775,18264,38.4
+707,Idaho,2021,5,West,Men's,Apparel,640,29720,45.9
+708,Idaho,2021,5,West,Men's,Athletic Footwear,1168,32672,45.9
+709,Idaho,2021,5,West,Men's,Street Footwear,1113,20594,45.9
+710,Idaho,2021,5,West,Women's,Apparel,1208,50826,45.9
+711,Idaho,2021,5,West,Women's,Athletic Footwear,785,25510,45.9
+712,Idaho,2021,5,West,Women's,Street Footwear,926,21527,45.9
+713,Idaho,2021,6,West,Men's,Apparel,725,37628,57.4
+714,Idaho,2021,6,West,Men's,Athletic Footwear,1201,55353,57.4
+715,Idaho,2021,6,West,Men's,Street Footwear,1178,49163,57.4
+716,Idaho,2021,6,West,Women's,Apparel,1304,71877,57.4
+717,Idaho,2021,6,West,Women's,Athletic Footwear,880,40535,57.4
+718,Idaho,2021,6,West,Women's,Street Footwear,960,44502,57.4
+719,Idaho,2021,7,West,Men's,Apparel,829,43257,68.4
+720,Idaho,2021,7,West,Men's,Athletic Footwear,1248,63969,68.4
+721,Idaho,2021,7,West,Men's,Street Footwear,1256,58406,68.4
+722,Idaho,2021,7,West,Women's,Apparel,1272,78776,68.4
+723,Idaho,2021,7,West,Women's,Athletic Footwear,820,38693,68.4
+724,Idaho,2021,7,West,Women's,Street Footwear,1444,66788,68.4
+725,Idaho,2021,8,West,Men's,Apparel,774,39515,67.9
+726,Idaho,2021,8,West,Men's,Athletic Footwear,1200,61020,67.9
+727,Idaho,2021,8,West,Men's,Street Footwear,1193,56014,67.9
+728,Idaho,2021,8,West,Women's,Apparel,1160,64600,67.9
+729,Idaho,2021,8,West,Women's,Athletic Footwear,761,35048,67.9
+730,Idaho,2021,8,West,Women's,Street Footwear,1480,69645,67.9
+731,Idaho,2021,9,West,Men's,Apparel,644,33080,60.5
+732,Idaho,2021,9,West,Men's,Athletic Footwear,1032,52097,60.5
+733,Idaho,2021,9,West,Men's,Street Footwear,1081,55355,60.5
+734,Idaho,2021,9,West,Women's,Apparel,1006,47319,60.5
+735,Idaho,2021,9,West,Women's,Athletic Footwear,652,35820,60.5
+736,Idaho,2021,9,West,Women's,Street Footwear,1060,59421,60.5
+737,Idaho,2021,10,West,Men's,Apparel,564,18237,51.2
+738,Idaho,2021,10,West,Men's,Athletic Footwear,938,34531,51.2
+739,Idaho,2021,10,West,Men's,Street Footwear,943,35042,51.2
+740,Idaho,2021,10,West,Women's,Apparel,846,35675,51.2
+741,Idaho,2021,10,West,Women's,Athletic Footwear,592,25379,51.2
+742,Idaho,2021,10,West,Women's,Street Footwear,835,34545,51.2
+743,Idaho,2021,11,West,Men's,Apparel,680,35207,40.9
+744,Idaho,2021,11,West,Men's,Athletic Footwear,1087,35917,40.9
+745,Idaho,2021,11,West,Men's,Street Footwear,1060,35112,40.9
+746,Idaho,2021,11,West,Women's,Apparel,982,60788,40.9
+747,Idaho,2021,11,West,Women's,Athletic Footwear,730,40382,40.9
+748,Idaho,2021,11,West,Women's,Street Footwear,960,53520,40.9
+749,Idaho,2021,12,West,Men's,Apparel,755,39095,31.6
+750,Idaho,2021,12,West,Men's,Athletic Footwear,1224,63123,31.6
+751,Idaho,2021,12,West,Men's,Street Footwear,1248,64806,31.6
+752,Idaho,2021,12,West,Women's,Apparel,1153,69789,31.6
+753,Idaho,2021,12,West,Women's,Athletic Footwear,851,47974,31.6
+754,Idaho,2021,12,West,Women's,Street Footwear,1074,60837,31.6
+755,Illinois,2021,6,Midwest,Men's,Apparel,892,50644,67.6
+756,Illinois,2021,6,Midwest,Men's,Athletic Footwear,934,46302,67.6
+757,Illinois,2021,6,Midwest,Men's,Street Footwear,3158,159133,67.6
+758,Illinois,2021,6,Midwest,Women's,Apparel,1587,79692,67.6
+759,Illinois,2021,6,Midwest,Women's,Athletic Footwear,445,19845,67.6
+760,Illinois,2021,6,Midwest,Women's,Street Footwear,990,39761,67.6
+761,Illinois,2021,7,Midwest,Men's,Apparel,1139,57927,74.4
+762,Illinois,2021,7,Midwest,Men's,Athletic Footwear,2162,99155,74.4
+763,Illinois,2021,7,Midwest,Men's,Street Footwear,3122,164563,74.4
+764,Illinois,2021,7,Midwest,Women's,Apparel,2082,116178,74.4
+765,Illinois,2021,7,Midwest,Women's,Athletic Footwear,1137,46452,74.4
+766,Illinois,2021,7,Midwest,Women's,Street Footwear,1343,54828,74.4
+767,Illinois,2021,8,Midwest,Men's,Apparel,449,26718,75.0
+768,Illinois,2021,8,Midwest,Men's,Athletic Footwear,1296,45688,75.0
+769,Illinois,2021,8,Midwest,Men's,Street Footwear,1564,56830,75.0
+770,Illinois,2021,8,Midwest,Women's,Apparel,696,44897,75.0
+771,Illinois,2021,8,Midwest,Women's,Athletic Footwear,1159,47377,75.0
+772,Illinois,2021,8,Midwest,Women's,Street Footwear,1252,48068,75.0
+773,Indiana,2021,1,Midwest,Men's,Apparel,254,11213,32.0
+774,Indiana,2021,1,Midwest,Men's,Athletic Footwear,375,12900,32.0
+775,Indiana,2021,1,Midwest,Men's,Street Footwear,625,21500,32.0
+776,Indiana,2021,1,Midwest,Women's,Apparel,375,13050,32.0
+777,Indiana,2021,1,Midwest,Women's,Athletic Footwear,195,5805,32.0
+778,Indiana,2021,1,Midwest,Women's,Street Footwear,387,9675,32.0
+779,Indiana,2021,2,Midwest,Men's,Apparel,258,11377,27.1
+780,Indiana,2021,2,Midwest,Men's,Athletic Footwear,250,9900,27.1
+781,Indiana,2021,2,Midwest,Men's,Street Footwear,699,24167,27.1
+782,Indiana,2021,2,Midwest,Women's,Apparel,375,7424,27.1
+783,Indiana,2021,2,Midwest,Women's,Athletic Footwear,161,4794,27.1
+784,Indiana,2021,2,Midwest,Women's,Street Footwear,375,11025,27.1
+785,Indiana,2021,3,Midwest,Men's,Apparel,219,7533,34.8
+786,Indiana,2021,3,Midwest,Men's,Athletic Footwear,286,7028,34.8
+787,Indiana,2021,3,Midwest,Men's,Street Footwear,671,16473,34.8
+788,Indiana,2021,3,Midwest,Women's,Apparel,349,8651,34.8
+789,Indiana,2021,3,Midwest,Women's,Athletic Footwear,156,3088,34.8
+790,Indiana,2021,3,Midwest,Women's,Street Footwear,347,5133,34.8
+791,Indiana,2021,4,Midwest,Men's,Apparel,195,12495,48.9
+792,Indiana,2021,4,Midwest,Men's,Athletic Footwear,254,6242,48.9
+793,Indiana,2021,4,Midwest,Men's,Street Footwear,625,15375,48.9
+794,Indiana,2021,4,Midwest,Women's,Apparel,347,17134,48.9
+795,Indiana,2021,4,Midwest,Women's,Athletic Footwear,161,3183,48.9
+796,Indiana,2021,4,Midwest,Women's,Street Footwear,252,3728,48.9
+797,Indiana,2021,5,Midwest,Men's,Apparel,258,11551,55.8
+798,Indiana,2021,5,Midwest,Men's,Athletic Footwear,323,12701,55.8
+799,Indiana,2021,5,Midwest,Men's,Street Footwear,709,41556,55.8
+800,Indiana,2021,5,Midwest,Women's,Apparel,416,22697,55.8
+801,Indiana,2021,5,Midwest,Women's,Athletic Footwear,224,7791,55.8
+802,Indiana,2021,5,Midwest,Women's,Street Footwear,281,9779,55.8
+803,Indiana,2021,6,Midwest,Men's,Apparel,228,8908,66.1
+804,Indiana,2021,6,Midwest,Men's,Athletic Footwear,419,14383,66.1
+805,Indiana,2021,6,Midwest,Men's,Street Footwear,730,28580,66.1
+806,Indiana,2021,6,Midwest,Women's,Apparel,416,24596,66.1
+807,Indiana,2021,6,Midwest,Women's,Athletic Footwear,221,6584,66.1
+808,Indiana,2021,6,Midwest,Women's,Street Footwear,250,7350,66.1
+809,Indiana,2021,7,Midwest,Men's,Apparel,250,13550,73.1
+810,Indiana,2021,7,Midwest,Men's,Athletic Footwear,384,19116,73.1
+811,Indiana,2021,7,Midwest,Men's,Street Footwear,699,37849,73.1
+812,Indiana,2021,7,Midwest,Women's,Apparel,476,27954,73.1
+813,Indiana,2021,7,Midwest,Women's,Athletic Footwear,224,9933,73.1
+814,Indiana,2021,7,Midwest,Women's,Street Footwear,293,12981,73.1
+815,Indiana,2021,8,Midwest,Men's,Apparel,228,11241,74.4
+816,Indiana,2021,8,Midwest,Men's,Athletic Footwear,387,17067,74.4
+817,Indiana,2021,8,Midwest,Men's,Street Footwear,677,33394,74.4
+818,Indiana,2021,8,Midwest,Women's,Apparel,441,24164,74.4
+819,Indiana,2021,8,Midwest,Women's,Athletic Footwear,260,10280,74.4
+820,Indiana,2021,8,Midwest,Women's,Street Footwear,281,11072,74.4
+821,Indiana,2021,9,Midwest,Men's,Apparel,192,6636,71.8
+822,Indiana,2021,9,Midwest,Men's,Athletic Footwear,349,10396,71.8
+823,Indiana,2021,9,Midwest,Men's,Street Footwear,608,21014,71.8
+824,Indiana,2021,9,Midwest,Women's,Apparel,293,11448,71.8
+825,Indiana,2021,9,Midwest,Women's,Athletic Footwear,191,4734,71.8
+826,Indiana,2021,9,Midwest,Women's,Street Footwear,224,5502,71.8
+827,Indiana,2021,10,Midwest,Men's,Apparel,188,8307,64.3
+828,Indiana,2021,10,Midwest,Men's,Athletic Footwear,315,10830,64.3
+829,Indiana,2021,10,Midwest,Men's,Street Footwear,516,22755,64.3
+830,Indiana,2021,10,Midwest,Women's,Apparel,358,17733,64.3
+831,Indiana,2021,10,Midwest,Women's,Athletic Footwear,194,6702,64.3
+832,Indiana,2021,10,Midwest,Women's,Street Footwear,188,6466,64.3
+833,Indiana,2021,11,Midwest,Men's,Apparel,325,19125,50.1
+834,Indiana,2021,11,Midwest,Men's,Athletic Footwear,423,14609,50.1
+835,Indiana,2021,11,Midwest,Men's,Street Footwear,548,24167,50.1
+836,Indiana,2021,11,Midwest,Women's,Apparel,441,28300,50.1
+837,Indiana,2021,11,Midwest,Women's,Athletic Footwear,358,12447,50.1
+838,Indiana,2021,11,Midwest,Women's,Street Footwear,351,12042,50.1
+839,Indiana,2021,12,Midwest,Men's,Apparel,384,22536,40.2
+840,Indiana,2021,12,Midwest,Men's,Athletic Footwear,508,25292,40.2
+841,Indiana,2021,12,Midwest,Men's,Street Footwear,750,44700,40.2
+842,Indiana,2021,12,Midwest,Women's,Apparel,520,33439,40.2
+843,Indiana,2021,12,Midwest,Women's,Athletic Footwear,387,18915,40.2
+844,Indiana,2021,12,Midwest,Women's,Street Footwear,455,22645,40.2
+845,Iowa,2021,1,Midwest,Men's,Apparel,195,7710,25.6
+846,Iowa,2021,1,Midwest,Men's,Athletic Footwear,320,9530,25.6
+847,Iowa,2021,1,Midwest,Men's,Street Footwear,576,17028,25.6
+848,Iowa,2021,1,Midwest,Women's,Apparel,323,9544,25.6
+849,Iowa,2021,1,Midwest,Women's,Athletic Footwear,129,3167,25.6
+850,Iowa,2021,1,Midwest,Women's,Street Footwear,315,6170,25.6
+851,Iowa,2021,2,Midwest,Men's,Apparel,188,7444,18.2
+852,Iowa,2021,2,Midwest,Men's,Athletic Footwear,189,5631,18.2
+853,Iowa,2021,2,Midwest,Men's,Street Footwear,640,19060,18.2
+854,Iowa,2021,2,Midwest,Women's,Apparel,318,4701,18.2
+855,Iowa,2021,2,Midwest,Women's,Athletic Footwear,98,2450,18.2
+856,Iowa,2021,2,Midwest,Women's,Street Footwear,260,5200,18.2
+857,Iowa,2021,3,Midwest,Men's,Apparel,189,5592,27.4
+858,Iowa,2021,3,Midwest,Men's,Athletic Footwear,222,4393,27.4
+859,Iowa,2021,3,Midwest,Men's,Street Footwear,606,11984,27.4
+860,Iowa,2021,3,Midwest,Women's,Apparel,318,6360,27.4
+861,Iowa,2021,3,Midwest,Women's,Athletic Footwear,128,1891,27.4
+862,Iowa,2021,3,Midwest,Women's,Street Footwear,290,2835,27.4
+863,Iowa,2021,4,Midwest,Men's,Apparel,159,9370,45.8
+864,Iowa,2021,4,Midwest,Men's,Athletic Footwear,224,4382,45.8
+865,Iowa,2021,4,Midwest,Men's,Street Footwear,599,11980,45.8
+866,Iowa,2021,4,Midwest,Women's,Apparel,313,15398,45.8
+867,Iowa,2021,4,Midwest,Women's,Athletic Footwear,128,1919,45.8
+868,Iowa,2021,4,Midwest,Women's,Street Footwear,228,2280,45.8
+869,Iowa,2021,5,Midwest,Men's,Apparel,192,8555,54.2
+870,Iowa,2021,5,Midwest,Men's,Athletic Footwear,288,11331,54.2
+871,Iowa,2021,5,Midwest,Men's,Street Footwear,666,39522,54.2
+872,Iowa,2021,5,Midwest,Women's,Apparel,344,16923,54.2
+873,Iowa,2021,5,Midwest,Women's,Athletic Footwear,159,5497,54.2
+874,Iowa,2021,5,Midwest,Women's,Street Footwear,254,8782,54.2
+875,Iowa,2021,6,Midwest,Men's,Apparel,219,7621,66.2
+876,Iowa,2021,6,Midwest,Men's,Athletic Footwear,352,10406,66.2
+877,Iowa,2021,6,Midwest,Men's,Street Footwear,662,22759,66.2
+878,Iowa,2021,6,Midwest,Women's,Apparel,410,22210,66.2
+879,Iowa,2021,6,Midwest,Women's,Athletic Footwear,219,5431,66.2
+880,Iowa,2021,6,Midwest,Women's,Street Footwear,250,6150,66.2
+881,Iowa,2021,7,Midwest,Men's,Apparel,260,12760,73.4
+882,Iowa,2021,7,Midwest,Men's,Athletic Footwear,387,17328,73.4
+883,Iowa,2021,7,Midwest,Men's,Street Footwear,688,34262,73.4
+884,Iowa,2021,7,Midwest,Women's,Apparel,469,25419,73.4
+885,Iowa,2021,7,Midwest,Women's,Athletic Footwear,222,8739,73.4
+886,Iowa,2021,7,Midwest,Women's,Street Footwear,293,11448,73.4
+887,Iowa,2021,8,Midwest,Men's,Apparel,226,11198,73.2
+888,Iowa,2021,8,Midwest,Men's,Athletic Footwear,378,16776,73.2
+889,Iowa,2021,8,Midwest,Men's,Street Footwear,656,32669,73.2
+890,Iowa,2021,8,Midwest,Women's,Apparel,448,24444,73.2
+891,Iowa,2021,8,Midwest,Women's,Athletic Footwear,254,9998,73.2
+892,Iowa,2021,8,Midwest,Women's,Street Footwear,286,11379,73.2
+893,Iowa,2021,9,Midwest,Men's,Apparel,195,6780,69.8
+894,Iowa,2021,9,Midwest,Men's,Athletic Footwear,352,10329,69.8
+895,Iowa,2021,9,Midwest,Men's,Street Footwear,608,21147,69.8
+896,Iowa,2021,9,Midwest,Women's,Apparel,286,11196,69.8
+897,Iowa,2021,9,Midwest,Women's,Athletic Footwear,188,4624,69.8
+898,Iowa,2021,9,Midwest,Women's,Street Footwear,224,5551,69.8
+899,Iowa,2021,10,Midwest,Men's,Apparel,163,7220,61.0
+900,Iowa,2021,10,Midwest,Men's,Athletic Footwear,325,11150,61.0
+901,Iowa,2021,10,Midwest,Men's,Street Footwear,512,22815,61.0
+902,Iowa,2021,10,Midwest,Women's,Apparel,323,16076,61.0
+903,Iowa,2021,10,Midwest,Women's,Athletic Footwear,156,5429,61.0
+904,Iowa,2021,10,Midwest,Women's,Street Footwear,189,6576,61.0
+905,Iowa,2021,11,Midwest,Men's,Apparel,224,13195,47.4
+906,Iowa,2021,11,Midwest,Men's,Athletic Footwear,347,11929,47.4
+907,Iowa,2021,11,Midwest,Men's,Street Footwear,512,22591,47.4
+908,Iowa,2021,11,Midwest,Women's,Apparel,347,22122,47.4
+909,Iowa,2021,11,Midwest,Women's,Athletic Footwear,252,8768,47.4
+910,Iowa,2021,11,Midwest,Women's,Street Footwear,277,9524,47.4
+911,Iowa,2021,12,Midwest,Men's,Apparel,284,16981,35.6
+912,Iowa,2021,12,Midwest,Men's,Athletic Footwear,416,20527,35.6
+913,Iowa,2021,12,Midwest,Men's,Street Footwear,672,39438,35.6
+914,Iowa,2021,12,Midwest,Women's,Apparel,413,26316,35.6
+915,Iowa,2021,12,Midwest,Women's,Athletic Footwear,286,14239,35.6
+916,Iowa,2021,12,Midwest,Women's,Street Footwear,358,17651,35.6
+917,Kansas,2021,1,Midwest,Men's,Apparel,219,10861,35.0
+918,Kansas,2021,1,Midwest,Men's,Athletic Footwear,355,13960,35.0
+919,Kansas,2021,1,Midwest,Men's,Street Footwear,613,24244,35.0
+920,Kansas,2021,1,Midwest,Women's,Apparel,347,13664,35.0
+921,Kansas,2021,1,Midwest,Women's,Athletic Footwear,161,5599,35.0
+922,Kansas,2021,1,Midwest,Women's,Street Footwear,358,10491,35.0
+923,Kansas,2021,2,Midwest,Men's,Apparel,293,10051,29.0
+924,Kansas,2021,2,Midwest,Men's,Athletic Footwear,222,8833,29.0
+925,Kansas,2021,2,Midwest,Men's,Street Footwear,683,26846,29.0
+926,Kansas,2021,2,Midwest,Women's,Apparel,423,8264,29.0
+927,Kansas,2021,2,Midwest,Women's,Athletic Footwear,192,3840,29.0
+928,Kansas,2021,2,Midwest,Women's,Street Footwear,284,8461,29.0
+929,Kansas,2021,3,Midwest,Men's,Apparel,191,6562,36.0
+930,Kansas,2021,3,Midwest,Men's,Athletic Footwear,284,5621,36.0
+931,Kansas,2021,3,Midwest,Men's,Street Footwear,698,13960,36.0
+932,Kansas,2021,3,Midwest,Women's,Apparel,315,7745,36.0
+933,Kansas,2021,3,Midwest,Women's,Athletic Footwear,126,2519,36.0
+934,Kansas,2021,3,Midwest,Women's,Street Footwear,325,3175,36.0
+935,Kansas,2021,4,Midwest,Men's,Apparel,188,7482,50.2
+936,Kansas,2021,4,Midwest,Men's,Athletic Footwear,258,6450,50.2
+937,Kansas,2021,4,Midwest,Men's,Street Footwear,650,16100,50.2
+938,Kansas,2021,4,Midwest,Women's,Apparel,381,11349,50.2
+939,Kansas,2021,4,Midwest,Women's,Athletic Footwear,160,3164,50.2
+940,Kansas,2021,4,Midwest,Women's,Street Footwear,260,3840,50.2
+941,Kansas,2021,5,Midwest,Men's,Apparel,281,12532,57.2
+942,Kansas,2021,5,Midwest,Men's,Athletic Footwear,352,14003,57.2
+943,Kansas,2021,5,Midwest,Men's,Street Footwear,713,27948,57.2
+944,Kansas,2021,5,Midwest,Women's,Apparel,419,18572,57.2
+945,Kansas,2021,5,Midwest,Women's,Athletic Footwear,258,8856,57.2
+946,Kansas,2021,5,Midwest,Women's,Street Footwear,315,10830,57.2
+947,Kansas,2021,6,Midwest,Men's,Apparel,358,19606,68.9
+948,Kansas,2021,6,Midwest,Men's,Athletic Footwear,419,14383,68.9
+949,Kansas,2021,6,Midwest,Men's,Street Footwear,719,28328,68.9
+950,Kansas,2021,6,Midwest,Women's,Apparel,567,33786,68.9
+951,Kansas,2021,6,Midwest,Women's,Athletic Footwear,355,14040,68.9
+952,Kansas,2021,6,Midwest,Women's,Street Footwear,381,14997,68.9
+953,Kansas,2021,7,Midwest,Men's,Apparel,416,24596,76.8
+954,Kansas,2021,7,Midwest,Men's,Athletic Footwear,544,27081,76.8
+955,Kansas,2021,7,Midwest,Men's,Street Footwear,857,46406,76.8
+956,Kansas,2021,7,Midwest,Women's,Apparel,640,40900,76.8
+957,Kansas,2021,7,Midwest,Women's,Athletic Footwear,375,16725,76.8
+958,Kansas,2021,7,Midwest,Women's,Street Footwear,452,20034,76.8
+959,Kansas,2021,8,Midwest,Men's,Apparel,344,16993,78.4
+960,Kansas,2021,8,Midwest,Men's,Athletic Footwear,536,29036,78.4
+961,Kansas,2021,8,Midwest,Men's,Street Footwear,839,49584,78.4
+962,Kansas,2021,8,Midwest,Women's,Apparel,563,30626,78.4
+963,Kansas,2021,8,Midwest,Women's,Athletic Footwear,390,15330,78.4
+964,Kansas,2021,8,Midwest,Women's,Street Footwear,452,22294,78.4
+965,Kansas,2021,9,Midwest,Men's,Apparel,286,7089,76.2
+966,Kansas,2021,9,Midwest,Men's,Athletic Footwear,441,17458,76.2
+967,Kansas,2021,9,Midwest,Men's,Street Footwear,715,35255,76.2
+968,Kansas,2021,9,Midwest,Women's,Apparel,419,12476,76.2
+969,Kansas,2021,9,Midwest,Women's,Athletic Footwear,290,4285,76.2
+970,Kansas,2021,9,Midwest,Women's,Street Footwear,325,4875,76.2
+971,Kansas,2021,10,Midwest,Men's,Apparel,221,6584,66.2
+972,Kansas,2021,10,Midwest,Men's,Athletic Footwear,410,8115,66.2
+973,Kansas,2021,10,Midwest,Men's,Street Footwear,645,19205,66.2
+974,Kansas,2021,10,Midwest,Women's,Apparel,390,11520,66.2
+975,Kansas,2021,10,Midwest,Women's,Athletic Footwear,222,4393,66.2
+976,Kansas,2021,10,Midwest,Women's,Street Footwear,260,5140,66.2
+977,Kansas,2021,11,Midwest,Men's,Apparel,320,23510,52.8
+978,Kansas,2021,11,Midwest,Men's,Athletic Footwear,347,5133,52.8
+979,Kansas,2021,11,Midwest,Men's,Street Footwear,572,14056,52.8
+980,Kansas,2021,11,Midwest,Women's,Apparel,438,32674,52.8
+981,Kansas,2021,11,Midwest,Women's,Athletic Footwear,358,19607,52.8
+982,Kansas,2021,11,Midwest,Women's,Street Footwear,275,6765,52.8
+983,Kansas,2021,12,Midwest,Men's,Apparel,381,26184,43.9
+984,Kansas,2021,12,Midwest,Men's,Athletic Footwear,520,31080,43.9
+985,Kansas,2021,12,Midwest,Men's,Street Footwear,750,51900,43.9
+986,Kansas,2021,12,Midwest,Women's,Apparel,512,37616,43.9
+987,Kansas,2021,12,Midwest,Women's,Athletic Footwear,390,23310,43.9
+988,Kansas,2021,12,Midwest,Women's,Street Footwear,445,26510,43.9
+989,Kentucky,2021,1,Southeast,Men's,Apparel,540,21370,36.5
+990,Kentucky,2021,1,Southeast,Men's,Athletic Footwear,667,19868,36.5
+991,Kentucky,2021,1,Southeast,Men's,Street Footwear,914,27231,36.5
+992,Kentucky,2021,1,Southeast,Women's,Apparel,683,20332,36.5
+993,Kentucky,2021,1,Southeast,Women's,Athletic Footwear,476,11698,36.5
+994,Kentucky,2021,1,Southeast,Women's,Street Footwear,683,13344,36.5
+995,Kentucky,2021,2,Southeast,Men's,Apparel,254,12591,34.0
+996,Kentucky,2021,2,Southeast,Men's,Athletic Footwear,531,15612,34.0
+997,Kentucky,2021,2,Southeast,Men's,Street Footwear,1000,29550,34.0
+998,Kentucky,2021,2,Southeast,Women's,Apparel,378,15042,34.0
+999,Kentucky,2021,2,Southeast,Women's,Athletic Footwear,159,5531,34.0
+1000,Kentucky,2021,2,Southeast,Women's,Street Footwear,599,11732,34.0
+1001,Kentucky,2021,3,Southeast,Men's,Apparel,194,10537,41.4
+1002,Kentucky,2021,3,Southeast,Men's,Athletic Footwear,284,12544,41.4
+1003,Kentucky,2021,3,Southeast,Men's,Street Footwear,676,29796,41.4
+1004,Kentucky,2021,3,Southeast,Women's,Apparel,315,13980,41.4
+1005,Kentucky,2021,3,Southeast,Women's,Athletic Footwear,127,4972,41.4
+1006,Kentucky,2021,3,Southeast,Women's,Street Footwear,323,11232,41.4
+1007,Kentucky,2021,4,Southeast,Men's,Apparel,160,7895,52.5
+1008,Kentucky,2021,4,Southeast,Men's,Athletic Footwear,224,9884,52.5
+1009,Kentucky,2021,4,Southeast,Men's,Street Footwear,594,26254,52.5
+1010,Kentucky,2021,4,Southeast,Women's,Apparel,325,12700,52.5
+1011,Kentucky,2021,4,Southeast,Women's,Athletic Footwear,129,5718,52.5
+1012,Kentucky,2021,4,Southeast,Women's,Street Footwear,224,8862,52.5
+1013,Kentucky,2021,5,Southeast,Men's,Apparel,192,9432,58.4
+1014,Kentucky,2021,5,Southeast,Men's,Athletic Footwear,293,12981,58.4
+1015,Kentucky,2021,5,Southeast,Men's,Street Footwear,676,33644,58.4
+1016,Kentucky,2021,5,Southeast,Women's,Apparel,358,19358,58.4
+1017,Kentucky,2021,5,Southeast,Women's,Athletic Footwear,163,6444,58.4
+1018,Kentucky,2021,5,Southeast,Women's,Street Footwear,258,10204,58.4
+1019,Kentucky,2021,6,Southeast,Men's,Apparel,254,12646,67.9
+1020,Kentucky,2021,6,Southeast,Men's,Athletic Footwear,352,12166,67.9
+1021,Kentucky,2021,6,Southeast,Men's,Street Footwear,667,26112,67.9
+1022,Kentucky,2021,6,Southeast,Women's,Apparel,476,25877,67.9
+1023,Kentucky,2021,6,Southeast,Women's,Athletic Footwear,252,7508,67.9
+1024,Kentucky,2021,6,Southeast,Women's,Street Footwear,281,8318,67.9
+1025,Kentucky,2021,7,Southeast,Men's,Apparel,325,15950,74.6
+1026,Kentucky,2021,7,Southeast,Men's,Athletic Footwear,445,19930,74.6
+1027,Kentucky,2021,7,Southeast,Men's,Street Footwear,768,37896,74.6
+1028,Kentucky,2021,7,Southeast,Women's,Apparel,540,29125,74.6
+1029,Kentucky,2021,7,Southeast,Women's,Athletic Footwear,288,11331,74.6
+1030,Kentucky,2021,7,Southeast,Women's,Street Footwear,344,13622,74.6
+1031,Kentucky,2021,8,Southeast,Men's,Apparel,290,14435,76.2
+1032,Kentucky,2021,8,Southeast,Men's,Athletic Footwear,441,19481,76.2
+1033,Kentucky,2021,8,Southeast,Men's,Street Footwear,742,36432,76.2
+1034,Kentucky,2021,8,Southeast,Women's,Apparel,520,28120,76.2
+1035,Kentucky,2021,8,Southeast,Women's,Athletic Footwear,325,12850,76.2
+1036,Kentucky,2021,8,Southeast,Women's,Street Footwear,355,13880,76.2
+1037,Kentucky,2021,9,Southeast,Men's,Apparel,258,11494,72.8
+1038,Kentucky,2021,9,Southeast,Men's,Athletic Footwear,419,18761,72.8
+1039,Kentucky,2021,9,Southeast,Men's,Street Footwear,662,32826,72.8
+1040,Kentucky,2021,9,Southeast,Women's,Apparel,349,17376,72.8
+1041,Kentucky,2021,9,Southeast,Women's,Athletic Footwear,254,8728,72.8
+1042,Kentucky,2021,9,Southeast,Women's,Street Footwear,290,10020,72.8
+1043,Kentucky,2021,10,Southeast,Men's,Apparel,191,10422,65.6
+1044,Kentucky,2021,10,Southeast,Men's,Athletic Footwear,358,15778,65.6
+1045,Kentucky,2021,10,Southeast,Men's,Street Footwear,576,31427,65.6
+1046,Kentucky,2021,10,Southeast,Women's,Apparel,358,19523,65.6
+1047,Kentucky,2021,10,Southeast,Women's,Athletic Footwear,192,8472,65.6
+1048,Kentucky,2021,10,Southeast,Women's,Street Footwear,222,9896,65.6
+1049,Kentucky,2021,11,Southeast,Men's,Apparel,228,14502,52.9
+1050,Kentucky,2021,11,Southeast,Men's,Athletic Footwear,347,13808,52.9
+1051,Kentucky,2021,11,Southeast,Men's,Street Footwear,548,27154,52.9
+1052,Kentucky,2021,11,Southeast,Women's,Apparel,355,24530,52.9
+1053,Kentucky,2021,11,Southeast,Women's,Athletic Footwear,252,13704,52.9
+1054,Kentucky,2021,11,Southeast,Women's,Street Footwear,277,12237,52.9
+1055,Kentucky,2021,12,Southeast,Men's,Apparel,293,17172,45.5
+1056,Kentucky,2021,12,Southeast,Men's,Athletic Footwear,423,22971,45.5
+1057,Kentucky,2021,12,Southeast,Men's,Street Footwear,683,43447,45.5
+1058,Kentucky,2021,12,Southeast,Women's,Apparel,423,27396,45.5
+1059,Kentucky,2021,12,Southeast,Women's,Athletic Footwear,293,14582,45.5
+1060,Kentucky,2021,12,Southeast,Women's,Street Footwear,349,18899,45.5
+1061,Louisiana,2021,1,South,Men's,Apparel,521,19168,50.8
+1062,Louisiana,2021,1,South,Men's,Athletic Footwear,1080,29918,50.8
+1063,Louisiana,2021,1,South,Men's,Street Footwear,1080,20080,50.8
+1064,Louisiana,2021,1,South,Women's,Apparel,765,24868,50.8
+1065,Louisiana,2021,1,South,Women's,Athletic Footwear,774,25330,50.8
+1066,Louisiana,2021,1,South,Women's,Street Footwear,756,20984,50.8
+1067,Louisiana,2021,2,South,Men's,Apparel,279,12947,49.2
+1068,Louisiana,2021,2,South,Men's,Athletic Footwear,954,31608,49.2
+1069,Louisiana,2021,2,South,Men's,Street Footwear,988,22974,49.2
+1070,Louisiana,2021,2,South,Women's,Apparel,611,25687,49.2
+1071,Louisiana,2021,2,South,Women's,Athletic Footwear,398,16937,49.2
+1072,Louisiana,2021,2,South,Women's,Street Footwear,681,22811,49.2
+1073,Louisiana,2021,3,South,Men's,Apparel,239,13184,55.0
+1074,Louisiana,2021,3,South,Men's,Athletic Footwear,596,30336,55.0
+1075,Louisiana,2021,3,South,Men's,Street Footwear,851,35284,55.0
+1076,Louisiana,2021,3,South,Women's,Apparel,554,22806,55.0
+1077,Louisiana,2021,3,South,Women's,Athletic Footwear,480,24828,55.0
+1078,Louisiana,2021,3,South,Women's,Street Footwear,636,35176,55.0
+1079,Louisiana,2021,4,South,Men's,Apparel,284,12058,63.6
+1080,Louisiana,2021,4,South,Men's,Athletic Footwear,520,26303,63.6
+1081,Louisiana,2021,4,South,Men's,Street Footwear,835,39450,63.6
+1082,Louisiana,2021,4,South,Women's,Apparel,578,31572,63.6
+1083,Louisiana,2021,4,South,Women's,Athletic Footwear,440,16343,63.6
+1084,Louisiana,2021,4,South,Women's,Street Footwear,600,30885,63.6
+1085,Louisiana,2021,5,South,Men's,Apparel,367,13804,68.6
+1086,Louisiana,2021,5,South,Men's,Athletic Footwear,628,29820,68.6
+1087,Louisiana,2021,5,South,Men's,Street Footwear,886,37262,68.6
+1088,Louisiana,2021,5,South,Women's,Apparel,920,55416,68.6
+1089,Louisiana,2021,5,South,Women's,Athletic Footwear,511,21698,68.6
+1090,Louisiana,2021,5,South,Women's,Street Footwear,648,30520,68.6
+1091,Louisiana,2021,6,South,Men's,Apparel,720,64224,76.4
+1092,Louisiana,2021,6,South,Men's,Athletic Footwear,1134,74970,76.4
+1093,Louisiana,2021,6,South,Men's,Street Footwear,1329,75916,76.4
+1094,Louisiana,2021,6,South,Women's,Apparel,1193,121840,76.4
+1095,Louisiana,2021,6,South,Women's,Athletic Footwear,920,72933,76.4
+1096,Louisiana,2021,6,South,Women's,Street Footwear,1113,87899,76.4
+1097,Louisiana,2021,7,South,Men's,Apparel,1060,94137,81.1
+1098,Louisiana,2021,7,South,Men's,Athletic Footwear,1201,106542,81.1
+1099,Louisiana,2021,7,South,Men's,Street Footwear,1476,123192,81.1
+1100,Louisiana,2021,7,South,Women's,Apparel,1021,105137,81.1
+1101,Louisiana,2021,7,South,Women's,Athletic Footwear,966,80724,81.1
+1102,Louisiana,2021,7,South,Women's,Street Footwear,1106,98630,81.1
+1103,Louisiana,2021,8,South,Men's,Apparel,765,46850,82.2
+1104,Louisiana,2021,8,South,Men's,Athletic Footwear,1320,103120,82.2
+1105,Louisiana,2021,8,South,Men's,Street Footwear,1360,121295,82.2
+1106,Louisiana,2021,8,South,Women's,Apparel,492,31362,82.2
+1107,Louisiana,2021,8,South,Women's,Athletic Footwear,746,52962,82.2
+1108,Louisiana,2021,8,South,Women's,Street Footwear,1106,76580,82.2
+1109,Louisiana,2021,9,South,Men's,Apparel,435,22455,79.8
+1110,Louisiana,2021,9,South,Men's,Athletic Footwear,800,37750,79.8
+1111,Louisiana,2021,9,South,Men's,Street Footwear,820,34510,79.8
+1112,Louisiana,2021,9,South,Women's,Apparel,465,17625,79.8
+1113,Louisiana,2021,9,South,Women's,Athletic Footwear,393,16553,79.8
+1114,Louisiana,2021,9,South,Women's,Street Footwear,474,19734,79.8
+1115,Louisiana,2021,10,South,Men's,Apparel,557,26333,74.2
+1116,Louisiana,2021,10,South,Men's,Athletic Footwear,914,41981,74.2
+1117,Louisiana,2021,10,South,Men's,Street Footwear,636,20908,74.2
+1118,Louisiana,2021,10,South,Women's,Apparel,648,33560,74.2
+1119,Louisiana,2021,10,South,Women's,Athletic Footwear,600,22500,74.2
+1120,Louisiana,2021,10,South,Women's,Street Footwear,628,26424,74.2
+1121,Louisiana,2021,11,South,Men's,Apparel,741,49133,64.0
+1122,Louisiana,2021,11,South,Men's,Athletic Footwear,1134,48160,64.0
+1123,Louisiana,2021,11,South,Men's,Street Footwear,1032,38464,64.0
+1124,Louisiana,2021,11,South,Women's,Apparel,954,76614,64.0
+1125,Louisiana,2021,11,South,Women's,Athletic Footwear,780,37200,64.0
+1126,Louisiana,2021,11,South,Women's,Street Footwear,820,30946,64.0
+1127,Louisiana,2021,12,South,Men's,Apparel,824,64607,59.6
+1128,Louisiana,2021,12,South,Men's,Athletic Footwear,1264,92448,59.6
+1129,Louisiana,2021,12,South,Men's,Street Footwear,1312,85072,59.6
+1130,Louisiana,2021,12,South,Women's,Apparel,994,82921,59.6
+1131,Louisiana,2021,12,South,Women's,Athletic Footwear,948,66408,59.6
+1132,Louisiana,2021,12,South,Women's,Street Footwear,954,66354,59.6
+1133,Maine,2021,1,Northeast,Men's,Athletic Footwear,484,21344,24.4
+1134,Maine,2021,1,Northeast,Men's,Street Footwear,473,16359,24.4
+1135,Maine,2021,1,Northeast,Women's,Athletic Footwear,284,12662,24.4
+1136,Maine,2021,1,Northeast,Women's,Street Footwear,476,21218,24.4
+1137,Maine,2021,9,Northeast,Women's,Apparel,284,16863,63.7
+1138,Maine,2021,10,Northeast,Men's,Apparel,643,33612,54.6
+1139,Maine,2021,10,Northeast,Men's,Athletic Footwear,894,39693,54.6
+1140,Maine,2021,10,Northeast,Men's,Street Footwear,2329,102187,54.6
+1141,Maine,2021,10,Northeast,Women's,Apparel,1162,54273,54.6
+1142,Maine,2021,10,Northeast,Women's,Athletic Footwear,283,12237,54.6
+1143,Maine,2021,10,Northeast,Women's,Street Footwear,668,23631,54.6
+1144,Maine,2021,11,Northeast,Men's,Apparel,966,53744,42.8
+1145,Maine,2021,11,Northeast,Men's,Athletic Footwear,1248,62894,42.8
+1146,Maine,2021,11,Northeast,Men's,Street Footwear,2488,140111,42.8
+1147,Maine,2021,11,Northeast,Women's,Apparel,1358,77970,42.8
+1148,Maine,2021,11,Northeast,Women's,Athletic Footwear,921,42179,42.8
+1149,Maine,2021,11,Northeast,Women's,Street Footwear,1212,53392,42.8
+1150,Maine,2021,12,Northeast,Men's,Apparel,606,35449,29.8
+1151,Maine,2021,12,Northeast,Men's,Athletic Footwear,1059,54177,29.8
+1152,Maine,2021,12,Northeast,Men's,Street Footwear,1857,106870,29.8
+1153,Maine,2021,12,Northeast,Women's,Apparel,1279,79643,29.8
+1154,Maine,2021,12,Northeast,Women's,Athletic Footwear,637,30703,29.8
+1155,Maine,2021,12,Northeast,Women's,Street Footwear,799,38507,29.8
+1156,Maryland,2021,1,Northeast,Men's,Apparel,284,14141,36.8
+1157,Maryland,2021,1,Northeast,Men's,Athletic Footwear,406,16078,36.8
+1158,Maryland,2021,1,Northeast,Men's,Street Footwear,662,25932,36.8
+1159,Maryland,2021,1,Northeast,Women's,Apparel,406,15916,36.8
+1160,Maryland,2021,1,Northeast,Women's,Athletic Footwear,222,7629,36.8
+1161,Maryland,2021,1,Northeast,Women's,Street Footwear,416,12389,36.8
+1162,Maryland,2021,2,Northeast,Men's,Apparel,156,6896,34.8
+1163,Maryland,2021,2,Northeast,Men's,Athletic Footwear,286,11257,34.8
+1164,Maryland,2021,2,Northeast,Men's,Street Footwear,719,28616,34.8
+1165,Maryland,2021,2,Northeast,Women's,Apparel,288,10017,34.8
+1166,Maryland,2021,2,Northeast,Women's,Athletic Footwear,64,1892,34.8
+1167,Maryland,2021,2,Northeast,Women's,Street Footwear,344,10113,34.8
+1168,Maryland,2021,3,Northeast,Men's,Apparel,97,4321,40.7
+1169,Maryland,2021,3,Northeast,Men's,Athletic Footwear,189,6576,40.7
+1170,Maryland,2021,3,Northeast,Men's,Street Footwear,570,19575,40.7
+1171,Maryland,2021,3,Northeast,Women's,Apparel,224,7742,40.7
+1172,Maryland,2021,3,Northeast,Women's,Athletic Footwear,32,953,40.7
+1173,Maryland,2021,3,Northeast,Women's,Street Footwear,228,5647,40.7
+1174,Maryland,2021,4,Northeast,Men's,Apparel,65,2865,51.0
+1175,Maryland,2021,4,Northeast,Men's,Athletic Footwear,156,5367,51.0
+1176,Maryland,2021,4,Northeast,Men's,Street Footwear,553,19099,51.0
+1177,Maryland,2021,4,Northeast,Women's,Apparel,252,8664,51.0
+1178,Maryland,2021,4,Northeast,Women's,Athletic Footwear,63,1851,51.0
+1179,Maryland,2021,4,Northeast,Women's,Street Footwear,158,3917,51.0
+1180,Maryland,2021,5,Northeast,Men's,Apparel,161,8013,58.6
+1181,Maryland,2021,5,Northeast,Men's,Athletic Footwear,222,9849,58.6
+1182,Maryland,2021,5,Northeast,Men's,Street Footwear,588,29281,58.6
+1183,Maryland,2021,5,Northeast,Women's,Apparel,313,17025,58.6
+1184,Maryland,2021,5,Northeast,Women's,Athletic Footwear,130,5110,58.6
+1185,Maryland,2021,5,Northeast,Women's,Street Footwear,188,7368,58.6
+1186,Maryland,2021,6,Northeast,Men's,Apparel,192,9557,67.6
+1187,Maryland,2021,6,Northeast,Men's,Athletic Footwear,325,14325,67.6
+1188,Maryland,2021,6,Northeast,Men's,Street Footwear,625,30874,67.6
+1189,Maryland,2021,6,Northeast,Women's,Apparel,384,20951,67.6
+1190,Maryland,2021,6,Northeast,Women's,Athletic Footwear,194,7628,67.6
+1191,Maryland,2021,6,Northeast,Women's,Street Footwear,222,8739,67.6
+1192,Maryland,2021,7,Northeast,Men's,Apparel,226,11095,75.1
+1193,Maryland,2021,7,Northeast,Men's,Athletic Footwear,347,15399,75.1
+1194,Maryland,2021,7,Northeast,Men's,Street Footwear,656,32668,75.1
+1195,Maryland,2021,7,Northeast,Women's,Apparel,452,24757,75.1
+1196,Maryland,2021,7,Northeast,Women's,Athletic Footwear,195,7620,75.1
+1197,Maryland,2021,7,Northeast,Women's,Street Footwear,260,10220,75.1
+1198,Maryland,2021,8,Northeast,Men's,Apparel,163,8035,77.1
+1199,Maryland,2021,8,Northeast,Men's,Athletic Footwear,358,15778,77.1
+1200,Maryland,2021,8,Northeast,Men's,Street Footwear,635,31479,77.1
+1201,Maryland,2021,8,Northeast,Women's,Apparel,381,20792,77.1
+1202,Maryland,2021,8,Northeast,Women's,Athletic Footwear,194,7628,77.1
+1203,Maryland,2021,8,Northeast,Women's,Street Footwear,260,10340,77.1
+1204,Maryland,2021,9,Northeast,Men's,Apparel,130,6439,73.4
+1205,Maryland,2021,9,Northeast,Men's,Athletic Footwear,288,12897,73.4
+1206,Maryland,2021,9,Northeast,Men's,Street Footwear,553,27521,73.4
+1207,Maryland,2021,9,Northeast,Women's,Apparel,250,13699,73.4
+1208,Maryland,2021,9,Northeast,Women's,Athletic Footwear,125,4900,73.4
+1209,Maryland,2021,9,Northeast,Women's,Street Footwear,161,6368,73.4
+1210,Maryland,2021,10,Northeast,Men's,Apparel,95,5620,66.2
+1211,Maryland,2021,10,Northeast,Men's,Athletic Footwear,258,12784,66.2
+1212,Maryland,2021,10,Northeast,Men's,Street Footwear,488,26500,66.2
+1213,Maryland,2021,10,Northeast,Women's,Apparel,252,16119,66.2
+1214,Maryland,2021,10,Northeast,Women's,Athletic Footwear,96,4779,66.2
+1215,Maryland,2021,10,Northeast,Women's,Street Footwear,125,6225,66.2
+1216,Maryland,2021,11,Northeast,Men's,Apparel,156,9236,53.6
+1217,Maryland,2021,11,Northeast,Men's,Athletic Footwear,226,11045,53.6
+1218,Maryland,2021,11,Northeast,Men's,Street Footwear,438,26104,53.6
+1219,Maryland,2021,11,Northeast,Women's,Apparel,288,18530,53.6
+1220,Maryland,2021,11,Northeast,Women's,Athletic Footwear,191,9468,53.6
+1221,Maryland,2021,11,Northeast,Women's,Street Footwear,218,10852,53.6
+1222,Maryland,2021,12,Northeast,Men's,Apparel,226,13254,44.0
+1223,Maryland,2021,12,Northeast,Men's,Athletic Footwear,315,15490,44.0
+1224,Maryland,2021,12,Northeast,Men's,Street Footwear,572,33954,44.0
+1225,Maryland,2021,12,Northeast,Women's,Apparel,347,22266,44.0
+1226,Maryland,2021,12,Northeast,Women's,Athletic Footwear,219,10906,44.0
+1227,Maryland,2021,12,Northeast,Women's,Street Footwear,290,14175,44.0
+1228,Massachusetts,2021,1,Northeast,Men's,Apparel,363,18501,31.0
+1229,Massachusetts,2021,1,Northeast,Men's,Athletic Footwear,526,22425,31.0
+1230,Massachusetts,2021,1,Northeast,Men's,Street Footwear,856,36578,31.0
+1231,Massachusetts,2021,1,Northeast,Women's,Apparel,527,22473,31.0
+1232,Massachusetts,2021,1,Northeast,Women's,Athletic Footwear,272,10253,31.0
+1233,Massachusetts,2021,1,Northeast,Women's,Street Footwear,517,17014,31.0
+1234,Massachusetts,2021,2,Northeast,Men's,Apparel,244,11376,28.2
+1235,Massachusetts,2021,2,Northeast,Men's,Athletic Footwear,358,15185,28.2
+1236,Massachusetts,2021,2,Northeast,Men's,Street Footwear,926,38794,28.2
+1237,Massachusetts,2021,2,Northeast,Women's,Apparel,405,15250,28.2
+1238,Massachusetts,2021,2,Northeast,Women's,Athletic Footwear,393,12951,28.2
+1239,Massachusetts,2021,2,Northeast,Women's,Street Footwear,434,14192,28.2
+1240,Massachusetts,2021,3,Northeast,Men's,Apparel,160,7450,33.0
+1241,Massachusetts,2021,3,Northeast,Men's,Athletic Footwear,283,10677,33.0
+1242,Massachusetts,2021,3,Northeast,Men's,Street Footwear,752,27966,33.0
+1243,Massachusetts,2021,3,Northeast,Women's,Apparel,322,12214,33.0
+1244,Massachusetts,2021,3,Northeast,Women's,Athletic Footwear,480,15783,33.0
+1245,Massachusetts,2021,3,Northeast,Women's,Street Footwear,310,8780,33.0
+1246,Massachusetts,2021,4,Northeast,Men's,Apparel,202,9319,43.0
+1247,Massachusetts,2021,4,Northeast,Men's,Athletic Footwear,246,9093,43.0
+1248,Massachusetts,2021,4,Northeast,Men's,Street Footwear,716,26618,43.0
+1249,Massachusetts,2021,4,Northeast,Women's,Apparel,452,17057,43.0
+1250,Massachusetts,2021,4,Northeast,Women's,Athletic Footwear,199,6392,43.0
+1251,Massachusetts,2021,4,Northeast,Women's,Street Footwear,242,6811,43.0
+1252,Massachusetts,2021,5,Northeast,Men's,Apparel,314,16039,52.7
+1253,Massachusetts,2021,5,Northeast,Men's,Athletic Footwear,322,14850,52.7
+1254,Massachusetts,2021,5,Northeast,Men's,Street Footwear,797,41154,52.7
+1255,Massachusetts,2021,5,Northeast,Women's,Apparel,517,28812,52.7
+1256,Massachusetts,2021,5,Northeast,Women's,Athletic Footwear,276,11671,52.7
+1257,Massachusetts,2021,5,Northeast,Women's,Street Footwear,349,14461,52.7
+1258,Massachusetts,2021,6,Northeast,Men's,Apparel,358,18269,63.4
+1259,Massachusetts,2021,6,Northeast,Men's,Athletic Footwear,533,24772,63.4
+1260,Massachusetts,2021,6,Northeast,Men's,Street Footwear,926,47173,63.4
+1261,Massachusetts,2021,6,Northeast,Women's,Apparel,596,33594,63.4
+1262,Massachusetts,2021,6,Northeast,Women's,Athletic Footwear,362,15238,63.4
+1263,Massachusetts,2021,6,Northeast,Women's,Street Footwear,393,16806,63.4
+1264,Massachusetts,2021,7,Northeast,Men's,Apparel,398,20633,69.5
+1265,Massachusetts,2021,7,Northeast,Men's,Athletic Footwear,560,26425,69.5
+1266,Massachusetts,2021,7,Northeast,Men's,Street Footwear,930,47459,69.5
+1267,Massachusetts,2021,7,Northeast,Women's,Apparel,685,37952,69.5
+1268,Massachusetts,2021,7,Northeast,Women's,Athletic Footwear,358,15207,69.5
+1269,Massachusetts,2021,7,Northeast,Women's,Street Footwear,440,18348,69.5
+1270,Massachusetts,2021,8,Northeast,Men's,Apparel,245,12489,71.1
+1271,Massachusetts,2021,8,Northeast,Men's,Athletic Footwear,550,25332,71.1
+1272,Massachusetts,2021,8,Northeast,Men's,Street Footwear,932,47514,71.1
+1273,Massachusetts,2021,8,Northeast,Women's,Apparel,514,29286,71.1
+1274,Massachusetts,2021,8,Northeast,Women's,Athletic Footwear,284,11815,71.1
+1275,Massachusetts,2021,8,Northeast,Women's,Street Footwear,429,17738,71.1
+1276,Massachusetts,2021,9,Northeast,Men's,Apparel,200,10241,68.7
+1277,Massachusetts,2021,9,Northeast,Men's,Athletic Footwear,401,18667,68.7
+1278,Massachusetts,2021,9,Northeast,Men's,Street Footwear,738,37412,68.7
+1279,Massachusetts,2021,9,Northeast,Women's,Apparel,365,20248,68.7
+1280,Massachusetts,2021,9,Northeast,Women's,Athletic Footwear,200,8463,68.7
+1281,Massachusetts,2021,9,Northeast,Women's,Street Footwear,236,9759,68.7
+1282,Massachusetts,2021,10,Northeast,Men's,Apparel,161,9908,60.6
+1283,Massachusetts,2021,10,Northeast,Men's,Athletic Footwear,349,17859,60.6
+1284,Massachusetts,2021,10,Northeast,Men's,Street Footwear,652,36120,60.6
+1285,Massachusetts,2021,10,Northeast,Women's,Apparel,358,23508,60.6
+1286,Massachusetts,2021,10,Northeast,Women's,Athletic Footwear,159,8174,60.6
+1287,Massachusetts,2021,10,Northeast,Women's,Street Footwear,197,10235,60.6
+1288,Massachusetts,2021,11,Northeast,Men's,Apparel,398,24560,48.6
+1289,Massachusetts,2021,11,Northeast,Men's,Athletic Footwear,492,25260,48.6
+1290,Massachusetts,2021,11,Northeast,Men's,Street Footwear,608,37261,48.6
+1291,Massachusetts,2021,11,Northeast,Women's,Apparel,571,36676,48.6
+1292,Massachusetts,2021,11,Northeast,Women's,Athletic Footwear,438,22691,48.6
+1293,Massachusetts,2021,11,Northeast,Women's,Street Footwear,469,24379,48.6
+1294,Massachusetts,2021,12,Northeast,Men's,Apparel,474,29388,38.4
+1295,Massachusetts,2021,12,Northeast,Men's,Athletic Footwear,593,30371,38.4
+1296,Massachusetts,2021,12,Northeast,Men's,Street Footwear,903,56053,38.4
+1297,Massachusetts,2021,12,Northeast,Women's,Apparel,640,41808,38.4
+1298,Massachusetts,2021,12,Northeast,Women's,Athletic Footwear,480,24915,38.4
+1299,Massachusetts,2021,12,Northeast,Women's,Street Footwear,560,28280,38.4
+1300,Michigan,2021,1,Midwest,Men's,Apparel,423,16822,26.8
+1301,Michigan,2021,1,Midwest,Men's,Athletic Footwear,548,16317,26.8
+1302,Michigan,2021,1,Midwest,Men's,Street Footwear,781,22962,26.8
+1303,Michigan,2021,1,Midwest,Women's,Apparel,548,16317,26.8
+1304,Michigan,2021,1,Midwest,Women's,Athletic Footwear,352,8723,26.8
+1305,Michigan,2021,1,Midwest,Women's,Street Footwear,548,10837,26.8
+1306,Michigan,2021,2,Midwest,Men's,Apparel,576,25416,21.2
+1307,Michigan,2021,2,Midwest,Men's,Athletic Footwear,419,12382,21.2
+1308,Michigan,2021,2,Midwest,Men's,Street Footwear,857,25528,21.2
+1309,Michigan,2021,2,Midwest,Women's,Apparel,688,23804,21.2
+1310,Michigan,2021,2,Midwest,Women's,Athletic Footwear,484,14301,21.2
+1311,Michigan,2021,2,Midwest,Women's,Street Footwear,488,9647,21.2
+1312,Michigan,2021,3,Midwest,Men's,Apparel,469,20917,27.1
+1313,Michigan,2021,3,Midwest,Men's,Athletic Footwear,576,19782,27.1
+1314,Michigan,2021,3,Midwest,Men's,Street Footwear,986,34294,27.1
+1315,Michigan,2021,3,Midwest,Women's,Apparel,618,21344,27.1
+1316,Michigan,2021,3,Midwest,Women's,Athletic Footwear,416,12388,27.1
+1317,Michigan,2021,3,Midwest,Women's,Street Footwear,599,14975,27.1
+1318,Michigan,2021,4,Midwest,Men's,Apparel,520,25400,41.0
+1319,Michigan,2021,4,Midwest,Men's,Athletic Footwear,536,21218,41.0
+1320,Michigan,2021,4,Midwest,Men's,Street Footwear,906,31167,41.0
+1321,Michigan,2021,4,Midwest,Women's,Apparel,677,26624,41.0
+1322,Michigan,2021,4,Midwest,Women's,Athletic Footwear,484,16613,41.0
+1323,Michigan,2021,4,Midwest,Women's,Street Footwear,585,17145,41.0
+1324,Michigan,2021,5,Midwest,Men's,Apparel,599,32572,49.6
+1325,Michigan,2021,5,Midwest,Men's,Athletic Footwear,650,32050,49.6
+1326,Michigan,2021,5,Midwest,Men's,Street Footwear,1002,49686,49.6
+1327,Michigan,2021,5,Midwest,Women's,Apparel,725,42750,49.6
+1328,Michigan,2021,5,Midwest,Women's,Athletic Footwear,576,25542,49.6
+1329,Michigan,2021,5,Midwest,Women's,Street Footwear,608,27227,49.6
+1330,Michigan,2021,6,Midwest,Men's,Apparel,677,40164,60.8
+1331,Michigan,2021,6,Midwest,Men's,Athletic Footwear,742,36432,60.8
+1332,Michigan,2021,6,Midwest,Men's,Street Footwear,1031,56086,60.8
+1333,Michigan,2021,6,Midwest,Women's,Apparel,844,54015,60.8
+1334,Michigan,2021,6,Midwest,Women's,Athletic Footwear,683,30419,60.8
+1335,Michigan,2021,6,Midwest,Women's,Street Footwear,688,30408,60.8
+1336,Michigan,2021,7,Midwest,Men's,Apparel,693,40722,68.2
+1337,Michigan,2021,7,Midwest,Men's,Athletic Footwear,839,45767,68.2
+1338,Michigan,2021,7,Midwest,Men's,Street Footwear,1125,66825,68.2
+1339,Michigan,2021,7,Midwest,Women's,Apparel,935,60145,68.2
+1340,Michigan,2021,7,Midwest,Women's,Athletic Footwear,683,33676,68.2
+1341,Michigan,2021,7,Midwest,Women's,Street Footwear,748,36708,68.2
+1342,Michigan,2021,8,Midwest,Men's,Apparel,635,28170,69.8
+1343,Michigan,2021,8,Midwest,Men's,Athletic Footwear,845,45500,69.8
+1344,Michigan,2021,8,Midwest,Men's,Street Footwear,1138,66965,69.8
+1345,Michigan,2021,8,Midwest,Women's,Apparel,851,41670,69.8
+1346,Michigan,2021,8,Midwest,Women's,Athletic Footwear,667,23203,69.8
+1347,Michigan,2021,8,Midwest,Women's,Street Footwear,719,31923,69.8
+1348,Michigan,2021,9,Midwest,Men's,Apparel,603,26623,66.2
+1349,Michigan,2021,9,Midwest,Men's,Athletic Footwear,774,30438,66.2
+1350,Michigan,2021,9,Midwest,Men's,Street Footwear,1032,45744,66.2
+1351,Michigan,2021,9,Midwest,Women's,Apparel,748,37054,66.2
+1352,Michigan,2021,9,Midwest,Women's,Athletic Footwear,594,20671,66.2
+1353,Michigan,2021,9,Midwest,Women's,Street Footwear,645,22430,66.2
+1354,Michigan,2021,10,Midwest,Men's,Apparel,512,25376,58.3
+1355,Michigan,2021,10,Midwest,Men's,Athletic Footwear,742,29179,58.3
+1356,Michigan,2021,10,Midwest,Men's,Street Footwear,975,48525,58.3
+1357,Michigan,2021,10,Midwest,Women's,Apparel,662,35999,58.3
+1358,Michigan,2021,10,Midwest,Women's,Athletic Footwear,516,20408,58.3
+1359,Michigan,2021,10,Midwest,Women's,Street Footwear,548,21551,58.3
+1360,Michigan,2021,11,Midwest,Men's,Apparel,576,34434,45.8
+1361,Michigan,2021,11,Midwest,Men's,Athletic Footwear,645,28590,45.8
+1362,Michigan,2021,11,Midwest,Men's,Street Footwear,871,43354,45.8
+1363,Michigan,2021,11,Midwest,Women's,Apparel,794,50595,45.8
+1364,Michigan,2021,11,Midwest,Women's,Athletic Footwear,613,27033,45.8
+1365,Michigan,2021,11,Midwest,Women's,Street Footwear,565,25185,45.8
+1366,Michigan,2021,12,Midwest,Men's,Apparel,693,40865,33.2
+1367,Michigan,2021,12,Midwest,Men's,Athletic Footwear,826,40596,33.2
+1368,Michigan,2021,12,Midwest,Men's,Street Footwear,1105,65025,33.2
+1369,Michigan,2021,12,Midwest,Women's,Apparel,813,51866,33.2
+1370,Michigan,2021,12,Midwest,Women's,Athletic Footwear,688,34124,33.2
+1371,Michigan,2021,12,Midwest,Women's,Street Footwear,768,38064,33.2
+1390,Mississippi,2021,1,South,Men's,Apparel,568,18678,46.9
+1391,Mississippi,2021,1,South,Men's,Athletic Footwear,716,16955,46.9
+1392,Mississippi,2021,1,South,Men's,Street Footwear,1041,24129,46.9
+1393,Mississippi,2021,1,South,Women's,Apparel,730,16900,46.9
+1394,Mississippi,2021,1,South,Women's,Athletic Footwear,480,8808,46.9
+1395,Mississippi,2021,1,South,Women's,Street Footwear,707,9928,46.9
+1396,Mississippi,2021,2,South,Men's,Apparel,644,23748,45.6
+1397,Mississippi,2021,2,South,Men's,Athletic Footwear,567,13174,45.6
+1398,Mississippi,2021,2,South,Men's,Street Footwear,1099,25606,45.6
+1399,Mississippi,2021,2,South,Women's,Apparel,785,18700,45.6
+1400,Mississippi,2021,2,South,Women's,Athletic Footwear,514,12262,45.6
+1401,Mississippi,2021,2,South,Women's,Street Footwear,656,9176,45.6
+1402,Mississippi,2021,3,South,Men's,Apparel,510,16567,52.2
+1403,Mississippi,2021,3,South,Men's,Athletic Footwear,628,14960,52.2
+1404,Mississippi,2021,3,South,Men's,Street Footwear,1130,26761,52.2
+1405,Mississippi,2021,3,South,Women's,Apparel,684,15889,52.2
+1406,Mississippi,2021,3,South,Women's,Athletic Footwear,440,8294,52.2
+1407,Mississippi,2021,3,South,Women's,Street Footwear,689,9663,52.2
+1408,Mississippi,2021,4,South,Men's,Apparel,504,19018,61.0
+1409,Mississippi,2021,4,South,Men's,Athletic Footwear,600,14202,61.0
+1410,Mississippi,2021,4,South,Men's,Street Footwear,1067,24999,61.0
+1411,Mississippi,2021,4,South,Women's,Apparel,746,20956,61.0
+1412,Mississippi,2021,4,South,Women's,Athletic Footwear,471,8960,61.0
+1413,Mississippi,2021,4,South,Women's,Street Footwear,600,8403,61.0
+1414,Mississippi,2021,5,South,Men's,Apparel,648,27243,66.0
+1415,Mississippi,2021,5,South,Men's,Athletic Footwear,721,26767,66.0
+1416,Mississippi,2021,5,South,Men's,Street Footwear,1177,43792,66.0
+1417,Mississippi,2021,5,South,Women's,Apparel,790,36829,66.0
+1418,Mississippi,2021,5,South,Women's,Athletic Footwear,592,19242,66.0
+1419,Mississippi,2021,5,South,Women's,Street Footwear,680,22338,66.0
+1420,Mississippi,2021,6,South,Men's,Apparel,720,41040,74.1
+1421,Mississippi,2021,6,South,Men's,Athletic Footwear,775,28975,74.1
+1422,Mississippi,2021,6,South,Men's,Street Footwear,1223,51142,74.1
+1423,Mississippi,2021,6,South,Women's,Apparel,1032,63074,74.1
+1424,Mississippi,2021,6,South,Women's,Athletic Footwear,716,30347,74.1
+1425,Mississippi,2021,6,South,Women's,Street Footwear,775,32419,74.1
+1426,Mississippi,2021,7,South,Men's,Apparel,800,45750,79.4
+1427,Mississippi,2021,7,South,Men's,Athletic Footwear,948,49332,79.4
+1428,Mississippi,2021,7,South,Men's,Street Footwear,1360,77401,79.4
+1429,Mississippi,2021,7,South,Women's,Apparel,1060,64852,79.4
+1430,Mississippi,2021,7,South,Women's,Athletic Footwear,742,34421,79.4
+1431,Mississippi,2021,7,South,Women's,Street Footwear,835,39282,79.4
+1432,Mississippi,2021,8,South,Men's,Apparel,730,33642,80.8
+1433,Mississippi,2021,8,South,Men's,Athletic Footwear,966,50112,80.8
+1434,Mississippi,2021,8,South,Men's,Street Footwear,1296,72036,80.8
+1435,Mississippi,2021,8,South,Women's,Apparel,1000,51984,80.8
+1436,Mississippi,2021,8,South,Women's,Athletic Footwear,750,28696,80.8
+1437,Mississippi,2021,8,South,Women's,Street Footwear,851,39929,80.8
+1438,Mississippi,2021,9,South,Men's,Apparel,640,18036,77.9
+1439,Mississippi,2021,9,South,Men's,Athletic Footwear,830,35013,77.9
+1440,Mississippi,2021,9,South,Men's,Street Footwear,1160,55071,77.9
+1441,Mississippi,2021,9,South,Women's,Apparel,790,25820,77.9
+1442,Mississippi,2021,9,South,Women's,Athletic Footwear,620,11820,77.9
+1443,Mississippi,2021,9,South,Women's,Street Footwear,693,13012,77.9
+1444,Mississippi,2021,10,South,Men's,Apparel,553,18011,71.7
+1445,Mississippi,2021,10,South,Men's,Athletic Footwear,810,18930,71.7
+1446,Mississippi,2021,10,South,Men's,Street Footwear,1067,34441,71.7
+1447,Mississippi,2021,10,South,Women's,Apparel,761,25091,71.7
+1448,Mississippi,2021,10,South,Women's,Athletic Footwear,564,13345,71.7
+1449,Mississippi,2021,10,South,Women's,Street Footwear,593,14007,71.7
+1450,Mississippi,2021,11,South,Men's,Apparel,680,48396,60.8
+1451,Mississippi,2021,11,South,Men's,Athletic Footwear,720,13401,60.8
+1452,Mississippi,2021,11,South,Men's,Street Footwear,994,27846,60.8
+1453,Mississippi,2021,11,South,Women's,Apparel,851,58687,60.8
+1454,Mississippi,2021,11,South,Women's,Athletic Footwear,720,39897,60.8
+1455,Mississippi,2021,11,South,Women's,Street Footwear,625,17576,60.8
+1456,Mississippi,2021,12,South,Men's,Apparel,756,49788,55.9
+1457,Mississippi,2021,12,South,Men's,Athletic Footwear,931,52334,55.9
+1458,Mississippi,2021,12,South,Men's,Street Footwear,1225,79730,55.9
+1459,Mississippi,2021,12,South,Women's,Apparel,897,62783,55.9
+1460,Mississippi,2021,12,South,Women's,Athletic Footwear,751,41811,55.9
+1461,Mississippi,2021,12,South,Women's,Street Footwear,820,46377,55.9
+1462,Missouri,2021,1,Midwest,Men's,Apparel,473,16359,35.0
+1463,Missouri,2021,1,Midwest,Men's,Athletic Footwear,608,14934,35.0
+1464,Missouri,2021,1,Midwest,Men's,Street Footwear,871,21383,35.0
+1465,Missouri,2021,1,Midwest,Women's,Apparel,613,15187,35.0
+1466,Missouri,2021,1,Midwest,Women's,Athletic Footwear,413,8084,35.0
+1467,Missouri,2021,1,Midwest,Women's,Street Footwear,618,9127,35.0
+1468,Missouri,2021,2,Midwest,Men's,Apparel,413,16344,29.0
+1469,Missouri,2021,2,Midwest,Men's,Athletic Footwear,476,11799,29.0
+1470,Missouri,2021,2,Midwest,Men's,Street Footwear,943,23575,29.0
+1471,Missouri,2021,2,Midwest,Women's,Apparel,520,15360,29.0
+1472,Missouri,2021,2,Midwest,Women's,Athletic Footwear,320,7930,29.0
+1473,Missouri,2021,2,Midwest,Women's,Street Footwear,540,7985,29.0
+1474,Missouri,2021,3,Midwest,Men's,Apparel,325,14325,37.2
+1475,Missouri,2021,3,Midwest,Men's,Athletic Footwear,387,13458,37.2
+1476,Missouri,2021,3,Midwest,Men's,Street Footwear,806,28024,37.2
+1477,Missouri,2021,3,Midwest,Women's,Apparel,452,15718,37.2
+1478,Missouri,2021,3,Midwest,Women's,Athletic Footwear,254,7512,37.2
+1479,Missouri,2021,3,Midwest,Women's,Street Footwear,445,10935,37.2
+1480,Missouri,2021,4,Midwest,Men's,Apparel,290,11340,52.1
+1481,Missouri,2021,4,Midwest,Men's,Athletic Footwear,347,10194,52.1
+1482,Missouri,2021,4,Midwest,Men's,Street Footwear,719,24877,52.1
+1483,Missouri,2021,4,Midwest,Women's,Apparel,455,13440,52.1
+1484,Missouri,2021,4,Midwest,Women's,Athletic Footwear,252,6196,52.1
+1485,Missouri,2021,4,Midwest,Women's,Street Footwear,358,6994,52.1
+1486,Missouri,2021,5,Midwest,Men's,Apparel,320,14329,58.3
+1487,Missouri,2021,5,Midwest,Men's,Athletic Footwear,413,14367,58.3
+1488,Missouri,2021,5,Midwest,Men's,Street Footwear,800,31820,58.3
+1489,Missouri,2021,5,Midwest,Women's,Apparel,455,22224,58.3
+1490,Missouri,2021,5,Midwest,Women's,Athletic Footwear,290,8635,58.3
+1491,Missouri,2021,5,Midwest,Women's,Street Footwear,387,11523,58.3
+1492,Missouri,2021,6,Midwest,Men's,Apparel,452,17876,68.6
+1493,Missouri,2021,6,Midwest,Men's,Athletic Footwear,441,12957,68.6
+1494,Missouri,2021,6,Midwest,Men's,Street Footwear,768,26376,68.6
+1495,Missouri,2021,6,Midwest,Women's,Apparel,667,29589,68.6
+1496,Missouri,2021,6,Midwest,Women's,Athletic Footwear,441,10843,68.6
+1497,Missouri,2021,6,Midwest,Women's,Street Footwear,488,11974,68.6
+1498,Missouri,2021,7,Midwest,Men's,Apparel,469,18478,75.7
+1499,Missouri,2021,7,Midwest,Men's,Athletic Footwear,630,21790,75.7
+1500,Missouri,2021,7,Midwest,Men's,Street Footwear,953,37308,75.7
+1501,Missouri,2021,7,Midwest,Women's,Apparel,710,31310,75.7
+1502,Missouri,2021,7,Midwest,Women's,Athletic Footwear,476,14179,75.7
+1503,Missouri,2021,7,Midwest,Women's,Street Footwear,553,16462,75.7
+1504,Missouri,2021,8,Midwest,Men's,Apparel,381,13254,77.0
+1505,Missouri,2021,8,Midwest,Men's,Athletic Footwear,618,24434,77.0
+1506,Missouri,2021,8,Midwest,Men's,Street Footwear,903,35714,77.0
+1507,Missouri,2021,8,Midwest,Women's,Apparel,603,23608,77.0
+1508,Missouri,2021,8,Midwest,Women's,Athletic Footwear,416,10309,77.0
+1509,Missouri,2021,8,Midwest,Women's,Street Footwear,520,17840,77.0
+1510,Missouri,2021,9,Midwest,Men's,Apparel,352,8646,74.4
+1511,Missouri,2021,9,Midwest,Men's,Athletic Footwear,500,14800,74.4
+1512,Missouri,2021,9,Midwest,Men's,Street Footwear,774,26568,74.4
+1513,Missouri,2021,9,Midwest,Women's,Apparel,445,13160,74.4
+1514,Missouri,2021,9,Midwest,Women's,Athletic Footwear,358,5287,74.4
+1515,Missouri,2021,9,Midwest,Women's,Street Footwear,375,5550,74.4
+1516,Missouri,2021,10,Midwest,Men's,Apparel,293,10051,66.0
+1517,Missouri,2021,10,Midwest,Men's,Athletic Footwear,441,10934,66.0
+1518,Missouri,2021,10,Midwest,Men's,Street Footwear,656,22829,66.0
+1519,Missouri,2021,10,Midwest,Women's,Apparel,438,17343,66.0
+1520,Missouri,2021,10,Midwest,Women's,Athletic Footwear,284,6982,66.0
+1521,Missouri,2021,10,Midwest,Women's,Street Footwear,323,7929,66.0
+1522,Missouri,2021,11,Midwest,Men's,Apparel,381,16982,53.1
+1523,Missouri,2021,11,Midwest,Men's,Athletic Footwear,438,10774,53.1
+1524,Missouri,2021,11,Midwest,Men's,Street Footwear,650,22600,53.1
+1525,Missouri,2021,11,Midwest,Women's,Apparel,508,25183,53.1
+1526,Missouri,2021,11,Midwest,Women's,Athletic Footwear,413,10149,53.1
+1527,Missouri,2021,11,Midwest,Women's,Street Footwear,375,9215,53.1
+1528,Missouri,2021,12,Midwest,Men's,Apparel,438,19445,45.2
+1529,Missouri,2021,12,Midwest,Men's,Athletic Footwear,563,19366,45.2
+1530,Missouri,2021,12,Midwest,Men's,Street Footwear,813,35932,45.2
+1531,Missouri,2021,12,Midwest,Women's,Apparel,576,28421,45.2
+1532,Missouri,2021,12,Midwest,Women's,Athletic Footwear,438,15242,45.2
+1533,Missouri,2021,12,Midwest,Women's,Street Footwear,520,17840,45.2
+1534,Montana,2021,1,Midwest,Men's,Apparel,1813,84996,27.6
+1535,Montana,2021,1,Midwest,Men's,Athletic Footwear,2767,122619,27.6
+1536,Montana,2021,1,Midwest,Men's,Street Footwear,3736,144301,27.6
+1537,Montana,2021,1,Midwest,Women's,Apparel,2653,132682,27.6
+1538,Montana,2021,1,Midwest,Women's,Athletic Footwear,2119,87873,27.6
+1539,Montana,2021,1,Midwest,Women's,Street Footwear,2896,129296,27.6
+1540,Montana,2021,2,Midwest,Men's,Apparel,2078,107009,20.2
+1541,Montana,2021,2,Midwest,Men's,Athletic Footwear,3783,183892,20.2
+1542,Montana,2021,2,Midwest,Men's,Street Footwear,4063,171928,20.2
+1543,Montana,2021,2,Midwest,Women's,Apparel,2960,175778,20.2
+1544,Montana,2021,2,Midwest,Women's,Athletic Footwear,2090,89790,20.2
+1545,Montana,2021,2,Midwest,Women's,Street Footwear,2954,131883,20.2
+1546,Montana,2021,3,Midwest,Men's,Apparel,1008,54746,24.9
+1547,Montana,2021,3,Midwest,Men's,Athletic Footwear,1739,68218,24.9
+1548,Montana,2021,3,Midwest,Men's,Street Footwear,1781,56191,24.9
+1549,Montana,2021,3,Midwest,Women's,Apparel,1238,73098,24.9
+1550,Montana,2021,3,Midwest,Women's,Athletic Footwear,1797,70985,24.9
+1551,Montana,2021,3,Midwest,Women's,Street Footwear,1238,45471,24.9
+1552,Nebraska,2021,5,Midwest,Men's,Apparel,316,14024,52.4
+1553,Nebraska,2021,5,Midwest,Men's,Athletic Footwear,163,5629,52.4
+1554,Nebraska,2021,5,Midwest,Men's,Street Footwear,594,20433,52.4
+1555,Nebraska,2021,5,Midwest,Women's,Apparel,293,10051,52.4
+1556,Nebraska,2021,5,Midwest,Women's,Athletic Footwear,64,1906,52.4
+1557,Nebraska,2021,5,Midwest,Women's,Street Footwear,222,5456,52.4
+1558,Nebraska,2021,6,Midwest,Men's,Apparel,568,25752,65.4
+1559,Nebraska,2021,6,Midwest,Men's,Athletic Footwear,958,36316,65.4
+1560,Nebraska,2021,6,Midwest,Men's,Street Footwear,2795,116683,65.4
+1561,Nebraska,2021,6,Midwest,Women's,Apparel,1238,53657,65.4
+1562,Nebraska,2021,6,Midwest,Women's,Athletic Footwear,442,14309,65.4
+1563,Nebraska,2021,6,Midwest,Women's,Street Footwear,924,28958,65.4
+1564,Nebraska,2021,7,Midwest,Men's,Apparel,571,24666,73.9
+1565,Nebraska,2021,7,Midwest,Men's,Athletic Footwear,1306,48229,73.9
+1566,Nebraska,2021,7,Midwest,Men's,Street Footwear,2527,108425,73.9
+1567,Nebraska,2021,7,Midwest,Women's,Apparel,1735,83699,73.9
+1568,Nebraska,2021,7,Midwest,Women's,Athletic Footwear,642,19908,73.9
+1569,Nebraska,2021,7,Midwest,Women's,Street Footwear,821,28143,73.9
+1570,Nebraska,2021,8,Midwest,Men's,Athletic Footwear,871,25934,74.6
+1571,Nebraska,2021,8,Midwest,Men's,Street Footwear,878,17357,74.6
+1572,Nebraska,2021,8,Midwest,Women's,Athletic Footwear,613,21179,74.6
+1573,Nebraska,2021,8,Midwest,Women's,Street Footwear,613,18114,74.6
+1592,New Hampshire,2021,1,Northeast,Men's,Apparel,318,19440,25.5
+1593,New Hampshire,2021,1,Northeast,Men's,Athletic Footwear,477,24048,25.5
+1594,New Hampshire,2021,1,Northeast,Men's,Street Footwear,810,40980,25.5
+1595,New Hampshire,2021,1,Northeast,Women's,Apparel,483,25017,25.5
+1596,New Hampshire,2021,1,Northeast,Women's,Athletic Footwear,240,11093,25.5
+1597,New Hampshire,2021,1,Northeast,Women's,Street Footwear,489,20925,25.5
+1598,New Hampshire,2021,2,Northeast,Men's,Apparel,454,25084,21.8
+1599,New Hampshire,2021,2,Northeast,Men's,Athletic Footwear,354,18442,21.8
+1600,New Hampshire,2021,2,Northeast,Men's,Street Footwear,932,48165,21.8
+1601,New Hampshire,2021,2,Northeast,Women's,Apparel,597,27722,21.8
+1602,New Hampshire,2021,2,Northeast,Women's,Athletic Footwear,326,13543,21.8
+1603,New Hampshire,2021,2,Northeast,Women's,Street Footwear,441,18351,21.8
+1604,New Hampshire,2021,3,Northeast,Men's,Apparel,320,18300,26.4
+1605,New Hampshire,2021,3,Northeast,Men's,Athletic Footwear,432,20299,26.4
+1606,New Hampshire,2021,3,Northeast,Men's,Street Footwear,923,43917,26.4
+1607,New Hampshire,2021,3,Northeast,Women's,Apparel,474,21939,26.4
+1608,New Hampshire,2021,3,Northeast,Women's,Athletic Footwear,233,9906,26.4
+1609,New Hampshire,2021,3,Northeast,Women's,Street Footwear,480,18210,26.4
+1610,New Hampshire,2021,4,Northeast,Men's,Apparel,289,15961,38.2
+1611,New Hampshire,2021,4,Northeast,Men's,Athletic Footwear,403,19062,38.2
+1612,New Hampshire,2021,4,Northeast,Men's,Street Footwear,891,41063,38.2
+1613,New Hampshire,2021,4,Northeast,Women's,Apparel,524,24091,38.2
+1614,New Hampshire,2021,4,Northeast,Women's,Athletic Footwear,277,11885,38.2
+1615,New Hampshire,2021,4,Northeast,Women's,Street Footwear,403,14854,38.2
+1616,New Hampshire,2021,5,Northeast,Men's,Apparel,468,29094,49.2
+1617,New Hampshire,2021,5,Northeast,Men's,Athletic Footwear,480,26418,49.2
+1618,New Hampshire,2021,5,Northeast,Men's,Street Footwear,964,58959,49.2
+1619,New Hampshire,2021,5,Northeast,Women's,Apparel,680,43665,49.2
+1620,New Hampshire,2021,5,Northeast,Women's,Athletic Footwear,446,23016,49.2
+1621,New Hampshire,2021,5,Northeast,Women's,Street Footwear,524,27115,49.2
+1622,New Hampshire,2021,6,Northeast,Men's,Apparel,533,32123,60.3
+1623,New Hampshire,2021,6,Northeast,Men's,Athletic Footwear,688,37988,60.3
+1624,New Hampshire,2021,6,Northeast,Men's,Street Footwear,1060,63350,60.3
+1625,New Hampshire,2021,6,Northeast,Women's,Apparel,775,50458,60.3
+1626,New Hampshire,2021,6,Northeast,Women's,Athletic Footwear,520,26455,60.3
+1627,New Hampshire,2021,6,Northeast,Women's,Street Footwear,547,28601,60.3
+1628,New Hampshire,2021,7,Northeast,Men's,Apparel,571,34463,65.8
+1629,New Hampshire,2021,7,Northeast,Men's,Athletic Footwear,730,41208,65.8
+1630,New Hampshire,2021,7,Northeast,Men's,Street Footwear,1120,69020,65.8
+1631,New Hampshire,2021,7,Northeast,Women's,Apparel,825,53179,65.8
+1632,New Hampshire,2021,7,Northeast,Women's,Athletic Footwear,517,26553,65.8
+1633,New Hampshire,2021,7,Northeast,Women's,Street Footwear,612,31247,65.8
+1634,New Hampshire,2021,8,Northeast,Men's,Apparel,403,24157,67.4
+1635,New Hampshire,2021,8,Northeast,Men's,Athletic Footwear,720,40095,67.4
+1636,New Hampshire,2021,8,Northeast,Men's,Street Footwear,1074,65379,67.4
+1637,New Hampshire,2021,8,Northeast,Women's,Apparel,676,43204,67.4
+1638,New Hampshire,2021,8,Northeast,Women's,Athletic Footwear,435,22493,67.4
+1639,New Hampshire,2021,8,Northeast,Women's,Street Footwear,593,30492,67.4
+1640,New Hampshire,2021,9,Northeast,Men's,Apparel,358,22017,64.8
+1641,New Hampshire,2021,9,Northeast,Men's,Athletic Footwear,561,31118,64.8
+1642,New Hampshire,2021,9,Northeast,Men's,Street Footwear,897,54679,64.8
+1643,New Hampshire,2021,9,Northeast,Women's,Apparel,527,34926,64.8
+1644,New Hampshire,2021,9,Northeast,Women's,Athletic Footwear,355,18377,64.8
+1645,New Hampshire,2021,9,Northeast,Women's,Street Footwear,403,21004,64.8
+1646,New Hampshire,2021,10,Northeast,Men's,Apparel,279,19291,56.2
+1647,New Hampshire,2021,10,Northeast,Men's,Athletic Footwear,483,29064,56.2
+1648,New Hampshire,2021,10,Northeast,Men's,Street Footwear,756,49290,56.2
+1649,New Hampshire,2021,10,Northeast,Women's,Apparel,471,35592,56.2
+1650,New Hampshire,2021,10,Northeast,Women's,Athletic Footwear,283,16973,56.2
+1651,New Hampshire,2021,10,Northeast,Women's,Street Footwear,314,19306,56.2
+1652,New Hampshire,2021,11,Northeast,Men's,Apparel,477,33915,44.0
+1653,New Hampshire,2021,11,Northeast,Men's,Athletic Footwear,537,31989,44.0
+1654,New Hampshire,2021,11,Northeast,Men's,Street Footwear,716,50497,44.0
+1655,New Hampshire,2021,11,Northeast,Women's,Apparel,636,48368,44.0
+1656,New Hampshire,2021,11,Northeast,Women's,Athletic Footwear,524,31467,44.0
+1657,New Hampshire,2021,11,Northeast,Women's,Street Footwear,563,34791,44.0
+1658,New Hampshire,2021,12,Northeast,Men's,Apparel,578,40170,32.4
+1659,New Hampshire,2021,12,Northeast,Men's,Athletic Footwear,668,40682,32.4
+1660,New Hampshire,2021,12,Northeast,Men's,Street Footwear,994,68674,32.4
+1661,New Hampshire,2021,12,Northeast,Women's,Apparel,711,53442,32.4
+1662,New Hampshire,2021,12,Northeast,Women's,Athletic Footwear,554,33890,32.4
+1663,New Hampshire,2021,12,Northeast,Women's,Street Footwear,636,38712,32.4
+1664,New Jersey,2021,1,Northeast,Men's,Apparel,260,12940,35.4
+1665,New Jersey,2021,1,Northeast,Men's,Athletic Footwear,387,15219,35.4
+1666,New Jersey,2021,1,Northeast,Men's,Street Footwear,625,24750,35.4
+1667,New Jersey,2021,1,Northeast,Women's,Apparel,381,14997,35.4
+1668,New Jersey,2021,1,Northeast,Women's,Athletic Footwear,192,6636,35.4
+1669,New Jersey,2021,1,Northeast,Women's,Street Footwear,390,11520,35.4
+1670,New Jersey,2021,2,Northeast,Men's,Apparel,222,9802,32.9
+1671,New Jersey,2021,2,Northeast,Men's,Athletic Footwear,254,9998,32.9
+1672,New Jersey,2021,2,Northeast,Men's,Street Footwear,699,27811,32.9
+1673,New Jersey,2021,2,Northeast,Women's,Apparel,349,11993,32.9
+1674,New Jersey,2021,2,Northeast,Women's,Athletic Footwear,130,3870,32.9
+1675,New Jersey,2021,2,Northeast,Women's,Street Footwear,315,9385,32.9
+1676,New Jersey,2021,3,Northeast,Men's,Apparel,159,7087,38.1
+1677,New Jersey,2021,3,Northeast,Men's,Athletic Footwear,258,8856,38.1
+1678,New Jersey,2021,3,Northeast,Men's,Street Footwear,639,21933,38.1
+1679,New Jersey,2021,3,Northeast,Women's,Apparel,286,9827,38.1
+1680,New Jersey,2021,3,Northeast,Women's,Athletic Footwear,97,2844,38.1
+1681,New Jersey,2021,3,Northeast,Women's,Street Footwear,284,7041,38.1
+1682,New Jersey,2021,4,Northeast,Men's,Apparel,127,5688,48.4
+1683,New Jersey,2021,4,Northeast,Men's,Athletic Footwear,226,7808,48.4
+1684,New Jersey,2021,4,Northeast,Men's,Street Footwear,608,21147,48.4
+1685,New Jersey,2021,4,Northeast,Women's,Apparel,318,10994,48.4
+1686,New Jersey,2021,4,Northeast,Women's,Athletic Footwear,127,3729,48.4
+1687,New Jersey,2021,4,Northeast,Women's,Street Footwear,226,5599,48.4
+1688,New Jersey,2021,5,Northeast,Men's,Apparel,293,14445,56.8
+1689,New Jersey,2021,5,Northeast,Men's,Athletic Footwear,293,12913,56.8
+1690,New Jersey,2021,5,Northeast,Men's,Street Footwear,650,32239,56.8
+1691,New Jersey,2021,5,Northeast,Women's,Apparel,452,24451,56.8
+1692,New Jersey,2021,5,Northeast,Women's,Athletic Footwear,256,10128,56.8
+1693,New Jersey,2021,5,Northeast,Women's,Street Footwear,325,12850,56.8
+1694,New Jersey,2021,6,Northeast,Men's,Apparel,315,15489,66.4
+1695,New Jersey,2021,6,Northeast,Men's,Athletic Footwear,455,20370,66.4
+1696,New Jersey,2021,6,Northeast,Men's,Street Footwear,756,37019,66.4
+1697,New Jersey,2021,6,Northeast,Women's,Apparel,520,27999,66.4
+1698,New Jersey,2021,6,Northeast,Women's,Athletic Footwear,315,12535,66.4
+1699,New Jersey,2021,6,Northeast,Women's,Street Footwear,344,13622,66.4
+1700,New Jersey,2021,7,Northeast,Men's,Apparel,349,17301,73.8
+1701,New Jersey,2021,7,Northeast,Men's,Athletic Footwear,473,20991,73.8
+1702,New Jersey,2021,7,Northeast,Men's,Street Footwear,813,40085,73.8
+1703,New Jersey,2021,7,Northeast,Women's,Apparel,581,31823,73.8
+1704,New Jersey,2021,7,Northeast,Women's,Athletic Footwear,313,12268,73.8
+1705,New Jersey,2021,7,Northeast,Women's,Street Footwear,381,14997,73.8
+1706,New Jersey,2021,8,Northeast,Men's,Apparel,221,10865,75.8
+1707,New Jersey,2021,8,Northeast,Men's,Athletic Footwear,476,21117,75.8
+1708,New Jersey,2021,8,Northeast,Men's,Street Footwear,780,38459,75.8
+1709,New Jersey,2021,8,Northeast,Women's,Apparel,455,24709,75.8
+1710,New Jersey,2021,8,Northeast,Women's,Athletic Footwear,252,9872,75.8
+1711,New Jersey,2021,8,Northeast,Women's,Street Footwear,375,14775,75.8
+1712,New Jersey,2021,9,Northeast,Men's,Apparel,191,9426,72.2
+1713,New Jersey,2021,9,Northeast,Men's,Athletic Footwear,347,15327,72.2
+1714,New Jersey,2021,9,Northeast,Men's,Street Footwear,599,29453,72.2
+1715,New Jersey,2021,9,Northeast,Women's,Apparel,323,17399,72.2
+1716,New Jersey,2021,9,Northeast,Women's,Athletic Footwear,188,7406,72.2
+1717,New Jersey,2021,9,Northeast,Women's,Street Footwear,226,8989,72.2
+1718,New Jersey,2021,10,Northeast,Men's,Apparel,163,9704,64.9
+1719,New Jersey,2021,10,Northeast,Men's,Athletic Footwear,313,15524,64.9
+1720,New Jersey,2021,10,Northeast,Men's,Street Footwear,544,29681,64.9
+1721,New Jersey,2021,10,Northeast,Women's,Apparel,318,20465,64.9
+1722,New Jersey,2021,10,Northeast,Women's,Athletic Footwear,156,7738,64.9
+1723,New Jersey,2021,10,Northeast,Women's,Street Footwear,192,9432,64.9
+1724,New Jersey,2021,11,Northeast,Men's,Apparel,284,16745,52.4
+1725,New Jersey,2021,11,Northeast,Men's,Athletic Footwear,355,17430,52.4
+1726,New Jersey,2021,11,Northeast,Men's,Street Footwear,508,30372,52.4
+1727,New Jersey,2021,11,Northeast,Women's,Apparel,416,26493,52.4
+1728,New Jersey,2021,11,Northeast,Women's,Athletic Footwear,315,15685,52.4
+1729,New Jersey,2021,11,Northeast,Women's,Street Footwear,338,16764,52.4
+1730,New Jersey,2021,12,Northeast,Men's,Apparel,358,21065,42.5
+1731,New Jersey,2021,12,Northeast,Men's,Athletic Footwear,455,22645,42.5
+1732,New Jersey,2021,12,Northeast,Men's,Street Footwear,699,41195,42.5
+1733,New Jersey,2021,12,Northeast,Women's,Apparel,476,30333,42.5
+1734,New Jersey,2021,12,Northeast,Women's,Athletic Footwear,358,17651,42.5
+1735,New Jersey,2021,12,Northeast,Women's,Street Footwear,416,20709,42.5
+1736,New Mexico,2021,1,West,Men's,Apparel,388,16458,35.0
+1737,New Mexico,2021,1,West,Men's,Athletic Footwear,725,27045,35.0
+1738,New Mexico,2021,1,West,Men's,Street Footwear,730,20874,35.0
+1739,New Mexico,2021,1,West,Women's,Apparel,707,26132,35.0
+1740,New Mexico,2021,1,West,Women's,Athletic Footwear,474,17697,35.0
+1741,New Mexico,2021,1,West,Women's,Street Footwear,716,27268,35.0
+1742,New Mexico,2021,2,West,Men's,Apparel,316,14538,36.1
+1743,New Mexico,2021,2,West,Men's,Athletic Footwear,636,23492,36.1
+1744,New Mexico,2021,2,West,Men's,Street Footwear,795,22654,36.1
+1745,New Mexico,2021,2,West,Women's,Apparel,644,27164,36.1
+1746,New Mexico,2021,2,West,Women's,Athletic Footwear,440,18196,36.1
+1747,New Mexico,2021,2,West,Women's,Street Footwear,624,23208,36.1
+1748,New Mexico,2021,3,West,Men's,Apparel,281,15588,41.0
+1749,New Mexico,2021,3,West,Men's,Athletic Footwear,648,32608,41.0
+1750,New Mexico,2021,3,West,Men's,Street Footwear,902,37620,41.0
+1751,New Mexico,2021,3,West,Women's,Apparel,604,31289,41.0
+1752,New Mexico,2021,3,West,Women's,Athletic Footwear,446,22531,41.0
+1753,New Mexico,2021,3,West,Women's,Street Footwear,636,33280,41.0
+1754,New Mexico,2021,4,West,Men's,Apparel,318,18008,49.0
+1755,New Mexico,2021,4,West,Men's,Athletic Footwear,557,31469,49.0
+1756,New Mexico,2021,4,West,Men's,Street Footwear,869,44869,49.0
+1757,New Mexico,2021,4,West,Women's,Apparel,592,41590,49.0
+1758,New Mexico,2021,4,West,Women's,Athletic Footwear,483,24750,49.0
+1759,New Mexico,2021,4,West,Women's,Street Footwear,656,36540,49.0
+1760,New Mexico,2021,5,West,Men's,Apparel,393,22150,58.0
+1761,New Mexico,2021,5,West,Men's,Athletic Footwear,672,38194,58.0
+1762,New Mexico,2021,5,West,Men's,Street Footwear,909,47187,58.0
+1763,New Mexico,2021,5,West,Women's,Apparel,672,47202,58.0
+1764,New Mexico,2021,5,West,Women's,Athletic Footwear,550,28578,58.0
+1765,New Mexico,2021,5,West,Women's,Street Footwear,711,40266,58.0
+1766,New Mexico,2021,6,West,Men's,Apparel,480,26964,67.9
+1767,New Mexico,2021,6,West,Men's,Athletic Footwear,891,50105,67.9
+1768,New Mexico,2021,6,West,Men's,Street Footwear,1127,57344,67.9
+1769,New Mexico,2021,6,West,Women's,Apparel,954,66588,67.9
+1770,New Mexico,2021,6,West,Women's,Athletic Footwear,659,33835,67.9
+1771,New Mexico,2021,6,West,Women's,Street Footwear,892,48959,67.9
+1772,New Mexico,2021,7,West,Men's,Apparel,805,44665,73.2
+1773,New Mexico,2021,7,West,Men's,Athletic Footwear,990,55530,73.2
+1774,New Mexico,2021,7,West,Men's,Street Footwear,1201,62380,73.2
+1775,New Mexico,2021,7,West,Women's,Apparel,800,55000,73.2
+1776,New Mexico,2021,7,West,Women's,Athletic Footwear,734,37851,73.2
+1777,New Mexico,2021,7,West,Women's,Street Footwear,881,48949,73.2
+1778,New Mexico,2021,8,West,Men's,Apparel,761,49334,72.7
+1779,New Mexico,2021,8,West,Men's,Athletic Footwear,1034,61962,72.7
+1780,New Mexico,2021,8,West,Men's,Street Footwear,1099,60760,72.7
+1781,New Mexico,2021,8,West,Women's,Apparel,729,50220,72.7
+1782,New Mexico,2021,8,West,Women's,Athletic Footwear,770,43357,72.7
+1783,New Mexico,2021,8,West,Women's,Street Footwear,830,47234,72.7
+1784,New Mexico,2021,9,West,Men's,Apparel,681,37294,70.2
+1785,New Mexico,2021,9,West,Men's,Athletic Footwear,969,49663,70.2
+1786,New Mexico,2021,9,West,Men's,Street Footwear,994,46859,70.2
+1787,New Mexico,2021,9,West,Women's,Apparel,765,46258,70.2
+1788,New Mexico,2021,9,West,Women's,Athletic Footwear,693,32642,70.2
+1789,New Mexico,2021,9,West,Women's,Street Footwear,765,36061,70.2
+1790,New Mexico,2021,10,West,Men's,Apparel,530,29270,61.9
+1791,New Mexico,2021,10,West,Men's,Athletic Footwear,881,44616,61.9
+1792,New Mexico,2021,10,West,Men's,Street Footwear,886,41405,61.9
+1793,New Mexico,2021,10,West,Women's,Apparel,611,42732,61.9
+1794,New Mexico,2021,10,West,Women's,Athletic Footwear,557,25790,61.9
+1795,New Mexico,2021,10,West,Women's,Street Footwear,600,27870,61.9
+1796,New Mexico,2021,11,West,Men's,Apparel,619,40669,51.6
+1797,New Mexico,2021,11,West,Men's,Athletic Footwear,930,55770,51.6
+1798,New Mexico,2021,11,West,Men's,Street Footwear,886,50552,51.6
+1799,New Mexico,2021,11,West,Women's,Apparel,810,57100,51.6
+1800,New Mexico,2021,11,West,Women's,Athletic Footwear,676,37265,51.6
+1801,New Mexico,2021,11,West,Women's,Street Footwear,716,40172,51.6
+1802,New Mexico,2021,12,West,Men's,Apparel,672,44406,44.8
+1803,New Mexico,2021,12,West,Men's,Athletic Footwear,1099,66801,44.8
+1804,New Mexico,2021,12,West,Men's,Street Footwear,1148,64022,44.8
+1805,New Mexico,2021,12,West,Women's,Apparel,829,58495,44.8
+1806,New Mexico,2021,12,West,Women's,Athletic Footwear,805,45175,44.8
+1807,New Mexico,2021,12,West,Women's,Street Footwear,780,44270,44.8
+1843,New York,2021,1,Northeast,Men's,Apparel,645,32105,26.9
+1844,New York,2021,1,Northeast,Men's,Athletic Footwear,756,30084,26.9
+1845,New York,2021,1,Northeast,Men's,Street Footwear,1016,40424,26.9
+1846,New York,2021,1,Northeast,Women's,Apparel,756,29928,26.9
+1847,New York,2021,1,Northeast,Women's,Athletic Footwear,581,20204,26.9
+1848,New York,2021,1,Northeast,Women's,Street Footwear,768,22872,26.9
+1849,New York,2021,2,Northeast,Men's,Apparel,704,37950,22.8
+1850,New York,2021,2,Northeast,Men's,Athletic Footwear,645,25365,22.8
+1851,New York,2021,2,Northeast,Men's,Street Footwear,1088,42806,22.8
+1852,New York,2021,2,Northeast,Women's,Apparel,832,36894,22.8
+1853,New York,2021,2,Northeast,Women's,Athletic Footwear,608,23921,22.8
+1854,New York,2021,2,Northeast,Women's,Street Footwear,693,20647,22.8
+1855,New York,2021,3,Northeast,Men's,Apparel,608,32908,28.4
+1856,New York,2021,3,Northeast,Men's,Athletic Footwear,715,32010,28.4
+1857,New York,2021,3,Northeast,Men's,Street Footwear,1122,50238,28.4
+1858,New York,2021,3,Northeast,Women's,Apparel,736,32798,28.4
+1859,New York,2021,3,Northeast,Women's,Athletic Footwear,531,21134,28.4
+1860,New York,2021,3,Northeast,Women's,Street Footwear,736,25438,28.4
+1861,New York,2021,4,Northeast,Men's,Apparel,599,32325,40.4
+1862,New York,2021,4,Northeast,Men's,Athletic Footwear,672,29946,40.4
+1863,New York,2021,4,Northeast,Men's,Street Footwear,1073,47541,40.4
+1864,New York,2021,4,Northeast,Women's,Apparel,756,33396,40.4
+1865,New York,2021,4,Northeast,Women's,Athletic Footwear,585,22995,40.4
+1866,New York,2021,4,Northeast,Women's,Street Footwear,677,23543,40.4
+1867,New York,2021,5,Northeast,Men's,Apparel,662,39172,50.2
+1868,New York,2021,5,Northeast,Men's,Athletic Footwear,736,40158,50.2
+1869,New York,2021,5,Northeast,Men's,Street Footwear,1131,60900,50.2
+1870,New York,2021,5,Northeast,Women's,Apparel,794,50596,50.2
+1871,New York,2021,5,Northeast,Women's,Athletic Footwear,630,31110,50.2
+1872,New York,2021,5,Northeast,Women's,Street Footwear,710,35340,50.2
+1873,New York,2021,6,Northeast,Men's,Apparel,725,46675,60.9
+1874,New York,2021,6,Northeast,Men's,Athletic Footwear,800,43825,60.9
+1875,New York,2021,6,Northeast,Men's,Street Footwear,1138,68017,60.9
+1876,New York,2021,6,Northeast,Women's,Apparel,906,63239,60.9
+1877,New York,2021,6,Northeast,Women's,Athletic Footwear,719,35806,60.9
+1878,New York,2021,6,Northeast,Women's,Street Footwear,750,37200,60.9
+1879,New York,2021,7,Northeast,Men's,Apparel,768,49416,67.4
+1880,New York,2021,7,Northeast,Men's,Athletic Footwear,896,52976,67.4
+1881,New York,2021,7,Northeast,Men's,Street Footwear,1197,76323,67.4
+1882,New York,2021,7,Northeast,Women's,Apparel,969,67054,67.4
+1883,New York,2021,7,Northeast,Women's,Athletic Footwear,725,39575,67.4
+1884,New York,2021,7,Northeast,Women's,Street Footwear,794,42994,67.4
+1885,New York,2021,8,Northeast,Men's,Apparel,699,37998,69.0
+1886,New York,2021,8,Northeast,Men's,Athletic Footwear,910,53550,69.0
+1887,New York,2021,8,Northeast,Men's,Street Footwear,1175,75625,69.0
+1888,New York,2021,8,Northeast,Women's,Apparel,943,55490,69.0
+1889,New York,2021,8,Northeast,Women's,Athletic Footwear,725,32025,69.0
+1890,New York,2021,8,Northeast,Women's,Street Footwear,813,43963,69.0
+1891,New York,2021,9,Northeast,Men's,Apparel,656,35556,66.1
+1892,New York,2021,9,Northeast,Men's,Athletic Footwear,813,40324,66.1
+1893,New York,2021,9,Northeast,Men's,Street Footwear,1088,58650,66.1
+1894,New York,2021,9,Northeast,Women's,Apparel,781,46704,66.1
+1895,New York,2021,9,Northeast,Women's,Athletic Footwear,662,29653,66.1
+1896,New York,2021,9,Northeast,Women's,Street Footwear,688,30408,66.1
+1897,New York,2021,10,Northeast,Men's,Apparel,650,38850,58.3
+1898,New York,2021,10,Northeast,Men's,Athletic Footwear,781,38426,58.3
+1899,New York,2021,10,Northeast,Men's,Street Footwear,1008,59856,58.3
+1900,New York,2021,10,Northeast,Women's,Apparel,781,50609,58.3
+1901,New York,2021,10,Northeast,Women's,Athletic Footwear,635,31075,58.3
+1902,New York,2021,10,Northeast,Women's,Street Footwear,662,32552,58.3
+1903,New York,2021,11,Northeast,Men's,Apparel,704,45298,45.9
+1904,New York,2021,11,Northeast,Men's,Athletic Footwear,762,37938,45.9
+1905,New York,2021,11,Northeast,Men's,Street Footwear,992,58652,45.9
+1906,New York,2021,11,Northeast,Women's,Apparel,826,57468,45.9
+1907,New York,2021,11,Northeast,Women's,Athletic Footwear,719,35518,45.9
+1908,New York,2021,11,Northeast,Women's,Street Footwear,692,33865,45.9
+1909,New York,2021,12,Northeast,Men's,Apparel,730,46675,34.8
+1910,New York,2021,12,Northeast,Men's,Athletic Footwear,844,45744,34.8
+1911,New York,2021,12,Northeast,Men's,Street Footwear,1120,71330,34.8
+1912,New York,2021,12,Northeast,Women's,Apparel,857,59808,34.8
+1913,New York,2021,12,Northeast,Women's,Athletic Footwear,730,39995,34.8
+1914,New York,2021,12,Northeast,Women's,Street Footwear,788,42851,34.8
+1915,North Carolina,2021,1,Southeast,Men's,Apparel,603,27007,41.4
+1916,North Carolina,2021,1,Southeast,Men's,Athletic Footwear,725,25075,41.4
+1917,North Carolina,2021,1,Southeast,Men's,Street Footwear,969,33333,41.4
+1918,North Carolina,2021,1,Southeast,Women's,Apparel,748,25661,41.4
+1919,North Carolina,2021,1,Southeast,Women's,Athletic Footwear,548,16317,41.4
+1920,North Carolina,2021,1,Southeast,Women's,Street Footwear,742,18383,41.4
+1921,North Carolina,2021,2,Southeast,Men's,Apparel,780,34920,41.4
+1922,North Carolina,2021,2,Southeast,Men's,Athletic Footwear,618,21344,41.4
+1923,North Carolina,2021,2,Southeast,Men's,Street Footwear,1056,36267,41.4
+1924,North Carolina,2021,2,Southeast,Women's,Apparel,903,26887,41.4
+1925,North Carolina,2021,2,Southeast,Women's,Athletic Footwear,667,19868,41.4
+1926,North Carolina,2021,2,Southeast,Women's,Street Footwear,683,16759,41.4
+1927,North Carolina,2021,3,Southeast,Men's,Apparel,683,26846,47.4
+1928,North Carolina,2021,3,Southeast,Men's,Athletic Footwear,750,22350,47.4
+1929,North Carolina,2021,3,Southeast,Men's,Street Footwear,1196,35328,47.4
+1930,North Carolina,2021,3,Southeast,Women's,Apparel,794,23313,47.4
+1931,North Carolina,2021,3,Southeast,Women's,Athletic Footwear,599,14974,47.4
+1932,North Carolina,2021,3,Southeast,Women's,Street Footwear,806,15939,47.4
+1933,North Carolina,2021,4,Southeast,Men's,Apparel,656,29127,55.6
+1934,North Carolina,2021,4,Southeast,Men's,Athletic Footwear,730,21590,55.6
+1935,North Carolina,2021,4,Southeast,Men's,Street Footwear,1138,33351,55.6
+1936,North Carolina,2021,4,Southeast,Women's,Apparel,864,29673,55.6
+1937,North Carolina,2021,4,Southeast,Women's,Athletic Footwear,640,15859,55.6
+1938,North Carolina,2021,4,Southeast,Women's,Street Footwear,719,14380,55.6
+1939,North Carolina,2021,5,Southeast,Men's,Apparel,750,36899,61.9
+1940,North Carolina,2021,5,Southeast,Men's,Athletic Footwear,832,36894,61.9
+1941,North Carolina,2021,5,Southeast,Men's,Street Footwear,1191,52611,61.9
+1942,North Carolina,2021,5,Southeast,Women's,Apparel,903,48852,61.9
+1943,North Carolina,2021,5,Southeast,Women's,Athletic Footwear,725,28700,61.9
+1944,North Carolina,2021,5,Southeast,Women's,Street Footwear,794,31253,61.9
+1945,North Carolina,2021,6,Southeast,Men's,Apparel,813,52193,69.6
+1946,North Carolina,2021,6,Southeast,Men's,Athletic Footwear,882,39144,69.6
+1947,North Carolina,2021,6,Southeast,Men's,Street Footwear,1188,58447,69.6
+1948,North Carolina,2021,6,Southeast,Women's,Apparel,1056,73227,69.6
+1949,North Carolina,2021,6,Southeast,Women's,Athletic Footwear,819,40781,69.6
+1950,North Carolina,2021,6,Southeast,Women's,Street Footwear,844,41693,69.6
+1951,North Carolina,2021,7,Southeast,Men's,Apparel,882,56238,75.4
+1952,North Carolina,2021,7,Southeast,Men's,Athletic Footwear,1024,60992,75.4
+1953,North Carolina,2021,7,Southeast,Men's,Street Footwear,1344,85890,75.4
+1954,North Carolina,2021,7,Southeast,Women's,Apparel,1138,78082,75.4
+1955,North Carolina,2021,7,Southeast,Women's,Athletic Footwear,878,47681,75.4
+1956,North Carolina,2021,7,Southeast,Women's,Street Footwear,921,50263,75.4
+1957,North Carolina,2021,8,Southeast,Men's,Apparel,826,45078,77.4
+1958,North Carolina,2021,8,Southeast,Men's,Athletic Footwear,1000,59600,77.4
+1959,North Carolina,2021,8,Southeast,Men's,Street Footwear,1333,85413,77.4
+1960,North Carolina,2021,8,Southeast,Women's,Apparel,1056,61974,77.4
+1961,North Carolina,2021,8,Southeast,Women's,Athletic Footwear,857,38383,77.4
+1962,North Carolina,2021,8,Southeast,Women's,Street Footwear,935,51215,77.4
+1963,North Carolina,2021,9,Southeast,Men's,Apparel,756,29928,74.1
+1964,North Carolina,2021,9,Southeast,Men's,Athletic Footwear,906,45119,74.1
+1965,North Carolina,2021,9,Southeast,Men's,Street Footwear,1175,64125,74.1
+1966,North Carolina,2021,9,Southeast,Women's,Apparel,903,39823,74.1
+1967,North Carolina,2021,9,Southeast,Women's,Athletic Footwear,750,22200,74.1
+1968,North Carolina,2021,9,Southeast,Women's,Street Footwear,800,23650,74.1
+1969,North Carolina,2021,10,Southeast,Men's,Apparel,699,31008,67.4
+1970,North Carolina,2021,10,Southeast,Men's,Athletic Footwear,896,30968,67.4
+1971,North Carolina,2021,10,Southeast,Men's,Street Footwear,1120,49665,67.4
+1972,North Carolina,2021,10,Southeast,Women's,Apparel,851,42198,67.4
+1973,North Carolina,2021,10,Southeast,Women's,Athletic Footwear,710,24690,67.4
+1974,North Carolina,2021,10,Southeast,Women's,Street Footwear,725,25225,67.4
+1975,North Carolina,2021,11,Southeast,Men's,Apparel,788,58611,56.1
+1976,North Carolina,2021,11,Southeast,Men's,Athletic Footwear,845,28990,56.1
+1977,North Carolina,2021,11,Southeast,Men's,Street Footwear,1040,46585,56.1
+1978,North Carolina,2021,11,Southeast,Women's,Apparel,935,69495,56.1
+1979,North Carolina,2021,11,Southeast,Women's,Athletic Footwear,813,47965,56.1
+1980,North Carolina,2021,11,Southeast,Women's,Street Footwear,762,30146,56.1
+1981,North Carolina,2021,12,Southeast,Men's,Apparel,844,58235,49.4
+1982,North Carolina,2021,12,Southeast,Men's,Athletic Footwear,977,57610,49.4
+1983,North Carolina,2021,12,Southeast,Men's,Street Footwear,1219,83866,49.4
+1984,North Carolina,2021,12,Southeast,Women's,Apparel,1000,73650,49.4
+1985,North Carolina,2021,12,Southeast,Women's,Athletic Footwear,871,51280,49.4
+1986,North Carolina,2021,12,Southeast,Women's,Street Footwear,943,55490,49.4
+1987,North Dakota,2021,1,Midwest,Men's,Apparel,192,7596,22.2
+1988,North Dakota,2021,1,Midwest,Men's,Athletic Footwear,320,9530,22.2
+1989,North Dakota,2021,1,Midwest,Men's,Street Footwear,563,16551,22.2
+1990,North Dakota,2021,1,Midwest,Women's,Apparel,325,9600,22.2
+1991,North Dakota,2021,1,Midwest,Women's,Athletic Footwear,126,3124,22.2
+1992,North Dakota,2021,1,Midwest,Women's,Street Footwear,318,6292,22.2
+1993,North Dakota,2021,2,Midwest,Men's,Apparel,226,10016,13.4
+1994,North Dakota,2021,2,Midwest,Men's,Athletic Footwear,195,5760,13.4
+1995,North Dakota,2021,2,Midwest,Men's,Street Footwear,645,19060,13.4
+1996,North Dakota,2021,2,Midwest,Women's,Apparel,344,8461,13.4
+1997,North Dakota,2021,2,Midwest,Women's,Athletic Footwear,130,3870,13.4
+1998,North Dakota,2021,2,Midwest,Women's,Street Footwear,256,5064,13.4
+1999,North Dakota,2021,3,Midwest,Men's,Apparel,161,6296,20.8
+2000,North Dakota,2021,3,Midwest,Men's,Athletic Footwear,258,7566,20.8
+2001,North Dakota,2021,3,Midwest,Men's,Street Footwear,629,18736,20.8
+2002,North Dakota,2021,3,Midwest,Women's,Apparel,288,8514,20.8
+2003,North Dakota,2021,3,Midwest,Women's,Athletic Footwear,97,2424,20.8
+2004,North Dakota,2021,3,Midwest,Women's,Street Footwear,281,5564,20.8
+2005,North Dakota,2021,4,Midwest,Men's,Apparel,130,7740,38.2
+2006,North Dakota,2021,4,Midwest,Men's,Athletic Footwear,194,5732,38.2
+2007,North Dakota,2021,4,Midwest,Men's,Street Footwear,563,16664,38.2
+2008,North Dakota,2021,4,Midwest,Women's,Apparel,293,14582,38.2
+2009,North Dakota,2021,4,Midwest,Women's,Athletic Footwear,97,2402,38.2
+2010,North Dakota,2021,4,Midwest,Women's,Street Footwear,191,3779,38.2
+2011,North Dakota,2021,5,Midwest,Men's,Apparel,156,7675,46.6
+2012,North Dakota,2021,5,Midwest,Men's,Athletic Footwear,254,11214,46.6
+2013,North Dakota,2021,5,Midwest,Men's,Street Footwear,624,36795,46.6
+2014,North Dakota,2021,5,Midwest,Women's,Apparel,325,17649,46.6
+2015,North Dakota,2021,5,Midwest,Women's,Athletic Footwear,126,4936,46.6
+2016,North Dakota,2021,5,Midwest,Women's,Street Footwear,226,8887,46.6
+2017,North Dakota,2021,6,Midwest,Men's,Apparel,222,8786,61.0
+2018,North Dakota,2021,6,Midwest,Men's,Athletic Footwear,315,10830,61.0
+2019,North Dakota,2021,6,Midwest,Men's,Street Footwear,625,24500,61.0
+2020,North Dakota,2021,6,Midwest,Women's,Apparel,416,22516,61.0
+2021,North Dakota,2021,6,Midwest,Women's,Athletic Footwear,226,6729,61.0
+2022,North Dakota,2021,6,Midwest,Women's,Street Footwear,260,7620,61.0
+2023,North Dakota,2021,7,Midwest,Men's,Apparel,260,12940,71.6
+2024,North Dakota,2021,7,Midwest,Men's,Athletic Footwear,384,17196,71.6
+2025,North Dakota,2021,7,Midwest,Men's,Street Footwear,710,35180,71.6
+2026,North Dakota,2021,7,Midwest,Women's,Apparel,473,25917,71.6
+2027,North Dakota,2021,7,Midwest,Women's,Athletic Footwear,228,9014,71.6
+2028,North Dakota,2021,7,Midwest,Women's,Street Footwear,284,11183,71.6
+2029,North Dakota,2021,8,Midwest,Men's,Apparel,219,10774,71.4
+2030,North Dakota,2021,8,Midwest,Men's,Athletic Footwear,390,17280,71.4
+2031,North Dakota,2021,8,Midwest,Men's,Street Footwear,672,33012,71.4
+2032,North Dakota,2021,8,Midwest,Women's,Apparel,445,24380,71.4
+2033,North Dakota,2021,8,Midwest,Women's,Athletic Footwear,252,9976,71.4
+2034,North Dakota,2021,8,Midwest,Women's,Street Footwear,288,11331,71.4
+2035,North Dakota,2021,9,Midwest,Men's,Apparel,192,7512,65.6
+2036,North Dakota,2021,9,Midwest,Men's,Athletic Footwear,347,12073,65.6
+2037,North Dakota,2021,9,Midwest,Men's,Street Footwear,608,23788,65.6
+2038,North Dakota,2021,9,Midwest,Women's,Apparel,288,12897,65.6
+2039,North Dakota,2021,9,Midwest,Women's,Athletic Footwear,194,5732,65.6
+2040,North Dakota,2021,9,Midwest,Women's,Street Footwear,226,6627,65.6
+2041,North Dakota,2021,10,Midwest,Men's,Apparel,159,7779,55.4
+2042,North Dakota,2021,10,Midwest,Men's,Athletic Footwear,323,12628,55.4
+2043,North Dakota,2021,10,Midwest,Men's,Street Footwear,516,25683,55.4
+2044,North Dakota,2021,10,Midwest,Women's,Apparel,323,17618,55.4
+2045,North Dakota,2021,10,Midwest,Women's,Athletic Footwear,158,6254,55.4
+2046,North Dakota,2021,10,Midwest,Women's,Street Footwear,189,7521,55.4
+2047,North Dakota,2021,11,Midwest,Men's,Apparel,194,11420,40.6
+2048,North Dakota,2021,11,Midwest,Men's,Athletic Footwear,323,12628,40.6
+2049,North Dakota,2021,11,Midwest,Men's,Street Footwear,520,25879,40.6
+2050,North Dakota,2021,11,Midwest,Women's,Apparel,315,20149,40.6
+2051,North Dakota,2021,11,Midwest,Women's,Athletic Footwear,222,8833,40.6
+2052,North Dakota,2021,11,Midwest,Women's,Street Footwear,248,9867,40.6
+2053,North Dakota,2021,12,Midwest,Men's,Apparel,254,15132,23.4
+2054,North Dakota,2021,12,Midwest,Men's,Athletic Footwear,375,18450,23.4
+2055,North Dakota,2021,12,Midwest,Men's,Street Footwear,650,38250,23.4
+2056,North Dakota,2021,12,Midwest,Women's,Apparel,378,24413,23.4
+2057,North Dakota,2021,12,Midwest,Women's,Athletic Footwear,254,12538,23.4
+2058,North Dakota,2021,12,Midwest,Women's,Street Footwear,323,16004,23.4
+2059,Ohio,2021,1,Midwest,Men's,Apparel,252,12391,32.2
+2060,Ohio,2021,1,Midwest,Men's,Athletic Footwear,378,14964,32.2
+2061,Ohio,2021,1,Midwest,Men's,Street Footwear,635,24995,32.2
+2062,Ohio,2021,1,Midwest,Women's,Apparel,381,14997,32.2
+2063,Ohio,2021,1,Midwest,Women's,Athletic Footwear,192,6678,32.2
+2064,Ohio,2021,1,Midwest,Women's,Street Footwear,375,11100,32.2
+2065,Ohio,2021,2,Midwest,Men's,Apparel,572,25252,28.0
+2066,Ohio,2021,2,Midwest,Men's,Athletic Footwear,258,10204,28.0
+2067,Ohio,2021,2,Midwest,Men's,Street Footwear,688,27244,28.0
+2068,Ohio,2021,2,Midwest,Women's,Apparel,693,20647,28.0
+2069,Ohio,2021,2,Midwest,Women's,Athletic Footwear,476,14179,28.0
+2070,Ohio,2021,2,Midwest,Women's,Street Footwear,313,9327,28.0
+2071,Ohio,2021,3,Midwest,Men's,Apparel,488,19181,35.0
+2072,Ohio,2021,3,Midwest,Men's,Athletic Footwear,576,16902,35.0
+2073,Ohio,2021,3,Midwest,Men's,Street Footwear,1001,29337,35.0
+2074,Ohio,2021,3,Midwest,Women's,Apparel,603,17834,35.0
+2075,Ohio,2021,3,Midwest,Women's,Athletic Footwear,423,10476,35.0
+2076,Ohio,2021,3,Midwest,Women's,Street Footwear,599,11980,35.0
+2077,Ohio,2021,4,Midwest,Men's,Apparel,476,21117,48.1
+2078,Ohio,2021,4,Midwest,Men's,Athletic Footwear,536,15858,48.1
+2079,Ohio,2021,4,Midwest,Men's,Street Footwear,943,27854,48.1
+2080,Ohio,2021,4,Midwest,Women's,Apparel,662,23033,48.1
+2081,Ohio,2021,4,Midwest,Women's,Athletic Footwear,452,11197,48.1
+2082,Ohio,2021,4,Midwest,Women's,Street Footwear,531,10514,48.1
+2083,Ohio,2021,5,Midwest,Men's,Apparel,576,28673,55.1
+2084,Ohio,2021,5,Midwest,Men's,Athletic Footwear,635,28440,55.1
+2085,Ohio,2021,5,Midwest,Men's,Street Footwear,1002,44469,55.1
+2086,Ohio,2021,5,Midwest,Women's,Apparel,693,37828,55.1
+2087,Ohio,2021,5,Midwest,Women's,Athletic Footwear,548,21674,55.1
+2088,Ohio,2021,5,Midwest,Women's,Street Footwear,618,24577,55.1
+2089,Ohio,2021,6,Midwest,Men's,Apparel,650,41800,65.2
+2090,Ohio,2021,6,Midwest,Men's,Athletic Footwear,688,30408,65.2
+2091,Ohio,2021,6,Midwest,Men's,Street Footwear,1032,51367,65.2
+2092,Ohio,2021,6,Midwest,Women's,Apparel,871,59794,65.2
+2093,Ohio,2021,6,Midwest,Women's,Athletic Footwear,640,31860,65.2
+2094,Ohio,2021,6,Midwest,Women's,Street Footwear,667,33208,65.2
+2095,Ohio,2021,7,Midwest,Men's,Apparel,704,44836,72.2
+2096,Ohio,2021,7,Midwest,Men's,Athletic Footwear,845,49920,72.2
+2097,Ohio,2021,7,Midwest,Men's,Street Footwear,1152,74376,72.2
+2098,Ohio,2021,7,Midwest,Women's,Apparel,906,63239,72.2
+2099,Ohio,2021,7,Midwest,Women's,Athletic Footwear,677,36931,72.2
+2100,Ohio,2021,7,Midwest,Women's,Street Footwear,748,40448,72.2
+2101,Ohio,2021,8,Midwest,Men's,Apparel,635,34250,73.8
+2102,Ohio,2021,8,Midwest,Men's,Athletic Footwear,845,50310,73.8
+2103,Ohio,2021,8,Midwest,Men's,Street Footwear,1103,70783,73.8
+2104,Ohio,2021,8,Midwest,Women's,Apparel,844,49626,73.8
+2105,Ohio,2021,8,Midwest,Women's,Athletic Footwear,683,30103,73.8
+2106,Ohio,2021,8,Midwest,Women's,Street Footwear,725,39575,73.8
+2107,Ohio,2021,9,Midwest,Men's,Apparel,572,19654,70.8
+2108,Ohio,2021,9,Midwest,Men's,Athletic Footwear,748,36881,70.8
+2109,Ohio,2021,9,Midwest,Men's,Street Footwear,1000,53875,70.8
+2110,Ohio,2021,9,Midwest,Women's,Apparel,688,27106,70.8
+2111,Ohio,2021,9,Midwest,Women's,Athletic Footwear,563,13962,70.8
+2112,Ohio,2021,9,Midwest,Women's,Street Footwear,613,15049,70.8
+2113,Ohio,2021,10,Midwest,Men's,Apparel,516,20292,63.6
+2114,Ohio,2021,10,Midwest,Men's,Athletic Footwear,688,20502,63.6
+2115,Ohio,2021,10,Midwest,Men's,Street Footwear,935,36560,63.6
+2116,Ohio,2021,10,Midwest,Women's,Apparel,672,26586,63.6
+2117,Ohio,2021,10,Midwest,Women's,Athletic Footwear,512,15248,63.6
+2118,Ohio,2021,10,Midwest,Women's,Street Footwear,531,15612,63.6
+2119,Ohio,2021,11,Midwest,Men's,Apparel,613,48488,50.4
+2120,Ohio,2021,11,Midwest,Men's,Athletic Footwear,640,15860,50.4
+2121,Ohio,2021,11,Midwest,Men's,Street Footwear,844,29371,50.4
+2122,Ohio,2021,11,Midwest,Women's,Apparel,742,58358,50.4
+2123,Ohio,2021,11,Midwest,Women's,Athletic Footwear,635,40465,50.4
+2124,Ohio,2021,11,Midwest,Women's,Street Footwear,561,19287,50.4
+2125,Ohio,2021,12,Midwest,Men's,Apparel,667,49031,40.4
+2126,Ohio,2021,12,Midwest,Men's,Athletic Footwear,806,51485,40.4
+2127,Ohio,2021,12,Midwest,Men's,Street Footwear,1056,78045,40.4
+2128,Ohio,2021,12,Midwest,Women's,Apparel,781,61544,40.4
+2129,Ohio,2021,12,Midwest,Women's,Athletic Footwear,672,43386,40.4
+2130,Ohio,2021,12,Midwest,Women's,Street Footwear,736,46874,40.4
+2131,Oklahoma,2021,1,South,Men's,Apparel,403,13359,40.4
+2132,Oklahoma,2021,1,South,Men's,Athletic Footwear,546,12523,40.4
+2133,Oklahoma,2021,1,South,Men's,Street Footwear,875,20169,40.4
+2134,Oklahoma,2021,1,South,Women's,Apparel,571,13119,40.4
+2135,Oklahoma,2021,1,South,Women's,Athletic Footwear,326,6184,40.4
+2136,Oklahoma,2021,1,South,Women's,Street Footwear,554,7874,40.4
+2137,Oklahoma,2021,2,South,Men's,Apparel,410,13340,35.6
+2138,Oklahoma,2021,2,South,Men's,Athletic Footwear,390,9020,35.6
+2139,Oklahoma,2021,2,South,Men's,Street Footwear,966,22398,35.6
+2140,Oklahoma,2021,2,South,Women's,Apparel,560,10332,35.6
+2141,Oklahoma,2021,2,South,Women's,Athletic Footwear,282,5301,35.6
+2142,Oklahoma,2021,2,South,Women's,Street Footwear,465,6540,35.6
+2143,Oklahoma,2021,3,South,Men's,Apparel,285,9377,42.6
+2144,Oklahoma,2021,3,South,Men's,Athletic Footwear,401,7557,42.6
+2145,Oklahoma,2021,3,South,Men's,Street Footwear,906,16874,42.6
+2146,Oklahoma,2021,3,South,Women's,Apparel,432,10046,42.6
+2147,Oklahoma,2021,3,South,Women's,Athletic Footwear,198,3803,42.6
+2148,Oklahoma,2021,3,South,Women's,Street Footwear,438,4051,42.6
+2149,Oklahoma,2021,4,South,Men's,Apparel,282,10472,55.7
+2150,Oklahoma,2021,4,South,Men's,Athletic Footwear,369,8542,55.7
+2151,Oklahoma,2021,4,South,Men's,Street Footwear,861,20453,55.7
+2152,Oklahoma,2021,4,South,Women's,Apparel,530,14824,55.7
+2153,Oklahoma,2021,4,South,Women's,Athletic Footwear,242,4514,55.7
+2154,Oklahoma,2021,4,South,Women's,Street Footwear,363,5027,55.7
+2155,Oklahoma,2021,5,South,Men's,Apparel,405,17114,61.7
+2156,Oklahoma,2021,5,South,Men's,Athletic Footwear,480,18090,61.7
+2157,Oklahoma,2021,5,South,Men's,Street Footwear,941,34824,61.7
+2158,Oklahoma,2021,5,South,Women's,Apparel,564,23693,61.7
+2159,Oklahoma,2021,5,South,Women's,Athletic Footwear,358,11805,61.7
+2160,Oklahoma,2021,5,South,Women's,Street Footwear,435,14449,61.7
+2161,Oklahoma,2021,6,South,Men's,Apparel,492,25241,71.6
+2162,Oklahoma,2021,6,South,Men's,Athletic Footwear,561,18229,71.6
+2163,Oklahoma,2021,6,South,Men's,Street Footwear,948,36072,71.6
+2164,Oklahoma,2021,6,South,Women's,Apparel,742,41040,71.6
+2165,Oklahoma,2021,6,South,Women's,Athletic Footwear,489,18264,71.6
+2166,Oklahoma,2021,6,South,Women's,Street Footwear,520,19057,71.6
+2167,Oklahoma,2021,7,South,Men's,Apparel,564,31770,78.6
+2168,Oklahoma,2021,7,South,Men's,Athletic Footwear,702,32490,78.6
+2169,Oklahoma,2021,7,South,Men's,Street Footwear,1120,57833,78.6
+2170,Oklahoma,2021,7,South,Women's,Apparel,830,50122,78.6
+2171,Oklahoma,2021,7,South,Women's,Athletic Footwear,517,21962,78.6
+2172,Oklahoma,2021,7,South,Women's,Street Footwear,600,25334,78.6
+2173,Oklahoma,2021,8,South,Men's,Apparel,486,23007,80.6
+2174,Oklahoma,2021,8,South,Men's,Athletic Footwear,703,35693,80.6
+2175,Oklahoma,2021,8,South,Men's,Street Footwear,1094,60514,80.6
+2176,Oklahoma,2021,8,South,Women's,Apparel,765,38965,80.6
+2177,Oklahoma,2021,8,South,Women's,Athletic Footwear,524,19808,80.6
+2178,Oklahoma,2021,8,South,Women's,Street Footwear,601,28355,80.6
+2179,Oklahoma,2021,9,South,Men's,Apparel,396,9374,79.0
+2180,Oklahoma,2021,9,South,Men's,Athletic Footwear,601,22308,79.0
+2181,Oklahoma,2021,9,South,Men's,Street Footwear,921,42960,79.0
+2182,Oklahoma,2021,9,South,Women's,Apparel,560,15785,79.0
+2183,Oklahoma,2021,9,South,Women's,Athletic Footwear,396,5628,79.0
+2184,Oklahoma,2021,9,South,Women's,Street Footwear,435,6183,79.0
+2185,Oklahoma,2021,10,South,Men's,Apparel,318,8946,70.6
+2186,Oklahoma,2021,10,South,Men's,Athletic Footwear,550,10240,70.6
+2187,Oklahoma,2021,10,South,Men's,Street Footwear,835,23183,70.6
+2188,Oklahoma,2021,10,South,Women's,Apparel,517,14611,70.6
+2189,Oklahoma,2021,10,South,Women's,Athletic Footwear,314,5866,70.6
+2190,Oklahoma,2021,10,South,Women's,Street Footwear,355,6656,70.6
+2191,Oklahoma,2021,11,South,Men's,Apparel,437,31192,57.8
+2192,Oklahoma,2021,11,South,Men's,Athletic Footwear,474,6648,57.8
+2193,Oklahoma,2021,11,South,Men's,Street Footwear,774,17590,57.8
+2194,Oklahoma,2021,11,South,Women's,Apparel,608,43365,57.8
+2195,Oklahoma,2021,11,South,Women's,Athletic Footwear,465,23730,57.8
+2196,Oklahoma,2021,11,South,Women's,Street Footwear,400,9366,57.8
+2197,Oklahoma,2021,12,South,Men's,Apparel,504,33729,50.8
+2198,Oklahoma,2021,12,South,Men's,Athletic Footwear,693,39405,50.8
+2199,Oklahoma,2021,12,South,Men's,Street Footwear,994,65566,50.8
+2200,Oklahoma,2021,12,South,Women's,Apparel,676,46767,50.8
+2201,Oklahoma,2021,12,South,Women's,Athletic Footwear,533,29706,50.8
+2202,Oklahoma,2021,12,South,Women's,Street Footwear,607,33819,50.8
+2203,Oregon,2021,1,West,Men's,Apparel,326,14912,34.5
+2204,Oregon,2021,1,West,Men's,Athletic Footwear,624,26044,34.5
+2205,Oregon,2021,1,West,Men's,Street Footwear,620,20660,34.5
+2206,Oregon,2021,1,West,Women's,Apparel,712,30012,34.5
+2207,Oregon,2021,1,West,Women's,Athletic Footwear,396,16690,34.5
+2208,Oregon,2021,1,West,Women's,Street Footwear,640,27040,34.5
+2209,Oregon,2021,2,West,Men's,Apparel,206,8597,34.2
+2210,Oregon,2021,2,West,Men's,Athletic Footwear,640,26600,34.2
+2211,Oregon,2021,2,West,Men's,Street Footwear,815,26320,34.2
+2212,Oregon,2021,2,West,Women's,Apparel,508,18889,34.2
+2213,Oregon,2021,2,West,Women's,Athletic Footwear,322,12118,34.2
+2214,Oregon,2021,2,West,Women's,Street Footwear,652,27408,34.2
+2215,Oregon,2021,3,West,Men's,Apparel,156,8194,36.2
+2216,Oregon,2021,3,West,Men's,Athletic Footwear,508,23995,36.2
+2217,Oregon,2021,3,West,Men's,Street Footwear,746,27868,36.2
+2218,Oregon,2021,3,West,Women's,Apparel,477,22863,36.2
+2219,Oregon,2021,3,West,Women's,Athletic Footwear,390,18610,36.2
+2220,Oregon,2021,3,West,Women's,Street Footwear,550,28593,36.2
+2221,Oregon,2021,4,West,Men's,Apparel,200,9382,42.7
+2222,Oregon,2021,4,West,Men's,Athletic Footwear,446,24414,42.7
+2223,Oregon,2021,4,West,Men's,Street Footwear,765,39753,42.7
+2224,Oregon,2021,4,West,Women's,Apparel,474,28866,42.7
+2225,Oregon,2021,4,West,Women's,Athletic Footwear,358,15088,42.7
+2226,Oregon,2021,4,West,Women's,Street Footwear,524,29533,42.7
+2227,Oregon,2021,5,West,Men's,Apparel,277,11592,49.2
+2228,Oregon,2021,5,West,Men's,Athletic Footwear,564,28424,49.2
+2229,Oregon,2021,5,West,Men's,Street Footwear,800,38005,49.2
+2230,Oregon,2021,5,West,Women's,Apparel,856,47990,49.2
+2231,Oregon,2021,5,West,Women's,Athletic Footwear,452,20919,49.2
+2232,Oregon,2021,5,West,Women's,Street Footwear,564,28641,49.2
+2233,Oregon,2021,6,West,Men's,Apparel,648,54668,58.6
+2234,Oregon,2021,6,West,Men's,Athletic Footwear,1021,62221,58.6
+2235,Oregon,2021,6,West,Men's,Street Footwear,1240,64419,58.6
+2236,Oregon,2021,6,West,Women's,Apparel,1120,108549,58.6
+2237,Oregon,2021,6,West,Women's,Athletic Footwear,862,64790,58.6
+2238,Oregon,2021,6,West,Women's,Street Footwear,1047,77766,58.6
+2239,Oregon,2021,7,West,Men's,Apparel,954,80568,68.3
+2240,Oregon,2021,7,West,Men's,Athletic Footwear,1113,93982,68.3
+2241,Oregon,2021,7,West,Men's,Street Footwear,1403,110275,68.3
+2242,Oregon,2021,7,West,Women's,Apparel,954,93462,68.3
+2243,Oregon,2021,7,West,Women's,Athletic Footwear,886,70711,68.3
+2244,Oregon,2021,7,West,Women's,Street Footwear,1034,87104,68.3
+2245,Oregon,2021,8,West,Men's,Apparel,689,45278,68.9
+2246,Oregon,2021,8,West,Men's,Athletic Footwear,1264,95580,68.9
+2247,Oregon,2021,8,West,Men's,Street Footwear,1256,105864,68.9
+2248,Oregon,2021,8,West,Women's,Apparel,411,28451,68.9
+2249,Oregon,2021,8,West,Women's,Athletic Footwear,672,44242,68.9
+2250,Oregon,2021,8,West,Women's,Street Footwear,1060,69510,68.9
+2251,Oregon,2021,9,West,Men's,Apparel,361,20618,62.9
+2252,Oregon,2021,9,West,Men's,Athletic Footwear,730,37766,62.9
+2253,Oregon,2021,9,West,Men's,Street Footwear,721,33178,62.9
+2254,Oregon,2021,9,West,Women's,Apparel,408,17302,62.9
+2255,Oregon,2021,9,West,Women's,Athletic Footwear,314,14904,62.9
+2256,Oregon,2021,9,West,Women's,Street Footwear,408,19412,62.9
+2257,Oregon,2021,10,West,Men's,Apparel,468,24045,53.5
+2258,Oregon,2021,10,West,Men's,Athletic Footwear,846,42598,53.5
+2259,Oregon,2021,10,West,Men's,Street Footwear,571,21327,53.5
+2260,Oregon,2021,10,West,Women's,Apparel,578,32133,53.5
+2261,Oregon,2021,10,West,Women's,Athletic Footwear,520,22065,53.5
+2262,Oregon,2021,10,West,Women's,Street Footwear,550,25719,53.5
+2263,Oregon,2021,11,West,Men's,Apparel,681,46673,44.8
+2264,Oregon,2021,11,West,Men's,Athletic Footwear,1047,49334,44.8
+2265,Oregon,2021,11,West,Men's,Street Footwear,938,39947,44.8
+2266,Oregon,2021,11,West,Women's,Apparel,864,64069,44.8
+2267,Oregon,2021,11,West,Women's,Athletic Footwear,730,37242,44.8
+2268,Oregon,2021,11,West,Women's,Street Footwear,755,31615,44.8
+2269,Oregon,2021,12,West,Men's,Apparel,765,56054,37.2
+2270,Oregon,2021,12,West,Men's,Athletic Footwear,1201,84994,37.2
+2271,Oregon,2021,12,West,Men's,Street Footwear,1163,71693,37.2
+2272,Oregon,2021,12,West,Women's,Apparel,949,73251,37.2
+2273,Oregon,2021,12,West,Women's,Athletic Footwear,858,56826,37.2
+2274,Oregon,2021,12,West,Women's,Street Footwear,908,58819,37.2
+2280,Pennsylvania,2021,10,Northeast,Men's,Apparel,202,10540,61.0
+2281,Pennsylvania,2021,10,Northeast,Men's,Athletic Footwear,204,8573,61.0
+2282,Pennsylvania,2021,10,Northeast,Men's,Street Footwear,760,31685,61.0
+2283,Pennsylvania,2021,10,Northeast,Women's,Apparel,356,14988,61.0
+2284,Pennsylvania,2021,10,Northeast,Women's,Athletic Footwear,80,2983,61.0
+2285,Pennsylvania,2021,10,Northeast,Women's,Street Footwear,275,9039,61.0
+2286,Pennsylvania,2021,11,Northeast,Men's,Apparel,881,50251,48.4
+2287,Pennsylvania,2021,11,Northeast,Men's,Athletic Footwear,1663,87989,48.4
+2288,Pennsylvania,2021,11,Northeast,Men's,Street Footwear,3814,209159,48.4
+2289,Pennsylvania,2021,11,Northeast,Women's,Apparel,1842,100796,48.4
+2290,Pennsylvania,2021,11,Northeast,Women's,Athletic Footwear,840,41821,48.4
+2291,Pennsylvania,2021,11,Northeast,Women's,Street Footwear,1397,64448,48.4
+2292,Pennsylvania,2021,12,Northeast,Men's,Apparel,1476,89080,38.4
+2293,Pennsylvania,2021,12,Northeast,Men's,Athletic Footwear,2036,106873,38.4
+2294,Pennsylvania,2021,12,Northeast,Men's,Street Footwear,3624,224272,38.4
+2295,Pennsylvania,2021,12,Northeast,Women's,Apparel,2274,144428,38.4
+2296,Pennsylvania,2021,12,Northeast,Women's,Athletic Footwear,1324,67421,38.4
+2297,Pennsylvania,2021,12,Northeast,Women's,Street Footwear,1557,79345,38.4
+2298,Rhode Island,2021,1,Northeast,Men's,Apparel,238,11301,33.6
+2299,Rhode Island,2021,1,Northeast,Men's,Athletic Footwear,406,15048,33.6
+2300,Rhode Island,2021,1,Northeast,Men's,Street Footwear,716,26708,33.6
+2301,Rhode Island,2021,1,Northeast,Women's,Apparel,403,14818,33.6
+2302,Rhode Island,2021,1,Northeast,Women's,Athletic Footwear,159,5209,33.6
+2303,Rhode Island,2021,1,Northeast,Women's,Street Footwear,398,11121,33.6
+2304,Rhode Island,2021,2,Northeast,Men's,Apparel,200,8420,31.2
+2305,Rhode Island,2021,2,Northeast,Men's,Athletic Footwear,244,9201,31.2
+2306,Rhode Island,2021,2,Northeast,Men's,Street Footwear,795,29070,31.2
+2307,Rhode Island,2021,2,Northeast,Women's,Apparel,367,12099,31.2
+2308,Rhode Island,2021,2,Northeast,Women's,Athletic Footwear,79,2197,31.2
+2309,Rhode Island,2021,2,Northeast,Women's,Street Footwear,330,9420,31.2
+2310,Rhode Island,2021,3,Northeast,Men's,Apparel,120,5080,35.6
+2311,Rhode Island,2021,3,Northeast,Men's,Athletic Footwear,239,7961,35.6
+2312,Rhode Island,2021,3,Northeast,Men's,Street Footwear,712,23405,35.6
+2313,Rhode Island,2021,3,Northeast,Women's,Apparel,284,9207,35.6
+2314,Rhode Island,2021,3,Northeast,Women's,Athletic Footwear,41,1142,35.6
+2315,Rhode Island,2021,3,Northeast,Women's,Street Footwear,282,6500,35.6
+2316,Rhode Island,2021,4,Northeast,Men's,Apparel,80,3405,44.6
+2317,Rhode Island,2021,4,Northeast,Men's,Athletic Footwear,198,6351,44.6
+2318,Rhode Island,2021,4,Northeast,Men's,Street Footwear,668,22123,44.6
+2319,Rhode Island,2021,4,Northeast,Women's,Apparel,310,10210,44.6
+2320,Rhode Island,2021,4,Northeast,Women's,Athletic Footwear,80,2234,44.6
+2321,Rhode Island,2021,4,Northeast,Women's,Street Footwear,205,4693,44.6
+2322,Rhode Island,2021,5,Northeast,Men's,Apparel,275,13163,53.6
+2323,Rhode Island,2021,5,Northeast,Men's,Athletic Footwear,282,11838,53.6
+2324,Rhode Island,2021,5,Northeast,Men's,Street Footwear,742,35327,53.6
+2325,Rhode Island,2021,5,Northeast,Women's,Apparel,474,24059,53.6
+2326,Rhode Island,2021,5,Northeast,Women's,Athletic Footwear,245,9093,53.6
+2327,Rhode Island,2021,5,Northeast,Women's,Street Footwear,320,12260,53.6
+2328,Rhode Island,2021,6,Northeast,Men's,Apparel,324,15357,64.0
+2329,Rhode Island,2021,6,Northeast,Men's,Athletic Footwear,495,20865,64.0
+2330,Rhode Island,2021,6,Northeast,Men's,Street Footwear,864,40321,64.0
+2331,Rhode Island,2021,6,Northeast,Women's,Apparel,557,28854,64.0
+2332,Rhode Island,2021,6,Northeast,Women's,Athletic Footwear,330,12160,64.0
+2333,Rhode Island,2021,6,Northeast,Women's,Street Footwear,364,13903,64.0
+2334,Rhode Island,2021,7,Northeast,Men's,Apparel,356,16454,70.6
+2335,Rhode Island,2021,7,Northeast,Men's,Athletic Footwear,520,21594,70.6
+2336,Rhode Island,2021,7,Northeast,Men's,Street Footwear,915,43005,70.6
+2337,Rhode Island,2021,7,Northeast,Women's,Apparel,652,32967,70.6
+2338,Rhode Island,2021,7,Northeast,Women's,Athletic Footwear,318,12006,70.6
+2339,Rhode Island,2021,7,Northeast,Women's,Street Footwear,393,14511,70.6
+2340,Rhode Island,2021,8,Northeast,Men's,Apparel,196,9124,72.5
+2341,Rhode Island,2021,8,Northeast,Men's,Athletic Footwear,527,21888,72.5
+2342,Rhode Island,2021,8,Northeast,Men's,Street Footwear,875,40993,72.5
+2343,Rhode Island,2021,8,Northeast,Women's,Apparel,483,24671,72.5
+2344,Rhode Island,2021,8,Northeast,Women's,Athletic Footwear,236,8806,72.5
+2345,Rhode Island,2021,8,Northeast,Women's,Street Footwear,410,15400,72.5
+2346,Rhode Island,2021,9,Northeast,Men's,Apparel,160,7390,70.1
+2347,Rhode Island,2021,9,Northeast,Men's,Athletic Footwear,360,14903,70.1
+2348,Rhode Island,2021,9,Northeast,Men's,Street Footwear,664,31236,70.1
+2349,Rhode Island,2021,9,Northeast,Women's,Apparel,322,16639,70.1
+2350,Rhode Island,2021,9,Northeast,Women's,Athletic Footwear,159,6013,70.1
+2351,Rhode Island,2021,9,Northeast,Women's,Street Footwear,202,7499,70.1
+2352,Rhode Island,2021,10,Northeast,Men's,Apparel,117,6465,62.6
+2353,Rhode Island,2021,10,Northeast,Men's,Athletic Footwear,324,15160,62.6
+2354,Rhode Island,2021,10,Northeast,Men's,Street Footwear,582,29787,62.6
+2355,Rhode Island,2021,10,Northeast,Women's,Apparel,324,19813,62.6
+2356,Rhode Island,2021,10,Northeast,Women's,Athletic Footwear,121,5728,62.6
+2357,Rhode Island,2021,10,Northeast,Women's,Street Footwear,159,7505,62.6
+2358,Rhode Island,2021,11,Northeast,Men's,Apparel,280,15675,50.8
+2359,Rhode Island,2021,11,Northeast,Men's,Athletic Footwear,362,17108,50.8
+2360,Rhode Island,2021,11,Northeast,Men's,Street Footwear,550,30425,50.8
+2361,Rhode Island,2021,11,Northeast,Women's,Apparel,435,26312,50.8
+2362,Rhode Island,2021,11,Northeast,Women's,Athletic Footwear,326,15232,50.8
+2363,Rhode Island,2021,11,Northeast,Women's,Street Footwear,352,16588,50.8
+2364,Rhode Island,2021,12,Northeast,Men's,Apparel,367,20342,40.8
+2365,Rhode Island,2021,12,Northeast,Men's,Athletic Footwear,480,22284,40.8
+2366,Rhode Island,2021,12,Northeast,Men's,Street Footwear,795,44970,40.8
+2367,Rhode Island,2021,12,Northeast,Women's,Apparel,521,31885,40.8
+2368,Rhode Island,2021,12,Northeast,Women's,Athletic Footwear,367,16988,40.8
+2369,Rhode Island,2021,12,Northeast,Women's,Street Footwear,437,20748,40.8
+2370,South Carolina,2021,1,Southeast,Men's,Apparel,781,34677,45.8
+2371,South Carolina,2021,1,Southeast,Men's,Athletic Footwear,906,31529,45.8
+2372,South Carolina,2021,1,Southeast,Men's,Street Footwear,1156,39998,45.8
+2373,South Carolina,2021,1,Southeast,Women's,Apparel,921,32039,45.8
+2374,South Carolina,2021,1,Southeast,Women's,Athletic Footwear,748,22267,45.8
+2375,South Carolina,2021,1,Southeast,Women's,Street Footwear,914,22661,45.8
+2376,South Carolina,2021,2,Southeast,Men's,Apparel,889,44261,46.5
+2377,South Carolina,2021,2,Southeast,Men's,Athletic Footwear,813,28267,46.5
+2378,South Carolina,2021,2,Southeast,Men's,Street Footwear,1238,43067,46.5
+2379,South Carolina,2021,2,Southeast,Women's,Apparel,1016,35344,46.5
+2380,South Carolina,2021,2,Southeast,Women's,Athletic Footwear,794,27452,46.5
+2381,South Carolina,2021,2,Southeast,Women's,Street Footwear,844,20762,46.5
+2382,South Carolina,2021,3,Southeast,Men's,Apparel,806,35546,52.4
+2383,South Carolina,2021,3,Southeast,Men's,Athletic Footwear,910,31220,52.4
+2384,South Carolina,2021,3,Southeast,Men's,Street Footwear,1285,44445,52.4
+2385,South Carolina,2021,3,Southeast,Women's,Apparel,914,31423,52.4
+2386,South Carolina,2021,3,Southeast,Women's,Athletic Footwear,719,21137,52.4
+2387,South Carolina,2021,3,Southeast,Women's,Street Footwear,906,22469,52.4
+2388,South Carolina,2021,4,Southeast,Men's,Apparel,813,40086,59.8
+2389,South Carolina,2021,4,Southeast,Men's,Athletic Footwear,857,29813,59.8
+2390,South Carolina,2021,4,Southeast,Men's,Street Footwear,1258,43464,59.8
+2391,South Carolina,2021,4,Southeast,Women's,Apparel,984,39151,59.8
+2392,South Carolina,2021,4,Southeast,Women's,Athletic Footwear,780,22859,59.8
+2393,South Carolina,2021,4,Southeast,Women's,Street Footwear,857,21243,59.8
+2394,South Carolina,2021,5,Southeast,Men's,Apparel,896,48887,65.4
+2395,South Carolina,2021,5,Southeast,Men's,Athletic Footwear,938,45960,65.4
+2396,South Carolina,2021,5,Southeast,Men's,Street Footwear,1327,65786,65.4
+2397,South Carolina,2021,5,Southeast,Women's,Apparel,1000,59800,65.4
+2398,South Carolina,2021,5,Southeast,Women's,Athletic Footwear,857,38201,65.4
+2399,South Carolina,2021,5,Southeast,Women's,Street Footwear,935,41235,65.4
+2400,South Carolina,2021,6,Southeast,Men's,Apparel,945,60840,72.8
+2401,South Carolina,2021,6,Southeast,Men's,Athletic Footwear,1000,49800,72.8
+2402,South Carolina,2021,6,Southeast,Men's,Street Footwear,1323,71672,72.8
+2403,South Carolina,2021,6,Southeast,Women's,Apparel,1175,81000,72.8
+2404,South Carolina,2021,6,Southeast,Women's,Athletic Footwear,968,47746,72.8
+2405,South Carolina,2021,6,Southeast,Women's,Street Footwear,984,48573,72.8
+2406,South Carolina,2021,7,Southeast,Men's,Apparel,1040,67360,78.0
+2407,South Carolina,2021,7,Southeast,Men's,Athletic Footwear,1170,69660,78.0
+2408,South Carolina,2021,7,Southeast,Men's,Street Footwear,1461,94343,78.0
+2409,South Carolina,2021,7,Southeast,Women's,Apparel,1219,84354,78.0
+2410,South Carolina,2021,7,Southeast,Women's,Athletic Footwear,977,53129,78.0
+2411,South Carolina,2021,7,Southeast,Women's,Street Footwear,1073,58023,78.0
+2412,South Carolina,2021,8,Southeast,Men's,Apparel,975,52725,79.6
+2413,South Carolina,2021,8,Southeast,Men's,Athletic Footwear,1143,67122,79.6
+2414,South Carolina,2021,8,Southeast,Men's,Street Footwear,1451,93337,79.6
+2415,South Carolina,2021,8,Southeast,Women's,Apparel,1203,71624,79.6
+2416,South Carolina,2021,8,Southeast,Women's,Athletic Footwear,1008,45127,79.6
+2417,South Carolina,2021,8,Southeast,Women's,Street Footwear,1056,56925,79.6
+2418,South Carolina,2021,9,Southeast,Men's,Apparel,875,43400,76.7
+2419,South Carolina,2021,9,Southeast,Men's,Athletic Footwear,1048,51954,76.7
+2420,South Carolina,2021,9,Southeast,Men's,Street Footwear,1312,71012,76.7
+2421,South Carolina,2021,9,Southeast,Women's,Apparel,1032,56064,76.7
+2422,South Carolina,2021,9,Southeast,Women's,Athletic Footwear,910,36190,76.7
+2423,South Carolina,2021,9,Southeast,Women's,Street Footwear,921,36448,76.7
+2424,South Carolina,2021,10,Southeast,Men's,Apparel,839,45578,70.0
+2425,South Carolina,2021,10,Southeast,Men's,Athletic Footwear,1008,44736,70.0
+2426,South Carolina,2021,10,Southeast,Men's,Street Footwear,1219,65825,70.0
+2427,South Carolina,2021,10,Southeast,Women's,Apparel,1000,59100,70.0
+2428,South Carolina,2021,10,Southeast,Women's,Athletic Footwear,826,36466,70.0
+2429,South Carolina,2021,10,Southeast,Women's,Street Footwear,851,37591,70.0
+2430,South Carolina,2021,11,Southeast,Men's,Apparel,921,63686,59.1
+2431,South Carolina,2021,11,Southeast,Men's,Athletic Footwear,938,42022,59.1
+2432,South Carolina,2021,11,Southeast,Men's,Street Footwear,1203,64775,59.1
+2433,South Carolina,2021,11,Southeast,Women's,Apparel,1031,77119,59.1
+2434,South Carolina,2021,11,Southeast,Women's,Athletic Footwear,975,53175,59.1
+2435,South Carolina,2021,11,Southeast,Women's,Street Footwear,897,39961,59.1
+2436,South Carolina,2021,12,Southeast,Men's,Apparel,1000,69100,53.1
+2437,South Carolina,2021,12,Southeast,Men's,Athletic Footwear,1094,65202,53.1
+2438,South Carolina,2021,12,Southeast,Men's,Street Footwear,1365,94680,53.1
+2439,South Carolina,2021,12,Southeast,Women's,Apparel,1103,81129,53.1
+2440,South Carolina,2021,12,Southeast,Women's,Athletic Footwear,969,57946,53.1
+2441,South Carolina,2021,12,Southeast,Women's,Street Footwear,1040,61540,53.1
+2442,South Dakota,2021,1,Midwest,Men's,Apparel,224,9981,27.4
+2443,South Dakota,2021,1,Midwest,Men's,Athletic Footwear,349,11993,27.4
+2444,South Dakota,2021,1,Midwest,Men's,Street Footwear,603,20849,27.4
+2445,South Dakota,2021,1,Midwest,Women's,Apparel,347,12001,27.4
+2446,South Dakota,2021,1,Midwest,Women's,Athletic Footwear,158,4674,27.4
+2447,South Dakota,2021,1,Midwest,Women's,Street Footwear,349,8725,27.4
+2448,South Dakota,2021,2,Midwest,Men's,Apparel,221,10957,19.6
+2449,South Dakota,2021,2,Midwest,Men's,Athletic Footwear,226,7859,19.6
+2450,South Dakota,2021,2,Midwest,Men's,Street Footwear,677,23543,19.6
+2451,South Dakota,2021,2,Midwest,Women's,Apparel,355,12185,19.6
+2452,South Dakota,2021,2,Midwest,Women's,Athletic Footwear,125,4325,19.6
+2453,South Dakota,2021,2,Midwest,Women's,Street Footwear,293,7257,19.6
+2454,South Dakota,2021,3,Midwest,Men's,Apparel,156,7707,26.1
+2455,South Dakota,2021,3,Midwest,Men's,Athletic Footwear,250,9850,26.1
+2456,South Dakota,2021,3,Midwest,Men's,Street Footwear,619,24636,26.1
+2457,South Dakota,2021,3,Midwest,Women's,Apparel,284,11183,26.1
+2458,South Dakota,2021,3,Midwest,Women's,Athletic Footwear,98,3384,26.1
+2459,South Dakota,2021,3,Midwest,Women's,Street Footwear,284,8343,26.1
+2460,South Dakota,2021,4,Midwest,Men's,Apparel,129,7624,41.5
+2461,South Dakota,2021,4,Midwest,Men's,Athletic Footwear,192,7638,41.5
+2462,South Dakota,2021,4,Midwest,Men's,Street Footwear,563,22294,41.5
+2463,South Dakota,2021,4,Midwest,Women's,Apparel,286,14178,41.5
+2464,South Dakota,2021,4,Midwest,Women's,Athletic Footwear,95,3305,41.5
+2465,South Dakota,2021,4,Midwest,Women's,Street Footwear,195,5805,41.5
+2466,South Dakota,2021,5,Midwest,Men's,Apparel,163,8812,49.2
+2467,South Dakota,2021,5,Midwest,Men's,Athletic Footwear,260,12700,49.2
+2468,South Dakota,2021,5,Midwest,Men's,Street Footwear,634,37762,49.2
+2469,South Dakota,2021,5,Midwest,Women's,Apparel,318,18944,49.2
+2470,South Dakota,2021,5,Midwest,Women's,Athletic Footwear,126,5618,49.2
+2471,South Dakota,2021,5,Midwest,Women's,Street Footwear,221,9853,49.2
+2472,South Dakota,2021,6,Midwest,Men's,Apparel,226,9966,63.6
+2473,South Dakota,2021,6,Midwest,Men's,Athletic Footwear,320,12730,63.6
+2474,South Dakota,2021,6,Midwest,Men's,Street Footwear,635,28035,63.6
+2475,South Dakota,2021,6,Midwest,Women's,Apparel,419,22575,63.6
+2476,South Dakota,2021,6,Midwest,Women's,Athletic Footwear,224,7693,63.6
+2477,South Dakota,2021,6,Midwest,Women's,Street Footwear,254,8728,63.6
+2478,South Dakota,2021,7,Midwest,Men's,Apparel,252,12548,73.8
+2479,South Dakota,2021,7,Midwest,Men's,Athletic Footwear,381,17064,73.8
+2480,South Dakota,2021,7,Midwest,Men's,Street Footwear,704,34738,73.8
+2481,South Dakota,2021,7,Midwest,Women's,Apparel,469,25607,73.8
+2482,South Dakota,2021,7,Midwest,Women's,Athletic Footwear,219,8672,73.8
+2483,South Dakota,2021,7,Midwest,Women's,Street Footwear,286,11257,73.8
+2484,South Dakota,2021,8,Midwest,Men's,Apparel,221,10912,73.9
+2485,South Dakota,2021,8,Midwest,Men's,Athletic Footwear,378,16776,73.9
+2486,South Dakota,2021,8,Midwest,Men's,Street Footwear,656,32669,73.9
+2487,South Dakota,2021,8,Midwest,Women's,Apparel,438,23914,73.9
+2488,South Dakota,2021,8,Midwest,Women's,Athletic Footwear,258,10204,73.9
+2489,South Dakota,2021,8,Midwest,Women's,Street Footwear,290,11340,73.9
+2490,South Dakota,2021,9,Midwest,Men's,Apparel,192,8472,68.8
+2491,South Dakota,2021,9,Midwest,Men's,Athletic Footwear,355,14120,68.8
+2492,South Dakota,2021,9,Midwest,Men's,Street Footwear,613,27171,68.8
+2493,South Dakota,2021,9,Midwest,Women's,Apparel,290,14240,68.8
+2494,South Dakota,2021,9,Midwest,Women's,Athletic Footwear,189,6576,68.8
+2495,South Dakota,2021,9,Midwest,Women's,Street Footwear,228,7821,68.8
+2496,South Dakota,2021,10,Midwest,Men's,Apparel,163,8926,58.0
+2497,South Dakota,2021,10,Midwest,Men's,Athletic Footwear,325,14325,58.0
+2498,South Dakota,2021,10,Midwest,Men's,Street Footwear,504,27615,58.0
+2499,South Dakota,2021,10,Midwest,Women's,Apparel,320,18849,58.0
+2500,South Dakota,2021,10,Midwest,Women's,Athletic Footwear,161,7173,58.0
+2501,South Dakota,2021,10,Midwest,Women's,Street Footwear,192,8556,58.0
+2502,South Dakota,2021,11,Midwest,Men's,Apparel,195,11655,44.7
+2503,South Dakota,2021,11,Midwest,Men's,Athletic Footwear,313,13833,44.7
+2504,South Dakota,2021,11,Midwest,Men's,Street Footwear,504,27511,44.7
+2505,South Dakota,2021,11,Midwest,Women's,Apparel,315,20214,44.7
+2506,South Dakota,2021,11,Midwest,Women's,Athletic Footwear,219,9767,44.7
+2507,South Dakota,2021,11,Midwest,Women's,Street Footwear,252,11226,44.7
+2508,South Dakota,2021,12,Midwest,Men's,Apparel,250,14800,31.4
+2509,South Dakota,2021,12,Midwest,Men's,Athletic Footwear,375,18375,31.4
+2510,South Dakota,2021,12,Midwest,Men's,Street Footwear,640,38120,31.4
+2511,South Dakota,2021,12,Midwest,Women's,Apparel,375,24299,31.4
+2512,South Dakota,2021,12,Midwest,Women's,Athletic Footwear,250,12250,31.4
+2513,South Dakota,2021,12,Midwest,Women's,Street Footwear,323,15785,31.4
+2514,Tennessee,2021,3,South,Men's,Apparel,1452,54259,45.5
+2515,Tennessee,2021,3,South,Men's,Athletic Footwear,3087,95511,45.5
+2516,Tennessee,2021,3,South,Men's,Street Footwear,3128,72315,45.5
+2517,Tennessee,2021,3,South,Women's,Apparel,2227,72753,45.5
+2518,Tennessee,2021,3,South,Women's,Athletic Footwear,1876,55842,45.5
+2519,Tennessee,2021,3,South,Women's,Street Footwear,2282,59362,45.5
+2520,Tennessee,2021,4,South,Men's,Apparel,3595,147637,54.9
+2521,Tennessee,2021,4,South,Men's,Athletic Footwear,6006,246859,54.9
+2522,Tennessee,2021,4,South,Men's,Street Footwear,6028,213305,54.9
+2523,Tennessee,2021,4,South,Women's,Apparel,6055,261533,54.9
+2524,Tennessee,2021,4,South,Women's,Athletic Footwear,4156,159283,54.9
+2525,Tennessee,2021,4,South,Women's,Street Footwear,6174,241667,54.9
+2526,Tennessee,2021,5,South,Men's,Apparel,2690,125549,60.2
+2527,Tennessee,2021,5,South,Men's,Athletic Footwear,3645,137073,60.2
+2528,Tennessee,2021,5,South,Men's,Street Footwear,3955,149002,60.2
+2529,Tennessee,2021,5,South,Women's,Apparel,4063,210397,60.2
+2530,Tennessee,2021,5,South,Women's,Athletic Footwear,2361,113720,60.2
+2531,Tennessee,2021,5,South,Women's,Street Footwear,3297,151112,60.2
+2560,Texas,2021,8,South,Men's,Apparel,1527,56546,81.4
+2561,Texas,2021,8,South,Men's,Athletic Footwear,3193,104128,81.4
+2562,Texas,2021,8,South,Men's,Street Footwear,3254,75363,81.4
+2563,Texas,2021,8,South,Women's,Apparel,2368,77349,81.4
+2564,Texas,2021,8,South,Women's,Athletic Footwear,1345,44131,81.4
+2565,Texas,2021,8,South,Women's,Street Footwear,2393,67196,81.4
+2566,Texas,2021,9,South,Men's,Apparel,3797,176275,80.0
+2567,Texas,2021,9,South,Men's,Athletic Footwear,6119,276253,80.0
+2568,Texas,2021,9,South,Men's,Street Footwear,6164,246806,80.0
+2569,Texas,2021,9,South,Women's,Apparel,6297,302998,80.0
+2570,Texas,2021,9,South,Women's,Athletic Footwear,4310,166812,80.0
+2571,Texas,2021,9,South,Women's,Street Footwear,6354,273088,80.0
+2572,Texas,2021,10,South,Men's,Apparel,2988,153098,74.0
+2573,Texas,2021,10,South,Men's,Athletic Footwear,3839,168058,74.0
+2574,Texas,2021,10,South,Men's,Street Footwear,4118,184271,74.0
+2575,Texas,2021,10,South,Women's,Apparel,4391,248984,74.0
+2576,Texas,2021,10,South,Women's,Athletic Footwear,3252,176980,74.0
+2577,Texas,2021,10,South,Women's,Street Footwear,3469,184401,74.0
+2578,Utah,2021,1,West,Men's,Apparel,247,10453,27.6
+2579,Utah,2021,1,West,Men's,Athletic Footwear,578,21662,27.6
+2580,Utah,2021,1,West,Men's,Street Footwear,557,15762,27.6
+2581,Utah,2021,1,West,Women's,Apparel,640,23908,27.6
+2582,Utah,2021,1,West,Women's,Athletic Footwear,326,12302,27.6
+2583,Utah,2021,1,West,Women's,Street Footwear,560,21350,27.6
+2584,Utah,2021,2,West,Men's,Apparel,596,19717,30.2
+2585,Utah,2021,2,West,Men's,Athletic Footwear,564,21116,30.2
+2586,Utah,2021,2,West,Men's,Street Footwear,720,20259,30.2
+2587,Utah,2021,2,West,Women's,Apparel,730,17076,30.2
+2588,Utah,2021,2,West,Women's,Athletic Footwear,480,9141,30.2
+2589,Utah,2021,2,West,Women's,Street Footwear,561,20612,30.2
+2590,Utah,2021,3,West,Men's,Apparel,465,17370,35.3
+2591,Utah,2021,3,West,Men's,Athletic Footwear,557,15666,35.3
+2592,Utah,2021,3,West,Men's,Street Footwear,1066,29532,35.3
+2593,Utah,2021,3,West,Women's,Apparel,640,17840,35.3
+2594,Utah,2021,3,West,Women's,Athletic Footwear,398,9429,35.3
+2595,Utah,2021,3,West,Women's,Street Footwear,652,12256,35.3
+2596,Utah,2021,4,West,Men's,Apparel,437,14179,42.9
+2597,Utah,2021,4,West,Men's,Athletic Footwear,530,12695,42.9
+2598,Utah,2021,4,West,Men's,Street Footwear,1000,27517,42.9
+2599,Utah,2021,4,West,Women's,Apparel,648,15408,42.9
+2600,Utah,2021,4,West,Women's,Athletic Footwear,395,7310,42.9
+2601,Utah,2021,4,West,Women's,Street Footwear,530,7317,42.9
+2602,Utah,2021,5,West,Men's,Apparel,465,17535,52.3
+2603,Utah,2021,5,West,Men's,Athletic Footwear,604,16995,52.3
+2604,Utah,2021,5,West,Men's,Street Footwear,1072,35174,52.3
+2605,Utah,2021,5,West,Women's,Apparel,648,27375,52.3
+2606,Utah,2021,5,West,Women's,Athletic Footwear,441,10317,52.3
+2607,Utah,2021,5,West,Women's,Street Footwear,557,13271,52.3
+2608,Utah,2021,6,West,Men's,Apparel,640,20840,64.6
+2609,Utah,2021,6,West,Men's,Athletic Footwear,644,15064,64.6
+2610,Utah,2021,6,West,Men's,Street Footwear,1040,28964,64.6
+2611,Utah,2021,6,West,Women's,Apparel,915,34780,64.6
+2612,Utah,2021,6,West,Women's,Athletic Footwear,640,11768,64.6
+2613,Utah,2021,6,West,Women's,Street Footwear,668,12349,64.6
+2614,Utah,2021,7,West,Men's,Apparel,693,22891,74.0
+2615,Utah,2021,7,West,Men's,Athletic Footwear,892,24780,74.0
+2616,Utah,2021,7,West,Men's,Street Footwear,1272,42560,74.0
+2617,Utah,2021,7,West,Women's,Apparel,954,36228,74.0
+2618,Utah,2021,7,West,Women's,Athletic Footwear,668,15318,74.0
+2619,Utah,2021,7,West,Women's,Street Footwear,770,18170,74.0
+2620,Utah,2021,8,West,Men's,Apparel,564,16052,73.6
+2621,Utah,2021,8,West,Men's,Athletic Footwear,835,27841,73.6
+2622,Utah,2021,8,West,Men's,Street Footwear,1201,39645,73.6
+2623,Utah,2021,8,West,Women's,Apparel,861,28207,73.6
+2624,Utah,2021,8,West,Women's,Athletic Footwear,600,11155,73.6
+2625,Utah,2021,8,West,Women's,Street Footwear,721,20411,73.6
+2626,Utah,2021,9,West,Men's,Apparel,527,9996,67.8
+2627,Utah,2021,9,West,Men's,Athletic Footwear,730,17058,67.8
+2628,Utah,2021,9,West,Men's,Street Footwear,1047,29645,67.8
+2629,Utah,2021,9,West,Women's,Apparel,652,15256,67.8
+2630,Utah,2021,9,West,Women's,Athletic Footwear,524,4907,67.8
+2631,Utah,2021,9,West,Women's,Street Footwear,546,5054,67.8
+2632,Utah,2021,10,West,Men's,Apparel,443,12357,56.2
+2633,Utah,2021,10,West,Men's,Athletic Footwear,632,11748,56.2
+2634,Utah,2021,10,West,Men's,Street Footwear,949,26918,56.2
+2635,Utah,2021,10,West,Women's,Apparel,644,20827,56.2
+2636,Utah,2021,10,West,Women's,Athletic Footwear,441,8090,56.2
+2637,Utah,2021,10,West,Women's,Street Footwear,477,8823,56.2
+2638,Utah,2021,11,West,Men's,Apparel,564,20993,45.2
+2639,Utah,2021,11,West,Men's,Athletic Footwear,644,12064,45.2
+2640,Utah,2021,11,West,Men's,Street Footwear,864,24451,45.2
+2641,Utah,2021,11,West,Women's,Apparel,721,30638,45.2
+2642,Utah,2021,11,West,Women's,Athletic Footwear,612,11507,45.2
+2643,Utah,2021,11,West,Women's,Street Footwear,545,10165,45.2
+2644,Utah,2021,12,West,Men's,Apparel,636,23604,36.8
+2645,Utah,2021,12,West,Men's,Athletic Footwear,815,22800,36.8
+2646,Utah,2021,12,West,Men's,Street Footwear,1134,42616,36.8
+2647,Utah,2021,12,West,Women's,Apparel,795,32679,36.8
+2648,Utah,2021,12,West,Women's,Athletic Footwear,648,18016,36.8
+2649,Utah,2021,12,West,Women's,Street Footwear,716,19837,36.8
+2650,Vermont,2021,1,Northeast,Men's,Apparel,355,19986,23.8
+2651,Vermont,2021,1,Northeast,Men's,Athletic Footwear,527,24674,23.8
+2652,Vermont,2021,1,Northeast,Men's,Street Footwear,829,38551,23.8
+2653,Vermont,2021,1,Northeast,Women's,Apparel,514,24097,23.8
+2654,Vermont,2021,1,Northeast,Women's,Athletic Footwear,281,12012,23.8
+2655,Vermont,2021,1,Northeast,Women's,Street Footwear,507,18906,23.8
+2656,Vermont,2021,2,Northeast,Men's,Apparel,356,18225,19.6
+2657,Vermont,2021,2,Northeast,Men's,Athletic Footwear,410,19020,19.6
+2658,Vermont,2021,2,Northeast,Men's,Street Footwear,966,45144,19.6
+2659,Vermont,2021,2,Northeast,Women's,Apparel,517,22025,19.6
+2660,Vermont,2021,2,Northeast,Women's,Athletic Footwear,243,9060,19.6
+2661,Vermont,2021,2,Northeast,Women's,Street Footwear,486,18486,19.6
+2662,Vermont,2021,3,Northeast,Men's,Apparel,278,14038,24.8
+2663,Vermont,2021,3,Northeast,Men's,Athletic Footwear,400,17070,24.8
+2664,Vermont,2021,3,Northeast,Men's,Street Footwear,872,37248,24.8
+2665,Vermont,2021,3,Northeast,Women's,Apparel,451,18439,24.8
+2666,Vermont,2021,3,Northeast,Women's,Athletic Footwear,202,7538,24.8
+2667,Vermont,2021,3,Northeast,Women's,Street Footwear,437,14198,24.8
+2668,Vermont,2021,4,Northeast,Men's,Apparel,241,12361,37.0
+2669,Vermont,2021,4,Northeast,Men's,Athletic Footwear,349,14913,37.0
+2670,Vermont,2021,4,Northeast,Men's,Street Footwear,830,34282,37.0
+2671,Vermont,2021,4,Northeast,Women's,Apparel,480,20700,37.0
+2672,Vermont,2021,4,Northeast,Women's,Athletic Footwear,244,9084,37.0
+2673,Vermont,2021,4,Northeast,Women's,Street Footwear,364,11805,37.0
+2674,Vermont,2021,5,Northeast,Men's,Apparel,438,24646,48.2
+2675,Vermont,2021,5,Northeast,Men's,Athletic Footwear,449,23299,48.2
+2676,Vermont,2021,5,Northeast,Men's,Street Footwear,901,51166,48.2
+2677,Vermont,2021,5,Northeast,Women's,Apparel,640,38840,48.2
+2678,Vermont,2021,5,Northeast,Women's,Athletic Footwear,398,18810,48.2
+2679,Vermont,2021,5,Northeast,Women's,Street Footwear,471,22227,48.2
+2680,Vermont,2021,6,Northeast,Men's,Apparel,486,27318,59.6
+2681,Vermont,2021,6,Northeast,Men's,Athletic Footwear,636,33428,59.6
+2682,Vermont,2021,6,Northeast,Men's,Street Footwear,1008,57619,59.6
+2683,Vermont,2021,6,Northeast,Women's,Apparel,725,44246,59.6
+2684,Vermont,2021,6,Northeast,Women's,Athletic Footwear,492,23106,59.6
+2685,Vermont,2021,6,Northeast,Women's,Street Footwear,510,23535,59.6
+2686,Vermont,2021,7,Northeast,Men's,Apparel,533,29022,65.2
+2687,Vermont,2021,7,Northeast,Men's,Athletic Footwear,685,35330,65.2
+2688,Vermont,2021,7,Northeast,Men's,Street Footwear,1066,59733,65.2
+2689,Vermont,2021,7,Northeast,Women's,Apparel,800,48700,65.2
+2690,Vermont,2021,7,Northeast,Women's,Athletic Footwear,486,22596,65.2
+2691,Vermont,2021,7,Northeast,Women's,Street Footwear,557,25605,65.2
+2692,Vermont,2021,8,Northeast,Men's,Apparel,362,20301,66.8
+2693,Vermont,2021,8,Northeast,Men's,Athletic Footwear,680,35400,66.8
+2694,Vermont,2021,8,Northeast,Men's,Street Footwear,1041,58238,66.8
+2695,Vermont,2021,8,Northeast,Women's,Apparel,640,38328,66.8
+2696,Vermont,2021,8,Northeast,Women's,Athletic Footwear,403,19232,66.8
+2697,Vermont,2021,8,Northeast,Women's,Street Footwear,571,26484,66.8
+2698,Vermont,2021,9,Northeast,Men's,Apparel,318,18164,64.0
+2699,Vermont,2021,9,Northeast,Men's,Athletic Footwear,521,26787,64.0
+2700,Vermont,2021,9,Northeast,Men's,Street Footwear,841,47048,64.0
+2701,Vermont,2021,9,Northeast,Women's,Apparel,471,28287,64.0
+2702,Vermont,2021,9,Northeast,Women's,Athletic Footwear,318,14650,64.0
+2703,Vermont,2021,9,Northeast,Women's,Street Footwear,353,16706,64.0
+2704,Vermont,2021,10,Northeast,Men's,Apparel,284,18806,55.4
+2705,Vermont,2021,10,Northeast,Men's,Athletic Footwear,474,26406,55.4
+2706,Vermont,2021,10,Northeast,Men's,Street Footwear,765,46029,55.4
+2707,Vermont,2021,10,Northeast,Women's,Apparel,471,33111,55.4
+2708,Vermont,2021,10,Northeast,Women's,Athletic Footwear,282,15836,55.4
+2709,Vermont,2021,10,Northeast,Women's,Street Footwear,320,17826,55.4
+2710,Vermont,2021,11,Northeast,Men's,Apparel,446,29160,42.9
+2711,Vermont,2021,11,Northeast,Men's,Athletic Footwear,504,28561,42.9
+2712,Vermont,2021,11,Northeast,Men's,Street Footwear,716,47124,42.9
+2713,Vermont,2021,11,Northeast,Women's,Apparel,597,42001,42.9
+2714,Vermont,2021,11,Northeast,Women's,Athletic Footwear,471,26157,42.9
+2715,Vermont,2021,11,Northeast,Women's,Street Footwear,518,29364,42.9
+2716,Vermont,2021,12,Northeast,Men's,Apparel,510,33169,31.2
+2717,Vermont,2021,12,Northeast,Men's,Athletic Footwear,632,34912,31.2
+2718,Vermont,2021,12,Northeast,Men's,Street Footwear,954,61680,31.2
+2719,Vermont,2021,12,Northeast,Women's,Apparel,676,47783,31.2
+2720,Vermont,2021,12,Northeast,Women's,Athletic Footwear,507,28480,31.2
+2721,Vermont,2021,12,Northeast,Women's,Street Footwear,619,34479,31.2
+2722,Virginia,2021,1,Southeast,Men's,Apparel,712,29696,37.5
+2723,Virginia,2021,1,Southeast,Men's,Athletic Footwear,891,29722,37.5
+2724,Virginia,2021,1,Southeast,Men's,Street Footwear,1186,38511,37.5
+2725,Virginia,2021,1,Southeast,Women's,Apparel,881,28629,37.5
+2726,Virginia,2021,1,Southeast,Women's,Athletic Footwear,652,18219,37.5
+2727,Virginia,2021,1,Southeast,Women's,Street Footwear,875,20345,37.5
+2728,Virginia,2021,2,Southeast,Men's,Apparel,202,8352,36.6
+2729,Virginia,2021,2,Southeast,Men's,Athletic Footwear,720,23742,36.6
+2730,Virginia,2021,2,Southeast,Men's,Street Footwear,1256,41456,36.6
+2731,Virginia,2021,2,Southeast,Women's,Apparel,513,19288,36.6
+2732,Virginia,2021,2,Southeast,Women's,Athletic Footwear,322,11996,36.6
+2733,Virginia,2021,2,Southeast,Women's,Street Footwear,820,18840,36.6
+2734,Virginia,2021,3,Southeast,Men's,Apparel,163,8449,42.6
+2735,Virginia,2021,3,Southeast,Men's,Athletic Footwear,508,23505,42.6
+2736,Virginia,2021,3,Southeast,Men's,Street Footwear,780,29294,42.6
+2737,Virginia,2021,3,Southeast,Women's,Apparel,480,22392,42.6
+2738,Virginia,2021,3,Southeast,Women's,Athletic Footwear,393,18584,42.6
+2739,Virginia,2021,3,Southeast,Women's,Street Footwear,553,28797,42.6
+2740,Virginia,2021,4,Southeast,Men's,Apparel,200,9565,51.9
+2741,Virginia,2021,4,Southeast,Men's,Athletic Footwear,429,24311,51.9
+2742,Virginia,2021,4,Southeast,Men's,Street Footwear,746,38159,51.9
+2743,Virginia,2021,4,Southeast,Women's,Apparel,468,28722,51.9
+2744,Virginia,2021,4,Southeast,Women's,Athletic Footwear,349,14653,51.9
+2745,Virginia,2021,4,Southeast,Women's,Street Footwear,524,29019,51.9
+2746,Virginia,2021,5,Southeast,Men's,Apparel,278,11866,58.8
+2747,Virginia,2021,5,Southeast,Men's,Athletic Footwear,553,28448,58.8
+2748,Virginia,2021,5,Southeast,Men's,Street Footwear,800,37575,58.8
+2749,Virginia,2021,5,Southeast,Women's,Apparel,845,47404,58.8
+2750,Virginia,2021,5,Southeast,Women's,Athletic Footwear,429,19798,58.8
+2751,Virginia,2021,5,Southeast,Women's,Street Footwear,547,27683,58.8
+2752,Virginia,2021,6,Southeast,Men's,Apparel,632,53128,67.2
+2753,Virginia,2021,6,Southeast,Men's,Athletic Footwear,1047,63106,67.2
+2754,Virginia,2021,6,Southeast,Men's,Street Footwear,1241,63594,67.2
+2755,Virginia,2021,6,Southeast,Women's,Apparel,1113,109914,67.2
+2756,Virginia,2021,6,Southeast,Women's,Athletic Footwear,851,63448,67.2
+2757,Virginia,2021,6,Southeast,Women's,Street Footwear,1053,78299,67.2
+2758,Virginia,2021,7,Southeast,Men's,Apparel,972,82890,73.9
+2759,Virginia,2021,7,Southeast,Men's,Athletic Footwear,1127,92883,73.9
+2760,Virginia,2021,7,Southeast,Men's,Street Footwear,1377,108715,73.9
+2761,Virginia,2021,7,Southeast,Women's,Apparel,966,95532,73.9
+2762,Virginia,2021,7,Southeast,Women's,Athletic Footwear,886,71123,73.9
+2763,Virginia,2021,7,Southeast,Women's,Street Footwear,1040,87048,73.9
+2764,Virginia,2021,8,Southeast,Men's,Apparel,663,43266,76.2
+2765,Virginia,2021,8,Southeast,Men's,Athletic Footwear,1217,90072,76.2
+2766,Virginia,2021,8,Southeast,Men's,Street Footwear,1312,110144,76.2
+2767,Virginia,2021,8,Southeast,Women's,Apparel,405,28625,76.2
+2768,Virginia,2021,8,Southeast,Women's,Athletic Footwear,672,44148,76.2
+2769,Virginia,2021,8,Southeast,Women's,Street Footwear,1054,69936,76.2
+2770,Virginia,2021,9,Southeast,Men's,Apparel,355,19634,72.4
+2771,Virginia,2021,9,Southeast,Men's,Athletic Footwear,716,37205,72.4
+2772,Virginia,2021,9,Southeast,Men's,Street Footwear,712,32913,72.4
+2773,Virginia,2021,9,Southeast,Women's,Apparel,403,16928,72.4
+2774,Virginia,2021,9,Southeast,Women's,Athletic Footwear,324,15020,72.4
+2775,Virginia,2021,9,Southeast,Women's,Street Footwear,393,18207,72.4
+2776,Virginia,2021,10,Southeast,Men's,Apparel,492,25521,65.4
+2777,Virginia,2021,10,Southeast,Men's,Athletic Footwear,840,42864,65.4
+2778,Virginia,2021,10,Southeast,Men's,Street Footwear,571,21208,65.4
+2779,Virginia,2021,10,Southeast,Women's,Apparel,561,31378,65.4
+2780,Virginia,2021,10,Southeast,Women's,Athletic Footwear,524,21774,65.4
+2781,Virginia,2021,10,Southeast,Women's,Street Footwear,564,26511,65.4
+2782,Virginia,2021,11,Southeast,Men's,Apparel,672,47594,53.5
+2783,Virginia,2021,11,Southeast,Men's,Athletic Footwear,1040,47957,53.5
+2784,Virginia,2021,11,Southeast,Men's,Street Footwear,903,38267,53.5
+2785,Virginia,2021,11,Southeast,Women's,Apparel,875,65586,53.5
+2786,Virginia,2021,11,Southeast,Women's,Athletic Footwear,707,35810,53.5
+2787,Virginia,2021,11,Southeast,Women's,Street Footwear,756,32028,53.5
+2788,Virginia,2021,12,Southeast,Men's,Apparel,765,56839,45.2
+2789,Virginia,2021,12,Southeast,Men's,Athletic Footwear,1200,85050,45.2
+2790,Virginia,2021,12,Southeast,Men's,Street Footwear,1223,74402,45.2
+2791,Virginia,2021,12,Southeast,Women's,Apparel,915,73525,45.2
+2792,Virginia,2021,12,Southeast,Women's,Athletic Footwear,886,58196,45.2
+2793,Virginia,2021,12,Southeast,Women's,Street Footwear,869,57101,45.2
+2814,West Virginia,2021,1,Northeast,Men's,Apparel,158,7011,33.4
+2815,West Virginia,2021,1,Northeast,Men's,Athletic Footwear,293,10187,33.4
+2816,West Virginia,2021,1,Northeast,Men's,Street Footwear,531,18373,33.4
+2817,West Virginia,2021,1,Northeast,Women's,Apparel,284,9822,33.4
+2818,West Virginia,2021,1,Northeast,Women's,Athletic Footwear,95,2810,33.4
+2819,West Virginia,2021,1,Northeast,Women's,Street Footwear,288,7137,33.4
+2820,West Virginia,2021,2,Northeast,Men's,Apparel,315,15619,32.0
+2821,West Virginia,2021,2,Northeast,Men's,Athletic Footwear,163,5667,32.0
+2822,West Virginia,2021,2,Northeast,Men's,Street Footwear,613,21041,32.0
+2823,West Virginia,2021,2,Northeast,Women's,Apparel,455,11269,32.0
+2824,West Virginia,2021,2,Northeast,Women's,Athletic Footwear,224,7791,32.0
+2825,West Virginia,2021,2,Northeast,Women's,Street Footwear,221,5479,32.0
+2826,West Virginia,2021,3,Northeast,Men's,Apparel,284,11183,38.6
+2827,West Virginia,2021,3,Northeast,Men's,Athletic Footwear,344,10113,38.6
+2828,West Virginia,2021,3,Northeast,Men's,Street Footwear,735,21720,38.6
+2829,West Virginia,2021,3,Northeast,Women's,Apparel,406,12099,38.6
+2830,West Virginia,2021,3,Northeast,Women's,Athletic Footwear,224,5501,38.6
+2831,West Virginia,2021,3,Northeast,Women's,Street Footwear,416,8229,38.6
+2832,West Virginia,2021,4,Northeast,Men's,Apparel,256,16360,48.4
+2833,West Virginia,2021,4,Northeast,Men's,Athletic Footwear,325,9600,48.4
+2834,West Virginia,2021,4,Northeast,Men's,Street Footwear,693,20361,48.4
+2835,West Virginia,2021,4,Northeast,Women's,Apparel,419,20668,48.4
+2836,West Virginia,2021,4,Northeast,Women's,Athletic Footwear,222,5549,48.4
+2837,West Virginia,2021,4,Northeast,Women's,Street Footwear,318,6292,48.4
+2838,West Virginia,2021,5,Northeast,Men's,Apparel,293,12980,54.8
+2839,West Virginia,2021,5,Northeast,Men's,Athletic Footwear,387,15219,54.8
+2840,West Virginia,2021,5,Northeast,Men's,Street Footwear,774,46082,54.8
+2841,West Virginia,2021,5,Northeast,Women's,Apparel,445,24189,54.8
+2842,West Virginia,2021,5,Northeast,Women's,Athletic Footwear,250,8650,54.8
+2843,West Virginia,2021,5,Northeast,Women's,Street Footwear,352,12089,54.8
+2844,West Virginia,2021,6,Northeast,Men's,Apparel,349,15409,63.9
+2845,West Virginia,2021,6,Northeast,Men's,Athletic Footwear,544,21403,63.9
+2846,West Virginia,2021,6,Northeast,Men's,Street Footwear,750,33450,63.9
+2847,West Virginia,2021,6,Northeast,Women's,Apparel,540,34410,63.9
+2848,West Virginia,2021,6,Northeast,Women's,Athletic Footwear,344,11902,63.9
+2849,West Virginia,2021,6,Northeast,Women's,Street Footwear,381,13173,63.9
+2850,West Virginia,2021,7,Northeast,Men's,Apparel,387,22698,70.6
+2851,West Virginia,2021,7,Northeast,Men's,Athletic Footwear,516,27800,70.6
+2852,West Virginia,2021,7,Northeast,Men's,Street Footwear,832,49010,70.6
+2853,West Virginia,2021,7,Northeast,Women's,Apparel,608,39254,70.6
+2854,West Virginia,2021,7,Northeast,Women's,Athletic Footwear,352,17446,70.6
+2855,West Virginia,2021,7,Northeast,Women's,Street Footwear,423,21052,70.6
+2856,West Virginia,2021,8,Northeast,Men's,Apparel,318,15832,73.0
+2857,West Virginia,2021,8,Northeast,Men's,Athletic Footwear,390,17280,73.0
+2858,West Virginia,2021,8,Northeast,Men's,Street Footwear,656,32276,73.0
+2859,West Virginia,2021,8,Northeast,Women's,Apparel,540,29585,73.0
+2860,West Virginia,2021,8,Northeast,Women's,Athletic Footwear,347,13592,73.0
+2861,West Virginia,2021,8,Northeast,Women's,Street Footwear,387,15306,73.0
+2862,West Virginia,2021,9,Northeast,Men's,Apparel,286,9827,69.7
+2863,West Virginia,2021,9,Northeast,Men's,Athletic Footwear,441,13139,69.7
+2864,West Virginia,2021,9,Northeast,Men's,Street Footwear,704,24486,69.7
+2865,West Virginia,2021,9,Northeast,Women's,Apparel,375,14700,69.7
+2866,West Virginia,2021,9,Northeast,Women's,Athletic Footwear,284,6982,69.7
+2867,West Virginia,2021,9,Northeast,Women's,Street Footwear,318,7882,69.7
+2868,West Virginia,2021,10,Northeast,Men's,Apparel,228,10047,62.4
+2869,West Virginia,2021,10,Northeast,Men's,Athletic Footwear,355,12185,62.4
+2870,West Virginia,2021,10,Northeast,Men's,Street Footwear,540,23839,62.4
+2871,West Virginia,2021,10,Northeast,Women's,Apparel,384,18947,62.4
+2872,West Virginia,2021,10,Northeast,Women's,Athletic Footwear,222,7629,62.4
+2873,West Virginia,2021,10,Northeast,Women's,Street Footwear,219,7577,62.4
+2874,West Virginia,2021,11,Northeast,Men's,Apparel,378,24336,50.2
+2875,West Virginia,2021,11,Northeast,Men's,Athletic Footwear,445,15385,50.2
+2876,West Virginia,2021,11,Northeast,Men's,Street Footwear,567,25397,50.2
+2877,West Virginia,2021,11,Northeast,Women's,Apparel,500,34400,50.2
+2878,West Virginia,2021,11,Northeast,Women's,Athletic Footwear,416,16458,50.2
+2879,West Virginia,2021,11,Northeast,Women's,Street Footwear,372,12789,50.2
+2880,West Virginia,2021,12,Northeast,Men's,Apparel,445,28545,41.8
+2881,West Virginia,2021,12,Northeast,Men's,Athletic Footwear,585,31770,41.8
+2882,West Virginia,2021,12,Northeast,Men's,Street Footwear,826,52810,41.8
+2883,West Virginia,2021,12,Northeast,Women's,Apparel,572,39796,41.8
+2884,West Virginia,2021,12,Northeast,Women's,Athletic Footwear,452,24656,41.8
+2885,West Virginia,2021,12,Northeast,Women's,Street Footwear,512,27600,41.8
+2886,Wisconsin,2021,1,Midwest,Men's,Apparel,258,11377,22.2
+2887,Wisconsin,2021,1,Midwest,Men's,Athletic Footwear,378,12996,22.2
+2888,Wisconsin,2021,1,Midwest,Men's,Street Footwear,640,21980,22.2
+2889,Wisconsin,2021,1,Midwest,Women's,Apparel,384,13188,22.2
+2890,Wisconsin,2021,1,Midwest,Women's,Athletic Footwear,194,5732,22.2
+2891,Wisconsin,2021,1,Midwest,Women's,Street Footwear,387,9588,22.2
+2892,Wisconsin,2021,2,Midwest,Men's,Apparel,188,7444,15.4
+2893,Wisconsin,2021,2,Midwest,Men's,Athletic Footwear,252,8768,15.4
+2894,Wisconsin,2021,2,Midwest,Men's,Street Footwear,710,24690,15.4
+2895,Wisconsin,2021,2,Midwest,Women's,Apparel,315,4659,15.4
+2896,Wisconsin,2021,2,Midwest,Women's,Athletic Footwear,95,2335,15.4
+2897,Wisconsin,2021,2,Midwest,Women's,Street Footwear,323,8002,15.4
+2898,Wisconsin,2021,3,Midwest,Men's,Apparel,159,4736,23.8
+2899,Wisconsin,2021,3,Midwest,Men's,Athletic Footwear,219,4336,23.8
+2900,Wisconsin,2021,3,Midwest,Men's,Street Footwear,611,12079,23.8
+2901,Wisconsin,2021,3,Midwest,Women's,Apparel,288,5634,23.8
+2902,Wisconsin,2021,3,Midwest,Women's,Athletic Footwear,95,1404,23.8
+2903,Wisconsin,2021,3,Midwest,Women's,Street Footwear,284,2781,23.8
+2904,Wisconsin,2021,4,Midwest,Men's,Apparel,126,7430,40.9
+2905,Wisconsin,2021,4,Midwest,Men's,Athletic Footwear,189,3780,40.9
+2906,Wisconsin,2021,4,Midwest,Men's,Street Footwear,572,11196,40.9
+2907,Wisconsin,2021,4,Midwest,Women's,Apparel,286,14239,40.9
+2908,Wisconsin,2021,4,Midwest,Women's,Athletic Footwear,97,1454,40.9
+2909,Wisconsin,2021,4,Midwest,Women's,Street Footwear,191,1869,40.9
+2910,Wisconsin,2021,5,Midwest,Men's,Apparel,228,10206,49.8
+2911,Wisconsin,2021,5,Midwest,Men's,Athletic Footwear,250,9950,49.8
+2912,Wisconsin,2021,5,Midwest,Men's,Street Footwear,629,37472,49.8
+2913,Wisconsin,2021,5,Midwest,Women's,Apparel,390,19229,49.8
+2914,Wisconsin,2021,5,Midwest,Women's,Athletic Footwear,188,6466,49.8
+2915,Wisconsin,2021,5,Midwest,Women's,Street Footwear,224,7742,49.8
+2916,Wisconsin,2021,6,Midwest,Men's,Apparel,221,7689,62.0
+2917,Wisconsin,2021,6,Midwest,Men's,Athletic Footwear,390,11430,62.0
+2918,Wisconsin,2021,6,Midwest,Men's,Street Footwear,710,24370,62.0
+2919,Wisconsin,2021,6,Midwest,Women's,Apparel,423,22873,62.0
+2920,Wisconsin,2021,6,Midwest,Women's,Athletic Footwear,222,5503,62.0
+2921,Wisconsin,2021,6,Midwest,Women's,Street Footwear,252,6248,62.0
+2922,Wisconsin,2021,7,Midwest,Men's,Apparel,250,12400,69.4
+2923,Wisconsin,2021,7,Midwest,Men's,Athletic Footwear,387,17154,69.4
+2924,Wisconsin,2021,7,Midwest,Men's,Street Footwear,699,34205,69.4
+2925,Wisconsin,2021,7,Midwest,Women's,Apparel,469,25513,69.4
+2926,Wisconsin,2021,7,Midwest,Women's,Athletic Footwear,226,8938,69.4
+2927,Wisconsin,2021,7,Midwest,Women's,Street Footwear,286,11318,69.4
+2928,Wisconsin,2021,8,Midwest,Men's,Apparel,221,10958,69.3
+2929,Wisconsin,2021,8,Midwest,Men's,Athletic Footwear,384,17112,69.3
+2930,Wisconsin,2021,8,Midwest,Men's,Street Footwear,683,33518,69.3
+2931,Wisconsin,2021,8,Midwest,Women's,Apparel,452,24554,69.3
+2932,Wisconsin,2021,8,Midwest,Women's,Athletic Footwear,250,9950,69.3
+2933,Wisconsin,2021,8,Midwest,Women's,Street Footwear,281,11184,69.3
+2934,Wisconsin,2021,9,Midwest,Men's,Apparel,158,5464,65.2
+2935,Wisconsin,2021,9,Midwest,Men's,Athletic Footwear,315,9385,65.2
+2936,Wisconsin,2021,9,Midwest,Men's,Street Footwear,618,21344,65.2
+2937,Wisconsin,2021,9,Midwest,Women's,Apparel,252,9976,65.2
+2938,Wisconsin,2021,9,Midwest,Women's,Athletic Footwear,159,3907,65.2
+2939,Wisconsin,2021,9,Midwest,Women's,Street Footwear,194,4806,65.2
+2940,Wisconsin,2021,10,Midwest,Men's,Apparel,158,7076,57.4
+2941,Wisconsin,2021,10,Midwest,Men's,Athletic Footwear,293,10119,57.4
+2942,Wisconsin,2021,10,Midwest,Men's,Street Footwear,488,21733,57.4
+2943,Wisconsin,2021,10,Midwest,Women's,Apparel,315,15489,57.4
+2944,Wisconsin,2021,10,Midwest,Women's,Athletic Footwear,158,5431,57.4
+2945,Wisconsin,2021,10,Midwest,Women's,Street Footwear,158,5497,57.4
+2946,Wisconsin,2021,11,Midwest,Men's,Apparel,256,15248,43.6
+2947,Wisconsin,2021,11,Midwest,Men's,Athletic Footwear,378,12996,43.6
+2948,Wisconsin,2021,11,Midwest,Men's,Street Footwear,504,22263,43.6
+2949,Wisconsin,2021,11,Midwest,Women's,Apparel,375,24074,43.6
+2950,Wisconsin,2021,11,Midwest,Women's,Athletic Footwear,290,10020,43.6
+2951,Wisconsin,2021,11,Midwest,Women's,Street Footwear,314,10852,43.6
+2952,Wisconsin,2021,12,Midwest,Men's,Apparel,323,19161,29.3
+2953,Wisconsin,2021,12,Midwest,Men's,Athletic Footwear,452,22498,29.3
+2954,Wisconsin,2021,12,Midwest,Men's,Street Footwear,688,41004,29.3
+2955,Wisconsin,2021,12,Midwest,Women's,Apparel,438,27941,29.3
+2956,Wisconsin,2021,12,Midwest,Women's,Athletic Footwear,323,16004,29.3
+2957,Wisconsin,2021,12,Midwest,Women's,Street Footwear,387,18915,29.3
+2958,Wyoming,2021,1,West,Men's,Apparel,195,8640,24.0
+2959,Wyoming,2021,1,West,Men's,Athletic Footwear,455,17780,24.0
+2960,Wyoming,2021,1,West,Men's,Street Footwear,441,13139,24.0
+2961,Wyoming,2021,1,West,Women's,Apparel,516,20408,24.0
+2962,Wyoming,2021,1,West,Women's,Athletic Footwear,254,10052,24.0
+2963,Wyoming,2021,1,West,Women's,Street Footwear,441,17549,24.0
+2964,Wyoming,2021,2,West,Men's,Apparel,645,31815,20.4
+2965,Wyoming,2021,2,West,Men's,Athletic Footwear,455,17780,20.4
+2966,Wyoming,2021,2,West,Men's,Street Footwear,563,16551,20.4
+2967,Wyoming,2021,2,West,Women's,Apparel,774,30612,20.4
+2968,Wyoming,2021,2,West,Women's,Athletic Footwear,548,18811,20.4
+2969,Wyoming,2021,2,West,Women's,Street Footwear,438,17432,20.4
+2970,Wyoming,2021,3,West,Men's,Apparel,576,28422,24.8
+2971,Wyoming,2021,3,West,Men's,Athletic Footwear,656,25847,24.8
+2972,Wyoming,2021,3,West,Men's,Street Footwear,1066,42148,24.8
+2973,Wyoming,2021,3,West,Women's,Apparel,715,28105,24.8
+2974,Wyoming,2021,3,West,Women's,Athletic Footwear,512,17696,24.8
+2975,Wyoming,2021,3,West,Women's,Street Footwear,699,20523,24.8
+2976,Wyoming,2021,4,West,Men's,Apparel,531,26232,35.0
+2977,Wyoming,2021,4,West,Men's,Athletic Footwear,640,25460,35.0
+2978,Wyoming,2021,4,West,Men's,Street Footwear,1008,40112,35.0
+2979,Wyoming,2021,4,West,Women's,Apparel,699,27364,35.0
+2980,Wyoming,2021,4,West,Women's,Athletic Footwear,544,18802,35.0
+2981,Wyoming,2021,4,West,Women's,Street Footwear,645,19060,35.0
+2982,Wyoming,2021,5,West,Men's,Apparel,608,29735,43.4
+2983,Wyoming,2021,5,West,Men's,Athletic Footwear,677,29857,43.4
+2984,Wyoming,2021,5,West,Men's,Street Footwear,1066,52070,43.4
+2985,Wyoming,2021,5,West,Women's,Apparel,756,41112,43.4
+2986,Wyoming,2021,5,West,Women's,Athletic Footwear,581,23109,43.4
+2987,Wyoming,2021,5,West,Women's,Street Footwear,645,25655,43.4
+2988,Wyoming,2021,6,West,Men's,Apparel,635,31615,56.8
+2989,Wyoming,2021,6,West,Men's,Athletic Footwear,768,34056,56.8
+2990,Wyoming,2021,6,West,Men's,Street Footwear,1097,53862,56.8
+2991,Wyoming,2021,6,West,Women's,Apparel,813,43900,56.8
+2992,Wyoming,2021,6,West,Women's,Athletic Footwear,640,25320,56.8
+2993,Wyoming,2021,6,West,Women's,Street Footwear,656,25978,56.8
+2994,Wyoming,2021,7,West,Men's,Apparel,662,32826,67.4
+2995,Wyoming,2021,7,West,Men's,Athletic Footwear,788,35297,67.4
+2996,Wyoming,2021,7,West,Men's,Street Footwear,1103,54694,67.4
+2997,Wyoming,2021,7,West,Women's,Apparel,896,48496,67.4
+2998,Wyoming,2021,7,West,Women's,Athletic Footwear,650,25850,67.4
+2999,Wyoming,2021,7,West,Women's,Street Footwear,699,27662,67.4
+3000,Wyoming,2021,8,West,Men's,Apparel,640,31580,67.1
+3001,Wyoming,2021,8,West,Men's,Athletic Footwear,788,35134,67.1
+3002,Wyoming,2021,8,West,Men's,Street Footwear,1105,54485,67.1
+3003,Wyoming,2021,8,West,Women's,Apparel,871,47317,67.1
+3004,Wyoming,2021,8,West,Women's,Athletic Footwear,672,26586,67.1
+3005,Wyoming,2021,8,West,Women's,Street Footwear,693,27434,67.1
+3006,Wyoming,2021,9,West,Men's,Apparel,625,31000,61.1
+3007,Wyoming,2021,9,West,Men's,Athletic Footwear,750,33600,61.1
+3008,Wyoming,2021,9,West,Men's,Street Footwear,1008,49984,61.1
+3009,Wyoming,2021,9,West,Women's,Apparel,774,42048,61.1
+3010,Wyoming,2021,9,West,Women's,Athletic Footwear,635,25130,61.1
+3011,Wyoming,2021,9,West,Women's,Street Footwear,662,26206,61.1
+3012,Wyoming,2021,10,West,Men's,Apparel,603,33037,51.0
+3013,Wyoming,2021,10,West,Men's,Athletic Footwear,774,34656,51.0
+3014,Wyoming,2021,10,West,Men's,Street Footwear,977,52725,51.0
+3015,Wyoming,2021,10,West,Women's,Apparel,750,44250,51.0
+3016,Wyoming,2021,10,West,Women's,Athletic Footwear,594,26254,51.0
+3017,Wyoming,2021,10,West,Women's,Street Footwear,625,27750,51.0
+3018,Wyoming,2021,11,West,Men's,Apparel,618,33418,40.2
+3019,Wyoming,2021,11,West,Men's,Athletic Footwear,742,32889,40.2
+3020,Wyoming,2021,11,West,Men's,Street Footwear,968,52804,40.2
+3021,Wyoming,2021,11,West,Women's,Apparel,736,43355,40.2
+3022,Wyoming,2021,11,West,Women's,Athletic Footwear,635,28170,40.2
+3023,Wyoming,2021,11,West,Women's,Street Footwear,666,29532,40.2
+3024,Wyoming,2021,12,West,Men's,Apparel,645,35330,31.3
+3025,Wyoming,2021,12,West,Men's,Athletic Footwear,768,34392,31.3
+3026,Wyoming,2021,12,West,Men's,Street Footwear,1024,55648,31.3
+3027,Wyoming,2021,12,West,Women's,Apparel,774,45744,31.3
+3028,Wyoming,2021,12,West,Women's,Athletic Footwear,635,28440,31.3
+3029,Wyoming,2021,12,West,Women's,Street Footwear,715,32010,31.3
